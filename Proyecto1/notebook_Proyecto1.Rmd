@@ -1,0 +1,16 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+```{r}
+#importacion de librerias 
+library(ggplot2)
+
+#importacion de datos
+datos <- estadisticas_policiales_2024_xls
+
+print(datos)
+```
+
