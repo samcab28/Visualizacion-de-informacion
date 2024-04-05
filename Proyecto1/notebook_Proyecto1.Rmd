@@ -7,6 +7,7 @@ output: html_notebook
 ```{r}
 #importacion de librerias 
 library(ggplot2)
+library(plotly)
 
 #importacion de datos
 datos <- estadisticas_policiales_2024_xls
@@ -14,3 +15,75 @@ datos <- estadisticas_policiales_2024_xls
 print(datos)
 ```
 
+
+graficas unidimensionales
+
+
+```{r}
+library(dplyr)
+# Crear una tabla resumen con la cantidad de datos por combinación de variables
+datos_resumen <- datos %>%
+  group_by(Delito, Provincia, Victima, Edad, Genero) %>%
+  summarise(Cantidad = n())
+
+# Crear el gráfico de puntos
+grafico_puntos <- ggplot(datos_resumen, aes(x = Delito, y = Provincia, color = Victima, shape = Genero, size = Cantidad)) +
+  geom_point(alpha = 0.7) +
+  labs(x = "Delito", y = "Provincia", title = "Gráfico de Puntos Multidimensional") +
+  scale_shape_manual(values = c(1, 2, 3)) +  # Definir formas para género (1:círculo, 2:triángulo, 3:cruz)
+  scale_color_manual(values = c("blue", "red")) +  # Definir colores para víctima (azul: no víctima, rojo: víctima)
+  theme_minimal()
+
+# Convertir el gráfico a un gráfico interactivo
+grafico_puntos_interactivo <- ggplotly(grafico_puntos)
+grafico_puntos_interactivo
+
+```
+
+
+
+
+```{r}
+
+```
+
+
+
+```{r}
+
+```
+
+
+
+```{r}
+
+```
+
+
+```{r}
+
+```
+
+
+
+```{r}
+
+```
+
+
+
+
+```{r}
+
+```
+
+
+```{r}
+
+```
+
+
+
+```{r}
+
+```
