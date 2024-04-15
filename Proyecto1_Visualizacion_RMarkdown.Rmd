@@ -14,6 +14,7 @@ library(highcharter)
 library(htmlwidgets)
 library(dplyr)
 library(readxl)
+library(knitr)
 
 ################################################################################################################
 #importacion de datos
@@ -89,6 +90,15 @@ grafico_edad <- ggplot(datos_filtrados, aes(x = Edad, fill=Edad)) +
 grafico_edad_interactivo <- ggplotly(grafico_edad)
 grafico_edad_interactivo
 ```
+
+## Imagen Compuesta
+
+La imagen compuesta se crea a partir de todas las gráficas unidimensionales de frecuencia previamente vistas. Esto permite tener una vista completa de los datos y una mejor comprensión. A continuación, se muestra la imagen:
+
+```{r include_pdf, echo=FALSE, out.width='90%', , out.height='90%'}
+knitr::include_graphics("C:\\Users\\samir\\Visualizacion\\imagen-cropped.pdf")
+```
+
 
 ## Graficas Bidimensionales
 
