@@ -52,6 +52,22 @@ grafico_delito_hora_histograma_interactivo
 
 
 ################################################################################################################
+#grafico multidimensional
+# Seleccionar las columnas necesarias
+dataAct <- datos_filtrados %>% dplyr::select(Hora, Provincia, Delito, Victima,Edad)
+
+# Crear el gráfico de sankey
+grafico_sankey <- hchart(data_to_sankey(dataAct), "sankey", name = "prueba")
+
+# Agregar título y subtítulo
+grafico_sankey <- grafico_sankey %>%
+  hc_title(text = "Representacion de delitos primer bimestre 2024") %>%
+  hc_subtitle(text = "La primera columna hace referencia a la hora del asalto, la segunda a la provincia donde se realizo, la tercera el tipo 
+              de delito, la cuarta la victima afectada y por ultimo la quinta la edad de la persona afectada")
+
+# Mostrar el gráfico
+grafico_sankey
+
 
 
 
