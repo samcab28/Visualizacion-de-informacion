@@ -1,0 +1,183 @@
+---
+title: "Proyecto1 Visualizacion de Informacion"
+author: "Cabrera Tabash Samir y Calvo Amador Gabriel"
+date: "2024-04-15"
+output: slidy_presentation
+---
+
+```{r setup, include=FALSE}
+#importacion de librerias 
+library(ggplot2)
+library(plotly)
+library(highcharter)
+library(htmlwidgets)
+library(dplyr)
+library(readxl)
+
+################################################################################################################
+#importacion de datos
+datos <- read_excel("C:\\Users\\samir\\Visualizacion\\estadisticas_policiales_2024.xls.html")
+datos_filtrados <- datos[datos$Provincia != "DESCONOCIDO", ]
+```
+
+## Introduccion
+
+El análisis exploratorio de datos (EDA) es una etapa fundamental en el proceso de análisis de datos, ya que nos permite comprender mejor la naturaleza de los datos y extraer información útil para la toma de decisiones. En este proyecto, se realiza un EDA de un conjunto de datos de estadísticas policiales del primer bimestre del año 2024 en Costa Rica. El objetivo es analizar la distribución de diferentes variables, identificar patrones y relaciones entre las mismas, y visualizar los resultados de manera clara y efectiva.
+
+El conjunto de datos contiene información detallada sobre delitos, víctimas, género, edad, provincia y hora de los incidentes policiales. A lo largo de este documento, se presentarán diversas visualizaciones que ayudarán a entender la frecuencia y distribución de los delitos, así como las características de las víctimas y su relación con otros factores.
+
+El análisis se realizará utilizando herramientas de visualización como ggplot2, plotly y highcharter, que nos permiten crear gráficos interactivos y facilitan la exploración de los datos. Además, se utilizará R Markdown para generar un informe detallado que describa el proceso de análisis, las decisiones tomadas y las conclusiones obtenidas.
+
+Este proyecto tiene como objetivo proporcionar una visión general de los datos de estadísticas policiales y mostrar cómo se pueden utilizar herramientas de visualización para comprender mejor la información contenida en ellos. Esperamos que este análisis sea de utilidad para entender la situación de la seguridad pública en Costa Rica y contribuya a la toma de decisiones informadas en este ámbito.
+
+
+## Graficas Unidimensionales
+
+### Frecuencia de tipos de delito
+El gráfico muestra la frecuencia de diferentes tipos de delitos en el conjunto de datos. Cada barra representa un tipo de delito, y la altura de la barra indica la frecuencia con la que ese delito ocurrió.
+
+En el eje x se encuentra el tipo de delito, mientras que en el eje y se muestra la frecuencia. El título del gráfico es "Frecuencia de Tipos de Delito", lo que indica que el objetivo es mostrar cómo se distribuyen los diferentes tipos de delitos en el conjunto de datos.
+```{r,echo=FALSE}
+# Crear el gráfico de barras de frecuencia de tipos de delito
+grafico_delito <- ggplot(datos_filtrados, aes(x = Delito, fill = Delito)) +
+  geom_bar() +
+  labs(x = "Tipo de Delito", y = "Frecuencia", title = "Frecuencia de Tipos de Delito") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+grafico_delito_interactivo <- ggplotly(grafico_delito)
+grafico_delito_interactivo
+```
+
+
+### Frecuencia de victimas frente a delitos
+El gráfico muestra la frecuencia de los diferentes tipos de víctimas en el conjunto de datos. Cada barra representa un tipo de víctima, y la altura de la barra indica la frecuencia con la que ese tipo de víctima fue afectado por un delito.
+
+En el eje x se encuentra el tipo de víctima, mientras que en el eje y se muestra la frecuencia. El título del gráfico es "Frecuencia de Delitos frente a Víctimas", lo que indica que el objetivo es mostrar cómo se distribuyen los diferentes tipos de víctimas en relación con los delitos.
+```{r,echo=FALSE}
+# Crear el gráfico de barras de frecuencia de víctimas
+grafico_victima <- ggplot(datos_filtrados, aes(x = Victima, fill = Victima)) +
+  geom_bar() +
+  labs(x = "Víctima", y = "Frecuencia", title = "Frecuencia de Delitos frente a Víctimas")
+grafico_victima_interactivo <- ggplotly(grafico_victima)
+grafico_victima_interactivo
+```
+
+
+### Frecuencia genero de las victimas
+El gráfico muestra la cantidad de víctimas registradas en el conjunto de datos, desglosadas por género. Cada barra representa un género, y la altura de la barra indica la cantidad de víctimas de ese género.
+
+En el eje x se encuentra el género, mientras que en el eje y se muestra la cantidad de víctimas. El título del gráfico es "Cantidad de víctimas por Género", lo que indica que el objetivo es mostrar cómo se distribuye la cantidad de víctimas según el género.
+```{r,echo=FALSE}
+# Crear el gráfico de barras de cantidad de victimas por genero
+grafico_genero <- ggplot(datos, aes(x = Genero, fill = Genero)) +
+  geom_bar() +
+  labs(x = "Género", y = "Cantidad de victimas", title = "Cantidad de victimas por Género")
+grafico_genero_interactivo <- ggplotly(grafico_genero)
+grafico_genero_interactivo
+```
+
+
+### Frecuencia de victimas por rango de edad
+El gráfico muestra la cantidad de víctimas registradas en el conjunto de datos, desglosadas por edad. Cada barra representa un rango de edad, y la altura de la barra indica la cantidad de víctimas en ese rango.
+
+En el eje x se encuentra la edad, mientras que en el eje y se muestra la cantidad de víctimas. El título del gráfico es "Cantidad de víctimas por edad", lo que indica que el objetivo es mostrar cómo se distribuye la cantidad de víctimas según la edad.
+```{r,echo=FALSE}
+# Crear el gráfico de barras de cantidad de victimas por edad
+grafico_edad <- ggplot(datos_filtrados, aes(x = Edad, fill=Edad)) +
+  geom_bar() +
+  labs(x = "Edad", y = "Cantidad de victimas", title = "Cantidad de victimas por edad")
+grafico_edad_interactivo <- ggplotly(grafico_edad)
+grafico_edad_interactivo
+```
+
+## Graficas Bidimensionales
+
+### Frecuencia de delito por provincia
+La gráfica bidimensional "Frecuencia de Delito por Provincia" muestra la distribución de diferentes tipos de delitos en cada provincia. Cada barra agrupada representa un tipo de delito, y cada grupo de barras representa una provincia.
+
+Eje X (Provincia): En el eje horizontal se encuentran las provincias, cada una representada por una barra agrupada que muestra la frecuencia de cada tipo de delito en esa provincia.
+Eje Y (Frecuencia): En el eje vertical se muestra la frecuencia de cada tipo de delito, indicando cuántas veces se ha registrado ese delito en cada provincia.
+```{r,echo=FALSE}
+# Crear el gráfico de barras de frecuencia de delito vs provincia
+grafico_delito_provincia <- ggplot(datos_filtrados, aes(x = Provincia, fill = Delito)) +
+  geom_bar(position = "dodge") +
+  labs(x = "Provincia", y = "Frecuencia", title = "Frecuencia de Delito por Provincia") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))  
+grafico_delito_provincia_interactivo <- ggplotly(grafico_delito_provincia)
+grafico_delito_provincia_interactivo
+```
+
+
+
+### Frecuencia de delitos por hora
+La gráfica "Frecuencia de Delitos por Hora" es un histograma que muestra la distribución de la frecuencia de los delitos registrados en diferentes horas del día.
+
+Eje X (Hora): En el eje horizontal se encuentran las horas del día en formato de texto agrupados en rangos de tres horas, cada una representada por una barra en el histograma.
+Eje Y (Frecuencia): En el eje vertical se muestra la frecuencia de delitos registrados en cada hora, indicando cuántas veces se ha registrado un delito en una hora específica.
+```{r,echo=FALSE}
+# Crear de frecuencia de delitos por hora
+grafico_delito_hora_histograma <- ggplot(datos, aes(x = as.factor(Hora))) +
+  geom_bar(fill = "skyblue", color = "black", stat = "count") +
+  labs(x = "Hora", y = "Frecuencia", title = "Frecuencia de Delitos por Hora") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+grafico_delito_hora_histograma_interactivo <- ggplotly(grafico_delito_hora_histograma)
+grafico_delito_hora_histograma_interactivo
+```
+
+## Graficas Multidimensionales
+
+### Grafico de Sankey con relacion de delitos
+El gráfico de Sankey muestra la relación entre cinco variables: hora del asalto, provincia donde se realizó, tipo de delito, víctima afectada y edad de la persona afectada. Cada columna en el gráfico representa una de estas variables, y las conexiones entre las columnas muestran cómo se relacionan estas variables entre sí en los datos.
+
+Columna 1 (Hora del asalto): Representa las diferentes horas en las que ocurrieron los asaltos.
+
+Columna 2 (Provincia): Muestra las provincias donde se realizaron los asaltos.
+
+Columna 3 (Tipo de delito): Indica los diferentes tipos de delitos que se cometieron.
+
+Columna 4 (Víctima afectada): Representa los tipos de víctimas que fueron afectadas por los delitos.
+
+Columna 5 (Edad de la persona afectada): Muestra las edades de las personas afectadas por los delitos.
+
+Las conexiones entre las columnas muestran cómo las diferentes variables están relacionadas entre sí. Por ejemplo, una conexión entre la hora del asalto y la provincia indica en qué horas del día ocurrieron los asaltos en cada provincia. O una conexión entre el tipo de delito y la víctima afectada muestra qué tipos de delitos afectaron a cada tipo de víctima.
+```{r,echo=FALSE}
+# Seleccionar las columnas necesarias
+dataAct <- datos_filtrados %>% dplyr::select(Hora, Provincia, Delito, Victima,Edad)
+
+# Crear el gráfico de sankey
+grafico_sankey <- hchart(data_to_sankey(dataAct), "sankey", name = "prueba")
+
+# Agregar título y subtítulo
+grafico_sankey <- grafico_sankey %>%
+  hc_title(text = "Representacion de delitos primer bimestre 2024")
+
+# Mostrar el gráfico
+grafico_sankey
+```
+
+## Graficas con facetas
+
+### Cantidad de victimas por delito y edad, desglosado por género y provincia.
+
+Eje X (Delito): En el eje horizontal se encuentran los diferentes tipos de delitos.
+Eje Y (Cantidad de víctimas): En el eje vertical se muestra la cantidad de víctimas de cada delito.
+Color (Edad): El color de las barras indica la edad de las víctimas.
+Facetas (Provincia y Género): El gráfico utiliza facetas para desglosar los datos por provincia y género. Cada faceta muestra cómo se distribuyen las víctimas por edad y delito en una provincia específica y para un género determinado.
+
+```{r,echo=FALSE}
+# Crear el gráfico de facetas de tres o más variables
+grafico_facetas <- ggplot(datos_filtrados, aes(x = Delito, fill = Edad)) +
+  geom_bar(position = "dodge") +
+  labs(x = "Delito", y = "Cantidad de victimas", title = "Cantidad de victimas por Delito y Edad desglosado por Género y Provincia") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  facet_wrap(Provincia ~ Genero)
+grafico_facetas_interactivo <- ggplotly(grafico_facetas)
+grafico_facetas_interactivo
+```
+
+
+
+## Fin
+
+
+Gracias por su atención durante la presentación.
