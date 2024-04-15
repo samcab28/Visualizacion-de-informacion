@@ -30,8 +30,26 @@ grafico_victima_interactivo <- ggplotly(grafico_victima)
 grafico_victima_interactivo
 
 
-#----------------------------------------------------------------------------------
-#graficos multidimnesionales
+
+# Crear el gráfico de barras de cantidad de victimas por edad
+grafico_genero <- ggplot(datos, aes(x = Genero, fill = Genero)) +
+  geom_bar() +
+  labs(x = "Género", y = "Cantidad de victimas", title = "Cantidad de victimas por Género")
+grafico_genero_interactivo <- ggplotly(grafico_genero)
+grafico_genero_interactivo
+
+
+# Crear el gráfico de barras de cantidad de victimas por género
+grafico_edad <- ggplot(datos_filtrados, aes(x = Edad, fill=Edad)) +
+  geom_bar() +
+  labs(x = "Edad", y = "Cantidad de victimas", title = "Cantidad de victimas por edad")
+grafico_edad_interactivo <- ggplotly(grafico_edad)
+grafico_edad_interactivo
+
+
+
+################################################################################################################
+#graficos bidimensionales
 # Crear el gráfico de barras de frecuencia de delito vs provincia
 grafico_delito_provincia <- ggplot(datos_filtrados, aes(x = Provincia, fill = Delito)) +
   geom_bar(position = "dodge") +
@@ -49,6 +67,7 @@ grafico_delito_hora_histograma <- ggplot(datos, aes(x = as.factor(Hora))) +
   theme(axis.text.x = element_text(angle = 90, hjust = 1))
 grafico_delito_hora_histograma_interactivo <- ggplotly(grafico_delito_hora_histograma)
 grafico_delito_hora_histograma_interactivo
+
 
 
 ################################################################################################################
@@ -70,7 +89,17 @@ grafico_sankey
 
 
 
+################################################################################################################
+# Crear el gráfico de facetas de tres o más variables
+grafico_facetas <- ggplot(datos_filtrados, aes(x = Delito, fill = Edad)) +
+  geom_bar(position = "dodge") +
+  labs(x = "Delito", y = "Cantidad de victimas", title = "Cantidad de victimas por Delito y Edad desglosado por Género y Provincia") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+grafico_facetas + facet_wrap(Provincia ~ Genero)
 
+# Crear el grafico interactivo
+grafico_facetas_interactivo <- ggplotly(grafico_facetas + facet_wrap(Provincia ~ Genero))
+grafico_facetas_interactivo
 
 
 
