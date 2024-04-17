@@ -9,6 +9,7 @@ library(plotly)
 library(highcharter)
 library(htmlwidgets)
 library(dplyr)
+library(treemapify)
 library(readxl)
 
 ################################################################################################################
@@ -28,13 +29,30 @@ grafico_delito_interactivo <- ggplotly(grafico_delito)
 grafico_delito_interactivo
 
 
+library(dplyr)
+library(ggplot2)
+library(plotly)
 
-# Crear el gráfico de barras de frecuencia de víctimas
-grafico_victima <- ggplot(datos_filtrados, aes(x = Victima, fill = Victima)) +
-  geom_bar() +
-  labs(x = "Víctima", y = "Frecuencia", title = "Frecuencia de Delitos frente a Víctimas")
-grafico_victima_interactivo <- ggplotly(grafico_victima)
-grafico_victima_interactivo
+# Contar los valores únicos de la variable Victima
+conteo_victimas <- datos_filtrados %>%
+  count(Victima) %>%
+  arrange(desc(n))
+
+# Crear el gráfico de mosaico
+grafico_mosaico <- ggplot(datos_filtrados, aes(weight = ..count.., fill = Victima)) +
+  geom_bar(aes(x = "", y = ..count..), stat = "count") +
+  coord_flip() +
+  labs(x = NULL, y = NULL, fill = "Victima", title = "Cantidad de Delitos por Tipo de Victima") +
+  theme_minimal() +
+  theme(legend.position = "right")
+
+# Convertir el gráfico a interactivo con plotly
+grafico_mosaico_interactivo <- ggplotly(grafico_mosaico)
+
+# Mostrar el gráfico interactivo
+grafico_mosaico_interactivo
+
+
 
 
 
