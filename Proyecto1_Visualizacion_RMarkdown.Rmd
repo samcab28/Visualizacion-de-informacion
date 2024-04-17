@@ -79,21 +79,27 @@ grafico_genero_interactivo
 
 
 ### Frecuencia de victimas por rango de edad
-El gráfico muestra la cantidad de víctimas registradas en el conjunto de datos, desglosadas por edad. Cada barra representa un rango de edad, y la altura de la barra indica la cantidad de víctimas en ese rango.
 
-En el eje x se encuentra la edad, mientras que en el eje y se muestra la cantidad de víctimas. El título del gráfico es "Cantidad de víctimas por edad", lo que indica que el objetivo es mostrar cómo se distribuye la cantidad de víctimas según la edad.
+Este gráfico representa la cantidad de víctimas registradas en el conjunto de datos, agrupadas por edad. Cada barra en el gráfico representa un rango de edad, y la altura de la barra indica la cantidad de víctimas en ese rango. El eje x muestra los grupos de edad, mientras que el eje y representa la cantidad de víctimas. El título del gráfico es "Cantidad de víctimas por edad", lo que indica claramente el objetivo de visualizar la distribución de las víctimas según su edad.
 ```{r,echo=FALSE}
-# Crear el gráfico de barras de cantidad de victimas por edad
-grafico_edad <- ggplot(datos_filtrados, aes(x = Edad, fill=Edad)) +
-  geom_bar() +
-  labs(x = "Edad", y = "Cantidad de victimas", title = "Cantidad de victimas por edad")
-grafico_edad_interactivo <- ggplotly(grafico_edad)
-grafico_edad_interactivo
+# Crear el gráfico de barras apiladas
+resumen_edad <- datos_filtrados %>%
+  group_by(Edad) %>%
+  summarize(Cantidad = n())
+grafico_edad_apilado <- ggplot(resumen_edad, aes(x = "", y = Cantidad, fill = Edad)) +
+  geom_bar(stat = "identity") +
+  labs(x = "", y = "Cantidad de víctimas", fill = "Edad", title = "Cantidad de víctimas por edad") +
+  theme_minimal() +
+  theme(legend.position = "right")
+# Convertir el gráfico a interactivo con plotly
+grafico_edad_interactivo_apilado <- ggplotly(grafico_edad_apilado)
+# Mostrar el gráfico interactivo
+grafico_edad_interactivo_apilado
 ```
 
 ## Imagen Compuesta
 
-La imagen compuesta se crea a partir de todas las gráficas unidimensionales de frecuencia previamente vistas. Esto permite tener una vista completa de los datos y una mejor comprensión. A continuación, se muestra la imagen:
+La imagen compuesta se crea a partir de todas las gráficas unidimensionales de frecuencia, para una visualizacion mas interesante se decidio que se dejaran todas en grafica de barras ya que esto permite tener una relacion de datos inmediata al ser todas similares entre si. Esto permite tener una vista completa de los datos y una mejor comprensión. A continuación, se muestra la imagen:
 
 ```{r include_pdf, echo=FALSE, out.width='90%', , out.height='90%'}
 knitr::include_graphics("C:\\Users\\samir\\Visualizacion\\imagen-cropped.pdf")
@@ -180,11 +186,12 @@ Facetas (Provincia y Género): El gráfico utiliza facetas para desglosar los da
 grafico_facetas <- ggplot(datos_filtrados, aes(x = Delito, fill = Edad)) +
   geom_bar(position = "dodge") +
   labs(x = "Delito", y = "Cantidad de victimas", title = "Cantidad de victimas por Delito y Edad desglosado por Género y Provincia") +
-  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
   facet_wrap(Provincia ~ Genero)
 grafico_facetas_interactivo <- ggplotly(grafico_facetas)
 grafico_facetas_interactivo
 ```
+
 
 
 

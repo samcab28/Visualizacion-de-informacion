@@ -106,7 +106,7 @@ grafico_sankey
 
 ################################################################################################################
 
-# Crear el gráfico de facetas con otra combinación de variables
+# Crear el gráfico de facetas 
 grafico_facetas_otra <- ggplot(datos_filtrados, aes(x = Delito, fill = Edad)) +
   geom_bar(position = "dodge") +
   labs(x = "Delito", y = "Cantidad de víctimas", title = "Cantidad de víctimas por Delito y Edad desglosado por Género y Hora") +
