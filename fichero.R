@@ -30,12 +30,24 @@ grafico_delito_interactivo
 
 
 # Crear el gráfico de barras de frecuencia de víctimas
-grafico_victima <- ggplot(datos_filtrados, aes(x = Victima, fill = Victima)) +
-  geom_bar() +
-  labs(x = "Víctima", y = "Frecuencia", title = "Frecuencia de Delitos frente a Víctimas")
-grafico_victima_interactivo <- ggplotly(grafico_victima)
-grafico_victima_interactivo
+conteo_victimas <- datos_filtrados %>%
+  count(Victima) %>%
+  mutate(porcentaje = n / sum(n) * 100)
 
+# Crear la gráfica de barras
+grafico_delito <- ggplot(conteo_victimas, aes(x = "", y = porcentaje, fill = Victima)) +
+  geom_bar(stat = "identity", width = 1) +
+  coord_polar("y", start = 0) +
+  labs(title = "Porcentaje de cada tipo de víctima") +
+  scale_fill_brewer(palette = "Set3") +
+  theme_minimal() +
+  theme(legend.position = "bottom")
+
+# Convertir la gráfica a interactiva
+grafico_delito_interactivo <- ggplotly(grafico_delito)
+
+# Mostrar el gráfico interactivo
+grafico_delito_interactivo
 
 
 # Crear el gráfico de barras de cantidad de victimas por edad
@@ -46,12 +58,19 @@ grafico_genero_interactivo <- ggplotly(grafico_genero)
 grafico_genero_interactivo
 
 
-# Crear el gráfico de barras de cantidad de victimas por género
-grafico_edad <- ggplot(datos_filtrados, aes(x = Edad, fill=Edad)) +
-  geom_bar() +
-  labs(x = "Edad", y = "Cantidad de victimas", title = "Cantidad de victimas por edad")
-grafico_edad_interactivo <- ggplotly(grafico_edad)
-grafico_edad_interactivo
+# Crear el gráfico de barras apiladas
+resumen_edad <- datos_filtrados %>%
+  group_by(Edad) %>%
+  summarize(Cantidad = n())
+grafico_edad_apilado <- ggplot(resumen_edad, aes(x = "", y = Cantidad, fill = Edad)) +
+  geom_bar(stat = "identity") +
+  labs(x = "", y = "Cantidad de víctimas", fill = "Edad", title = "Cantidad de víctimas por edad") +
+  theme_minimal() +
+  theme(legend.position = "right")
+# Convertir el gráfico a interactivo con plotly
+grafico_edad_interactivo_apilado <- ggplotly(grafico_edad_apilado)
+# Mostrar el gráfico interactivo
+grafico_edad_interactivo_apilado
 
 
 
