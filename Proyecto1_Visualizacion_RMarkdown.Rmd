@@ -176,29 +176,23 @@ grafico_sankey
 
 ### Cantidad de victimas por delito y edad, desglosado por género y provincia.
 
-Eje X (Delito): Este eje muestra los diferentes tipos de delitos considerados en el análisis.
 
-Eje Y (Cantidad de víctimas): Representa la cantidad de víctimas asociadas a cada tipo de delito. La altura de las barras indica cuántas víctimas hubo para cada categoría de delito.
-
-Color (Edad): El color de las barras indica la edad de las víctimas. Cada color representa un rango de edad diferente, lo que permite visualizar la distribución de las víctimas por edad dentro de cada tipo de delito.
-
-Facetas (Género y Hora): El gráfico utiliza facetas para desglosar los datos por género y hora. Cada faceta muestra cómo se distribuyen las víctimas por edad y delito para un género específico y en un momento del día determinado. Esto proporciona una visión detallada de cómo varía la distribución de las víctimas según el género y la hora del día en que ocurrieron los delitos.
-
-En resumen, el gráfico de facetas proporciona una visualización detallada de la cantidad de víctimas por tipo de delito, desglosada por edad, género y hora, lo que permite identificar patrones o tendencias en los datos.
+El código filtra los datos para excluir las filas donde el género es desconocido y luego crea un gráfico de barras con facetas. Este gráfico muestra la cantidad de víctimas por tipo de delito, desglosado por edad y género, y además, facetas por provincia. Cada barra en el gráfico representa la cantidad de víctimas para un tipo de delito específico, con diferentes colores que indican diferentes rangos de edad. Las facetas separan los datos por provincia y género, lo que permite analizar cómo varía la distribución de las víctimas según la provincia, el género y la edad. El resultado es una visualización detallada que ayuda a identificar patrones o tendencias en los datos de víctimas de delitos.
 
 ```{r,echo=FALSE}
-# Crear el gráfico de facetas 
-grafico_facetas_otra <- ggplot(datos_filtrados, aes(x = Delito, fill = Edad)) +
+
+datos_filtrados_faceta <- datos_filtrados[datos_filtrados$Genero != "DESCONOCIDO",]
+
+# Crear el gráfico de facetas de tres o más variables
+grafico_facetas <- ggplot(datos_filtrados_faceta, aes(x = Delito, fill = Edad)) +
   geom_bar(position = "dodge") +
-  labs(x = "Delito", y = "Cantidad de víctimas", title = "Cantidad de víctimas por Delito y Edad desglosado por Género y Hora") +
-  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
-  facet_wrap(~ Genero + Hora)
+  labs(x = "Delito", y = "Cantidad de victimas", title = "Cantidad de victimas por Delito y Edad desglosado por Género y Provincia") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+grafico_facetas + facet_wrap(Provincia ~ Genero)
 
-# Convertir el gráfico a interactivo con plotly
-grafico_facetas_interactivo_otra <- ggplotly(grafico_facetas_otra)
+# Crear el grafico interactivo
+grafico_facetas_interactivo <- ggplotly(grafico_facetas + facet_wrap(Provincia ~ Genero))
 
-# Mostrar el gráfico interactivo
-grafico_facetas_interactivo_otra
 
 ```
 
