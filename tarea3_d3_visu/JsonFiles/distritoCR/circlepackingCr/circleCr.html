@@ -26,6 +26,7 @@
   </style>
 </head>
 <body>
+  <h1>Población de las provincias de Costa Rica con Circle Packing</h1>
   <div id="my_dataviz"></div>
 
   <script>
@@ -73,7 +74,7 @@
       };
       var mousemove = function(d) {
         Tooltip
-          .html('<u>' + d.PROVINCIA + '</u>' + "<br>" + d.POBLACION + " inhabitants")
+          .html('<u>' + d.PROVINCIA + '</u>' + "<br>" + d.POBLACION + "  habitantes")
           .style("left", (d3.mouse(this)[0] + 20) + "px")
           .style("top", (d3.mouse(this)[1]) + "px");
       };
