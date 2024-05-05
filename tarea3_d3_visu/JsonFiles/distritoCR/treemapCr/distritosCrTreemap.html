@@ -29,11 +29,11 @@
             .attr("text-anchor", "middle")
             .attr("font-size", "24px")
             .attr("font-weight", "bold")
-            .text("Cantones de las Provincias de Costa Rica");
+            .text("Cantones de las Provincias de Costa Rica con grafico Treemap");
 
         // read json data
         // Read the data
-        d3.json("distritosCRJson.json", function(data) {
+        d3.json("../distritosCRJson.json", function(data) {
 
             data.sort(function(a, b) {
                 return a.PROVINCIA.localeCompare(b.PROVINCIA);
