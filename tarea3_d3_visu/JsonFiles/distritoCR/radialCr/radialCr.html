@@ -12,7 +12,7 @@
     <!-- Create a select element for province selection -->
     <label for="province-select">Selecciona una provincia:</label>
     <select id="province-select"></select>
-    
+    <a href='../../../index.html'>Regresar a la página principal</a>
     <!-- Create a div where the graph will take place -->
     <div id="my_dataviz"></div>
 
@@ -28,7 +28,7 @@
             .attr("width", width)
             .attr("height", height)
             .append("g")
-            .attr("transform", "translate(" + width / 2 + "," + (height / 2 + 50) + ")"); // Move the whole chart down by 50px
+            .attr("transform", "translate(" + width / 2 + "," + (height / 2.3 ) + ")"); // Move the whole chart down by 50px
 
 
         // read json data
@@ -118,7 +118,9 @@
                 .on("change", function() {
                     var selectedProvince = d3.select(this).property("value");
                     updateChart(selectedProvince);
-                });
+            });
+
+
         });
     </script>
 </body>

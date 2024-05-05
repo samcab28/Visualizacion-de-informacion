@@ -96,6 +96,9 @@
                 .attr("transform", "rotate(-90)") // Rotate text vertically
                 .text(function(d) { return d.data.key; });
 
+            // Add a link to go back
+            d3.select("body").append("p").html("<a href='../../../index.html'>Regresar a la página principal</a>");
+
         });
     </script>
 </body>
