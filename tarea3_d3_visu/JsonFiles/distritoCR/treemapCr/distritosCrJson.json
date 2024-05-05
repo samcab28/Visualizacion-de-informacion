@@ -1,6 +1,9 @@
 [
   {
     "ID": "SanJosé.SanJosé.Carmen",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "SanJosé",
+    "DISTRITO": "Carmen",
     "COD_POSTAL": 10101,
     "AREA_KM2": 1.47,
     "POBL_2022": 2946,
@@ -9,6 +12,9 @@
   },
   {
     "ID": "SanJosé.SanJosé.Merced",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "SanJosé",
+    "DISTRITO": "Merced",
     "COD_POSTAL": 10102,
     "AREA_KM2": 2.17,
     "POBL_2022": 15408,
@@ -17,6 +23,9 @@
   },
   {
     "ID": "SanJosé.SanJosé.Hospital",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "SanJosé",
+    "DISTRITO": "Hospital",
     "COD_POSTAL": 10103,
     "AREA_KM2": 3.3,
     "POBL_2022": 24030,
@@ -25,6 +34,9 @@
   },
   {
     "ID": "SanJosé.SanJosé.Catedral",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "SanJosé",
+    "DISTRITO": "Catedral",
     "COD_POSTAL": 10104,
     "AREA_KM2": 2.35,
     "POBL_2022": 15682,
@@ -33,6 +45,9 @@
   },
   {
     "ID": "SanJosé.SanJosé.Zapote",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "SanJosé",
+    "DISTRITO": "Zapote",
     "COD_POSTAL": 10105,
     "AREA_KM2": 2.87,
     "POBL_2022": 21990,
@@ -41,6 +56,9 @@
   },
   {
     "ID": "SanJosé.SanJosé.SanFranciscodeDosRíos",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "SanJosé",
+    "DISTRITO": "SanFranciscodeDosRíos",
     "COD_POSTAL": 10106,
     "AREA_KM2": 2.64,
     "POBL_2022": 23745,
@@ -49,6 +67,9 @@
   },
   {
     "ID": "SanJosé.SanJosé.Uruca",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "SanJosé",
+    "DISTRITO": "Uruca",
     "COD_POSTAL": 10107,
     "AREA_KM2": 8.44,
     "POBL_2022": 42861,
@@ -57,6 +78,9 @@
   },
   {
     "ID": "SanJosé.SanJosé.MataRedonda",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "SanJosé",
+    "DISTRITO": "MataRedonda",
     "COD_POSTAL": 10108,
     "AREA_KM2": 3.69,
     "POBL_2022": 10119,
@@ -65,6 +89,9 @@
   },
   {
     "ID": "SanJosé.SanJosé.Pavas",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "SanJosé",
+    "DISTRITO": "Pavas",
     "COD_POSTAL": 10109,
     "AREA_KM2": 9.39,
     "POBL_2022": 89531,
@@ -73,6 +100,9 @@
   },
   {
     "ID": "SanJosé.SanJosé.Hatillo",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "SanJosé",
+    "DISTRITO": "Hatillo",
     "COD_POSTAL": 10110,
     "AREA_KM2": 4.38,
     "POBL_2022": 60723,
@@ -81,6 +111,9 @@
   },
   {
     "ID": "SanJosé.SanJosé.SanSebastián",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "SanJosé",
+    "DISTRITO": "SanSebastián",
     "COD_POSTAL": 10111,
     "AREA_KM2": 4.01,
     "POBL_2022": 44923,
@@ -89,6 +122,9 @@
   },
   {
     "ID": "SanJosé.Escazú.Escazú",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Escazú",
+    "DISTRITO": "Escazú",
     "COD_POSTAL": 10201,
     "AREA_KM2": 4.56,
     "POBL_2022": 13752,
@@ -97,6 +133,9 @@
   },
   {
     "ID": "SanJosé.Escazú.SanAntonio",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Escazú",
+    "DISTRITO": "SanAntonio",
     "COD_POSTAL": 10202,
     "AREA_KM2": 17.01,
     "POBL_2022": 28329,
@@ -105,6 +144,9 @@
   },
   {
     "ID": "SanJosé.Escazú.SanRafael",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Escazú",
+    "DISTRITO": "SanRafael",
     "COD_POSTAL": 10203,
     "AREA_KM2": 12.96,
     "POBL_2022": 29121,
@@ -113,6 +155,9 @@
   },
   {
     "ID": "SanJosé.Desamparados.Desamparados",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Desamparados",
+    "DISTRITO": "Desamparados",
     "COD_POSTAL": 10301,
     "AREA_KM2": 3.31,
     "POBL_2022": 37479,
@@ -121,6 +166,9 @@
   },
   {
     "ID": "SanJosé.Desamparados.SanMiguel",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Desamparados",
+    "DISTRITO": "SanMiguel",
     "COD_POSTAL": 10302,
     "AREA_KM2": 21.36,
     "POBL_2022": 38716,
@@ -129,6 +177,9 @@
   },
   {
     "ID": "SanJosé.Desamparados.SanJuandeDios",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Desamparados",
+    "DISTRITO": "SanJuandeDios",
     "COD_POSTAL": 10303,
     "AREA_KM2": 2.98,
     "POBL_2022": 24505,
@@ -137,6 +188,9 @@
   },
   {
     "ID": "SanJosé.Desamparados.SanRafaelArriba",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Desamparados",
+    "DISTRITO": "SanRafaelArriba",
     "COD_POSTAL": 10304,
     "AREA_KM2": 3.21,
     "POBL_2022": 18412,
@@ -145,6 +199,9 @@
   },
   {
     "ID": "SanJosé.Desamparados.SanAntonio",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Desamparados",
+    "DISTRITO": "SanAntonio",
     "COD_POSTAL": 10305,
     "AREA_KM2": 2.1,
     "POBL_2022": 11343,
@@ -153,6 +210,9 @@
   },
   {
     "ID": "SanJosé.Desamparados.Frailes",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Desamparados",
+    "DISTRITO": "Frailes",
     "COD_POSTAL": 10306,
     "AREA_KM2": 19.57,
     "POBL_2022": 4586,
@@ -161,6 +221,9 @@
   },
   {
     "ID": "SanJosé.Desamparados.Patarrá",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Desamparados",
+    "DISTRITO": "Patarrá",
     "COD_POSTAL": 10307,
     "AREA_KM2": 16.09,
     "POBL_2022": 14919,
@@ -169,6 +232,9 @@
   },
   {
     "ID": "SanJosé.Desamparados.SanCristóbal",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Desamparados",
+    "DISTRITO": "SanCristóbal",
     "COD_POSTAL": 10308,
     "AREA_KM2": 25.47,
     "POBL_2022": 4769,
@@ -177,6 +243,9 @@
   },
   {
     "ID": "SanJosé.Desamparados.Rosario",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Desamparados",
+    "DISTRITO": "Rosario",
     "COD_POSTAL": 10309,
     "AREA_KM2": 14.77,
     "POBL_2022": 3787,
@@ -185,6 +254,9 @@
   },
   {
     "ID": "SanJosé.Desamparados.Damas",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Desamparados",
+    "DISTRITO": "Damas",
     "COD_POSTAL": 10310,
     "AREA_KM2": 2.57,
     "POBL_2022": 15713,
@@ -193,6 +265,9 @@
   },
   {
     "ID": "SanJosé.Desamparados.SanRafaelAbajo",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Desamparados",
+    "DISTRITO": "SanRafaelAbajo",
     "COD_POSTAL": 10311,
     "AREA_KM2": 2.01,
     "POBL_2022": 26781,
@@ -201,6 +276,9 @@
   },
   {
     "ID": "SanJosé.Desamparados.Gravilias",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Desamparados",
+    "DISTRITO": "Gravilias",
     "COD_POSTAL": 10312,
     "AREA_KM2": 2.94,
     "POBL_2022": 17237,
@@ -209,6 +287,9 @@
   },
   {
     "ID": "SanJosé.Desamparados.LosGuido",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Desamparados",
+    "DISTRITO": "LosGuido",
     "COD_POSTAL": 10313,
     "AREA_KM2": 3.01,
     "POBL_2022": 31120,
@@ -217,6 +298,9 @@
   },
   {
     "ID": "SanJosé.Puriscal.Santiago",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Puriscal",
+    "DISTRITO": "Santiago",
     "COD_POSTAL": 10401,
     "AREA_KM2": 34.52,
     "POBL_2022": 12600,
@@ -225,6 +309,9 @@
   },
   {
     "ID": "SanJosé.Puriscal.MercedesSur",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Puriscal",
+    "DISTRITO": "MercedesSur",
     "COD_POSTAL": 10402,
     "AREA_KM2": 183.58,
     "POBL_2022": 7099,
@@ -233,6 +320,9 @@
   },
   {
     "ID": "SanJosé.Puriscal.Barbacoas",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Puriscal",
+    "DISTRITO": "Barbacoas",
     "COD_POSTAL": 10403,
     "AREA_KM2": 18.74,
     "POBL_2022": 4486,
@@ -241,6 +331,9 @@
   },
   {
     "ID": "SanJosé.Puriscal.GrifoAlto",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Puriscal",
+    "DISTRITO": "GrifoAlto",
     "COD_POSTAL": 10404,
     "AREA_KM2": 26.21,
     "POBL_2022": 1492,
@@ -249,6 +342,9 @@
   },
   {
     "ID": "SanJosé.Puriscal.SanRafael",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Puriscal",
+    "DISTRITO": "SanRafael",
     "COD_POSTAL": 10405,
     "AREA_KM2": 15.53,
     "POBL_2022": 2009,
@@ -257,6 +353,9 @@
   },
   {
     "ID": "SanJosé.Puriscal.Candelarita",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Puriscal",
+    "DISTRITO": "Candelarita",
     "COD_POSTAL": 10406,
     "AREA_KM2": 24.87,
     "POBL_2022": 1753,
@@ -265,6 +364,9 @@
   },
   {
     "ID": "SanJosé.Puriscal.Desamparaditos",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Puriscal",
+    "DISTRITO": "Desamparaditos",
     "COD_POSTAL": 10407,
     "AREA_KM2": 7.14,
     "POBL_2022": 794,
@@ -273,6 +375,9 @@
   },
   {
     "ID": "SanJosé.Puriscal.SanAntonio",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Puriscal",
+    "DISTRITO": "SanAntonio",
     "COD_POSTAL": 10408,
     "AREA_KM2": 14.5,
     "POBL_2022": 4720,
@@ -281,6 +386,9 @@
   },
   {
     "ID": "SanJosé.Puriscal.Chires",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Puriscal",
+    "DISTRITO": "Chires",
     "COD_POSTAL": 10409,
     "AREA_KM2": 230.47,
     "POBL_2022": 3640,
@@ -289,6 +397,9 @@
   },
   {
     "ID": "SanJosé.Tarrazú.SanMarcos",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Tarrazú",
+    "DISTRITO": "SanMarcos",
     "COD_POSTAL": 10501,
     "AREA_KM2": 45.53,
     "POBL_2022": 11365,
@@ -297,6 +408,9 @@
   },
   {
     "ID": "SanJosé.Tarrazú.SanLorenzo",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Tarrazú",
+    "DISTRITO": "SanLorenzo",
     "COD_POSTAL": 10502,
     "AREA_KM2": 185.64,
     "POBL_2022": 5250,
@@ -305,6 +419,9 @@
   },
   {
     "ID": "SanJosé.Tarrazú.SanCarlos",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Tarrazú",
+    "DISTRITO": "SanCarlos",
     "COD_POSTAL": 10503,
     "AREA_KM2": 58.58,
     "POBL_2022": 2172,
@@ -313,6 +430,9 @@
   },
   {
     "ID": "SanJosé.Aserrí.Aserrí",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Aserrí",
+    "DISTRITO": "Aserrí",
     "COD_POSTAL": 10601,
     "AREA_KM2": 15.25,
     "POBL_2022": 30347,
@@ -321,6 +441,9 @@
   },
   {
     "ID": "SanJosé.Aserrí.Tarbaca",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Aserrí",
+    "DISTRITO": "Tarbaca",
     "COD_POSTAL": 10602,
     "AREA_KM2": 15.33,
     "POBL_2022": 1676,
@@ -329,6 +452,9 @@
   },
   {
     "ID": "SanJosé.Aserrí.VueltadeJorco",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Aserrí",
+    "DISTRITO": "VueltadeJorco",
     "COD_POSTAL": 10603,
     "AREA_KM2": 22.04,
     "POBL_2022": 7342,
@@ -337,6 +463,9 @@
   },
   {
     "ID": "SanJosé.Aserrí.SanGabriel",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Aserrí",
+    "DISTRITO": "SanGabriel",
     "COD_POSTAL": 10604,
     "AREA_KM2": 11.76,
     "POBL_2022": 6930,
@@ -345,6 +474,9 @@
   },
   {
     "ID": "SanJosé.Aserrí.Legua",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Aserrí",
+    "DISTRITO": "Legua",
     "COD_POSTAL": 10605,
     "AREA_KM2": 81.51,
     "POBL_2022": 1748,
@@ -353,6 +485,9 @@
   },
   {
     "ID": "SanJosé.Aserrí.Monterrey",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Aserrí",
+    "DISTRITO": "Monterrey",
     "COD_POSTAL": 10606,
     "AREA_KM2": 8.36,
     "POBL_2022": 558,
@@ -361,6 +496,9 @@
   },
   {
     "ID": "SanJosé.Aserrí.Salitrillos",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Aserrí",
+    "DISTRITO": "Salitrillos",
     "COD_POSTAL": 10607,
     "AREA_KM2": 14.35,
     "POBL_2022": 15879,
@@ -369,6 +507,9 @@
   },
   {
     "ID": "SanJosé.Mora.Colón",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Mora",
+    "DISTRITO": "Colón",
     "COD_POSTAL": 10701,
     "AREA_KM2": 40.12,
     "POBL_2022": 17411,
@@ -377,6 +518,9 @@
   },
   {
     "ID": "SanJosé.Mora.Guayabo",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Mora",
+    "DISTRITO": "Guayabo",
     "COD_POSTAL": 10702,
     "AREA_KM2": 8.99,
     "POBL_2022": 5414,
@@ -385,6 +529,9 @@
   },
   {
     "ID": "SanJosé.Mora.Tabarcia",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Mora",
+    "DISTRITO": "Tabarcia",
     "COD_POSTAL": 10703,
     "AREA_KM2": 40.39,
     "POBL_2022": 5160,
@@ -393,6 +540,9 @@
   },
   {
     "ID": "SanJosé.Mora.PiedrasNegras",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Mora",
+    "DISTRITO": "PiedrasNegras",
     "COD_POSTAL": 10704,
     "AREA_KM2": 14.84,
     "POBL_2022": 498,
@@ -401,6 +551,9 @@
   },
   {
     "ID": "SanJosé.Mora.Picagres",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Mora",
+    "DISTRITO": "Picagres",
     "COD_POSTAL": 10705,
     "AREA_KM2": 27.2,
     "POBL_2022": 899,
@@ -409,6 +562,9 @@
   },
   {
     "ID": "SanJosé.Mora.Jaris",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Mora",
+    "DISTRITO": "Jaris",
     "COD_POSTAL": 10706,
     "AREA_KM2": 5.53,
     "POBL_2022": 1377,
@@ -417,6 +573,9 @@
   },
   {
     "ID": "SanJosé.Mora.Quitirrisí",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Mora",
+    "DISTRITO": "Quitirrisí",
     "COD_POSTAL": 10707,
     "AREA_KM2": 26.69,
     "POBL_2022": "",
@@ -425,6 +584,9 @@
   },
   {
     "ID": "SanJosé.Goicoechea.Guadalupe",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Goicoechea",
+    "DISTRITO": "Guadalupe",
     "COD_POSTAL": 10801,
     "AREA_KM2": 2.38,
     "POBL_2022": 22347,
@@ -433,6 +595,9 @@
   },
   {
     "ID": "SanJosé.Goicoechea.SanFrancisco",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Goicoechea",
+    "DISTRITO": "SanFrancisco",
     "COD_POSTAL": 10802,
     "AREA_KM2": 0.57,
     "POBL_2022": 2421,
@@ -441,6 +606,9 @@
   },
   {
     "ID": "SanJosé.Goicoechea.CalleBlancos",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Goicoechea",
+    "DISTRITO": "CalleBlancos",
     "COD_POSTAL": 10803,
     "AREA_KM2": 2.36,
     "POBL_2022": 23451,
@@ -449,6 +617,9 @@
   },
   {
     "ID": "SanJosé.Goicoechea.MatadePlátano",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Goicoechea",
+    "DISTRITO": "MatadePlátano",
     "COD_POSTAL": 10804,
     "AREA_KM2": 7.85,
     "POBL_2022": 21198,
@@ -457,6 +628,9 @@
   },
   {
     "ID": "SanJosé.Goicoechea.Ipís",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Goicoechea",
+    "DISTRITO": "Ipís",
     "COD_POSTAL": 10805,
     "AREA_KM2": 2.37,
     "POBL_2022": 32049,
@@ -465,6 +639,9 @@
   },
   {
     "ID": "SanJosé.Goicoechea.RanchoRedondo",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Goicoechea",
+    "DISTRITO": "RanchoRedondo",
     "COD_POSTAL": 10806,
     "AREA_KM2": 13.38,
     "POBL_2022": 3224,
@@ -473,6 +650,9 @@
   },
   {
     "ID": "SanJosé.Goicoechea.Purral",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Goicoechea",
+    "DISTRITO": "Purral",
     "COD_POSTAL": 10807,
     "AREA_KM2": 3.11,
     "POBL_2022": 36074,
@@ -481,6 +661,9 @@
   },
   {
     "ID": "SanJosé.SantaAna.SantaAna",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "SantaAna",
+    "DISTRITO": "SantaAna",
     "COD_POSTAL": 10901,
     "AREA_KM2": 5.4,
     "POBL_2022": 12956,
@@ -489,6 +672,9 @@
   },
   {
     "ID": "SanJosé.SantaAna.Salitral",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "SantaAna",
+    "DISTRITO": "Salitral",
     "COD_POSTAL": 10902,
     "AREA_KM2": 20.2,
     "POBL_2022": 5587,
@@ -497,6 +683,9 @@
   },
   {
     "ID": "SanJosé.SantaAna.Pozos",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "SantaAna",
+    "DISTRITO": "Pozos",
     "COD_POSTAL": 10903,
     "AREA_KM2": 13.34,
     "POBL_2022": 20671,
@@ -505,6 +694,9 @@
   },
   {
     "ID": "SanJosé.SantaAna.Uruca",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "SantaAna",
+    "DISTRITO": "Uruca",
     "COD_POSTAL": 10904,
     "AREA_KM2": 7.07,
     "POBL_2022": 9129,
@@ -513,6 +705,9 @@
   },
   {
     "ID": "SanJosé.SantaAna.Piedades",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "SantaAna",
+    "DISTRITO": "Piedades",
     "COD_POSTAL": 10905,
     "AREA_KM2": 12.01,
     "POBL_2022": 10263,
@@ -521,6 +716,9 @@
   },
   {
     "ID": "SanJosé.SantaAna.Brasil",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "SantaAna",
+    "DISTRITO": "Brasil",
     "COD_POSTAL": 10906,
     "AREA_KM2": 3.25,
     "POBL_2022": 3247,
@@ -529,6 +727,9 @@
   },
   {
     "ID": "SanJosé.Alajuelita.Alajuelita",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Alajuelita",
+    "DISTRITO": "Alajuelita",
     "COD_POSTAL": 11001,
     "AREA_KM2": 1.3,
     "POBL_2022": 13325,
@@ -537,6 +738,9 @@
   },
   {
     "ID": "SanJosé.Alajuelita.SanJosecito",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Alajuelita",
+    "DISTRITO": "SanJosecito",
     "COD_POSTAL": 11002,
     "AREA_KM2": 2.42,
     "POBL_2022": 13069,
@@ -545,6 +749,9 @@
   },
   {
     "ID": "SanJosé.Alajuelita.SanAntonio",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Alajuelita",
+    "DISTRITO": "SanAntonio",
     "COD_POSTAL": 11003,
     "AREA_KM2": 10.22,
     "POBL_2022": 6003,
@@ -553,6 +760,9 @@
   },
   {
     "ID": "SanJosé.Alajuelita.Concepción",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Alajuelita",
+    "DISTRITO": "Concepción",
     "COD_POSTAL": 11004,
     "AREA_KM2": 2.4,
     "POBL_2022": 23455,
@@ -561,6 +771,9 @@
   },
   {
     "ID": "SanJosé.Alajuelita.SanFelipe",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Alajuelita",
+    "DISTRITO": "SanFelipe",
     "COD_POSTAL": 11005,
     "AREA_KM2": 5.1,
     "POBL_2022": 41306,
@@ -569,6 +782,9 @@
   },
   {
     "ID": "SanJosé.VázquezdeCoronado.SanIsidro",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "VázquezdeCoronado",
+    "DISTRITO": "SanIsidro",
     "COD_POSTAL": 11101,
     "AREA_KM2": 5.14,
     "POBL_2022": 18631,
@@ -577,6 +793,9 @@
   },
   {
     "ID": "SanJosé.VázquezdeCoronado.SanRafael",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "VázquezdeCoronado",
+    "DISTRITO": "SanRafael",
     "COD_POSTAL": 11102,
     "AREA_KM2": 16.95,
     "POBL_2022": 8643,
@@ -585,6 +804,9 @@
   },
   {
     "ID": "SanJosé.VázquezdeCoronado.DulceNombredeJesús",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "VázquezdeCoronado",
+    "DISTRITO": "DulceNombredeJesús",
     "COD_POSTAL": 11103,
     "AREA_KM2": 67.86,
     "POBL_2022": 12149,
@@ -593,6 +815,9 @@
   },
   {
     "ID": "SanJosé.VázquezdeCoronado.Patalillo",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "VázquezdeCoronado",
+    "DISTRITO": "Patalillo",
     "COD_POSTAL": 11104,
     "AREA_KM2": 1.97,
     "POBL_2022": 24907,
@@ -601,6 +826,9 @@
   },
   {
     "ID": "SanJosé.VázquezdeCoronado.Cascajal",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "VázquezdeCoronado",
+    "DISTRITO": "Cascajal",
     "COD_POSTAL": 11105,
     "AREA_KM2": 131.72,
     "POBL_2022": 8602,
@@ -609,6 +837,9 @@
   },
   {
     "ID": "SanJosé.Acosta.SanIgnacio",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Acosta",
+    "DISTRITO": "SanIgnacio",
     "COD_POSTAL": 11201,
     "AREA_KM2": 22.63,
     "POBL_2022": 9475,
@@ -617,6 +848,9 @@
   },
   {
     "ID": "SanJosé.Acosta.Guaitil",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Acosta",
+    "DISTRITO": "Guaitil",
     "COD_POSTAL": 11202,
     "AREA_KM2": 43.85,
     "POBL_2022": 2685,
@@ -625,6 +859,9 @@
   },
   {
     "ID": "SanJosé.Acosta.Palmichal",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Acosta",
+    "DISTRITO": "Palmichal",
     "COD_POSTAL": 11203,
     "AREA_KM2": 34.17,
     "POBL_2022": 5308,
@@ -633,6 +870,9 @@
   },
   {
     "ID": "SanJosé.Acosta.Cangrejal",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Acosta",
+    "DISTRITO": "Cangrejal",
     "COD_POSTAL": 11204,
     "AREA_KM2": 64.46,
     "POBL_2022": 2121,
@@ -641,6 +881,9 @@
   },
   {
     "ID": "SanJosé.Acosta.Sabanillas",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Acosta",
+    "DISTRITO": "Sabanillas",
     "COD_POSTAL": 11205,
     "AREA_KM2": 176.83,
     "POBL_2022": 2668,
@@ -649,6 +892,9 @@
   },
   {
     "ID": "SanJosé.Tibás.SanJuan",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Tibás",
+    "DISTRITO": "SanJuan",
     "COD_POSTAL": 11301,
     "AREA_KM2": 3.56,
     "POBL_2022": 25866,
@@ -657,6 +903,9 @@
   },
   {
     "ID": "SanJosé.Tibás.CincoEsquinas",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Tibás",
+    "DISTRITO": "CincoEsquinas",
     "COD_POSTAL": 11302,
     "AREA_KM2": 0.67,
     "POBL_2022": 8617,
@@ -665,6 +914,9 @@
   },
   {
     "ID": "SanJosé.Tibás.AnselmoLlorente",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Tibás",
+    "DISTRITO": "AnselmoLlorente",
     "COD_POSTAL": 11303,
     "AREA_KM2": 1.36,
     "POBL_2022": 12913,
@@ -673,6 +925,9 @@
   },
   {
     "ID": "SanJosé.Tibás.LeónXIII",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Tibás",
+    "DISTRITO": "LeónXIII",
     "COD_POSTAL": 11304,
     "AREA_KM2": 0.78,
     "POBL_2022": 20551,
@@ -681,6 +936,9 @@
   },
   {
     "ID": "SanJosé.Tibás.Colima",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Tibás",
+    "DISTRITO": "Colima",
     "COD_POSTAL": 11305,
     "AREA_KM2": 2,
     "POBL_2022": 18118,
@@ -689,6 +947,9 @@
   },
   {
     "ID": "SanJosé.Moravia.SanVicente",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Moravia",
+    "DISTRITO": "SanVicente",
     "COD_POSTAL": 11401,
     "AREA_KM2": 5.39,
     "POBL_2022": 32041,
@@ -697,6 +958,9 @@
   },
   {
     "ID": "SanJosé.Moravia.SanJerónimo",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Moravia",
+    "DISTRITO": "SanJerónimo",
     "COD_POSTAL": 11402,
     "AREA_KM2": 18.58,
     "POBL_2022": 7463,
@@ -705,6 +969,9 @@
   },
   {
     "ID": "SanJosé.Moravia.LaTrinidad",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Moravia",
+    "DISTRITO": "LaTrinidad",
     "COD_POSTAL": 11403,
     "AREA_KM2": 4.94,
     "POBL_2022": 23755,
@@ -713,6 +980,9 @@
   },
   {
     "ID": "SanJosé.MontesdeOca.SanPedro",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "MontesdeOca",
+    "DISTRITO": "SanPedro",
     "COD_POSTAL": 11501,
     "AREA_KM2": 4.7,
     "POBL_2022": 28844,
@@ -721,6 +991,9 @@
   },
   {
     "ID": "SanJosé.MontesdeOca.Sabanilla",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "MontesdeOca",
+    "DISTRITO": "Sabanilla",
     "COD_POSTAL": 11502,
     "AREA_KM2": 1.78,
     "POBL_2022": 14082,
@@ -729,6 +1002,9 @@
   },
   {
     "ID": "SanJosé.MontesdeOca.Mercedes",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "MontesdeOca",
+    "DISTRITO": "Mercedes",
     "COD_POSTAL": 11503,
     "AREA_KM2": 1.44,
     "POBL_2022": 6086,
@@ -737,6 +1013,9 @@
   },
   {
     "ID": "SanJosé.MontesdeOca.SanRafael",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "MontesdeOca",
+    "DISTRITO": "SanRafael",
     "COD_POSTAL": 11504,
     "AREA_KM2": 7.74,
     "POBL_2022": 13832,
@@ -745,6 +1024,9 @@
   },
   {
     "ID": "SanJosé.Turrubares.SanPablo",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Turrubares",
+    "DISTRITO": "SanPablo",
     "COD_POSTAL": 11601,
     "AREA_KM2": 26.37,
     "POBL_2022": 1573,
@@ -753,6 +1035,9 @@
   },
   {
     "ID": "SanJosé.Turrubares.SanPedro",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Turrubares",
+    "DISTRITO": "SanPedro",
     "COD_POSTAL": 11602,
     "AREA_KM2": 39.11,
     "POBL_2022": 861,
@@ -761,6 +1046,9 @@
   },
   {
     "ID": "SanJosé.Turrubares.SanJuandeMata",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Turrubares",
+    "DISTRITO": "SanJuandeMata",
     "COD_POSTAL": 11603,
     "AREA_KM2": 86.17,
     "POBL_2022": 1546,
@@ -769,6 +1057,9 @@
   },
   {
     "ID": "SanJosé.Turrubares.SanLuis",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Turrubares",
+    "DISTRITO": "SanLuis",
     "COD_POSTAL": 11604,
     "AREA_KM2": 43.71,
     "POBL_2022": 721,
@@ -777,6 +1068,9 @@
   },
   {
     "ID": "SanJosé.Turrubares.Carara",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Turrubares",
+    "DISTRITO": "Carara",
     "COD_POSTAL": 11605,
     "AREA_KM2": 220.35,
     "POBL_2022": 2330,
@@ -785,6 +1079,9 @@
   },
   {
     "ID": "SanJosé.Dota.SantaMaría",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Dota",
+    "DISTRITO": "SantaMaría",
     "COD_POSTAL": 11701,
     "AREA_KM2": 92.84,
     "POBL_2022": 5251,
@@ -793,6 +1090,9 @@
   },
   {
     "ID": "SanJosé.Dota.Jardín",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Dota",
+    "DISTRITO": "Jardín",
     "COD_POSTAL": 11702,
     "AREA_KM2": 32.71,
     "POBL_2022": 702,
@@ -801,6 +1101,9 @@
   },
   {
     "ID": "SanJosé.Dota.Copey",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Dota",
+    "DISTRITO": "Copey",
     "COD_POSTAL": 11703,
     "AREA_KM2": 279.41,
     "POBL_2022": 2088,
@@ -809,6 +1112,9 @@
   },
   {
     "ID": "SanJosé.Curridabat.Curridabat",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Curridabat",
+    "DISTRITO": "Curridabat",
     "COD_POSTAL": 11801,
     "AREA_KM2": 6.16,
     "POBL_2022": 32605,
@@ -817,6 +1123,9 @@
   },
   {
     "ID": "SanJosé.Curridabat.Granadilla",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Curridabat",
+    "DISTRITO": "Granadilla",
     "COD_POSTAL": 11802,
     "AREA_KM2": 3.52,
     "POBL_2022": 19207,
@@ -825,6 +1134,9 @@
   },
   {
     "ID": "SanJosé.Curridabat.Sánchez",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Curridabat",
+    "DISTRITO": "Sánchez",
     "COD_POSTAL": 11803,
     "AREA_KM2": 4.53,
     "POBL_2022": 6833,
@@ -833,6 +1145,9 @@
   },
   {
     "ID": "SanJosé.Curridabat.Tirrases",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "Curridabat",
+    "DISTRITO": "Tirrases",
     "COD_POSTAL": 11804,
     "AREA_KM2": 1.87,
     "POBL_2022": 22032,
@@ -841,6 +1156,9 @@
   },
   {
     "ID": "SanJosé.PérezZeledón.SanIsidrodeElGeneral",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "PérezZeledón",
+    "DISTRITO": "SanIsidrodeElGeneral",
     "COD_POSTAL": 11901,
     "AREA_KM2": 191.53,
     "POBL_2022": 48435,
@@ -849,6 +1167,9 @@
   },
   {
     "ID": "SanJosé.PérezZeledón.ElGeneral",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "PérezZeledón",
+    "DISTRITO": "ElGeneral",
     "COD_POSTAL": 11902,
     "AREA_KM2": 76.35,
     "POBL_2022": 6873,
@@ -857,6 +1178,9 @@
   },
   {
     "ID": "SanJosé.PérezZeledón.DanielFlores",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "PérezZeledón",
+    "DISTRITO": "DanielFlores",
     "COD_POSTAL": 11903,
     "AREA_KM2": 64.3,
     "POBL_2022": 35584,
@@ -865,6 +1189,9 @@
   },
   {
     "ID": "SanJosé.PérezZeledón.Rivas",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "PérezZeledón",
+    "DISTRITO": "Rivas",
     "COD_POSTAL": 11904,
     "AREA_KM2": 310.28,
     "POBL_2022": 7318,
@@ -873,6 +1200,9 @@
   },
   {
     "ID": "SanJosé.PérezZeledón.SanPedro",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "PérezZeledón",
+    "DISTRITO": "SanPedro",
     "COD_POSTAL": 11905,
     "AREA_KM2": 205.96,
     "POBL_2022": 9344,
@@ -881,6 +1211,9 @@
   },
   {
     "ID": "SanJosé.PérezZeledón.Platanares",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "PérezZeledón",
+    "DISTRITO": "Platanares",
     "COD_POSTAL": 11906,
     "AREA_KM2": 79.84,
     "POBL_2022": 7497,
@@ -889,6 +1222,9 @@
   },
   {
     "ID": "SanJosé.PérezZeledón.Pejibaye",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "PérezZeledón",
+    "DISTRITO": "Pejibaye",
     "COD_POSTAL": 11907,
     "AREA_KM2": 140.78,
     "POBL_2022": 7972,
@@ -897,6 +1233,9 @@
   },
   {
     "ID": "SanJosé.PérezZeledón.Cajón",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "PérezZeledón",
+    "DISTRITO": "Cajón",
     "COD_POSTAL": 11908,
     "AREA_KM2": 118.86,
     "POBL_2022": 9045,
@@ -905,6 +1244,9 @@
   },
   {
     "ID": "SanJosé.PérezZeledón.Barú",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "PérezZeledón",
+    "DISTRITO": "Barú",
     "COD_POSTAL": 11909,
     "AREA_KM2": 191.42,
     "POBL_2022": 2854,
@@ -913,6 +1255,9 @@
   },
   {
     "ID": "SanJosé.PérezZeledón.RíoNuevo",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "PérezZeledón",
+    "DISTRITO": "RíoNuevo",
     "COD_POSTAL": 11910,
     "AREA_KM2": 240.68,
     "POBL_2022": 3495,
@@ -921,6 +1266,9 @@
   },
   {
     "ID": "SanJosé.PérezZeledón.Páramo",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "PérezZeledón",
+    "DISTRITO": "Páramo",
     "COD_POSTAL": 11911,
     "AREA_KM2": 203.17,
     "POBL_2022": 4865,
@@ -929,6 +1277,9 @@
   },
   {
     "ID": "SanJosé.PérezZeledón.LaAmistad",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "PérezZeledón",
+    "DISTRITO": "LaAmistad",
     "COD_POSTAL": 11912,
     "AREA_KM2": 76.11,
     "POBL_2022": "",
@@ -937,6 +1288,9 @@
   },
   {
     "ID": "SanJosé.LeónCortés.SanPablo",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "LeónCortés",
+    "DISTRITO": "SanPablo",
     "COD_POSTAL": 12001,
     "AREA_KM2": 20.86,
     "POBL_2022": 4663,
@@ -945,6 +1299,9 @@
   },
   {
     "ID": "SanJosé.LeónCortés.SanAndrés",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "LeónCortés",
+    "DISTRITO": "SanAndrés",
     "COD_POSTAL": 12002,
     "AREA_KM2": 16.08,
     "POBL_2022": 1746,
@@ -953,6 +1310,9 @@
   },
   {
     "ID": "SanJosé.LeónCortés.LlanoBonito",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "LeónCortés",
+    "DISTRITO": "LlanoBonito",
     "COD_POSTAL": 12003,
     "AREA_KM2": 34.51,
     "POBL_2022": 2269,
@@ -961,6 +1321,9 @@
   },
   {
     "ID": "SanJosé.LeónCortés.SanIsidro",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "LeónCortés",
+    "DISTRITO": "SanIsidro",
     "COD_POSTAL": 12004,
     "AREA_KM2": 18.86,
     "POBL_2022": 1870,
@@ -969,6 +1332,9 @@
   },
   {
     "ID": "SanJosé.LeónCortés.SantaCruz",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "LeónCortés",
+    "DISTRITO": "SantaCruz",
     "COD_POSTAL": 12005,
     "AREA_KM2": 21.97,
     "POBL_2022": 2164,
@@ -977,6 +1343,9 @@
   },
   {
     "ID": "SanJosé.LeónCortés.SanAntonio",
+    "PROVINCIA": "SanJosé",
+    "CANTON": "LeónCortés",
+    "DISTRITO": "SanAntonio",
     "COD_POSTAL": 12006,
     "AREA_KM2": 10.15,
     "POBL_2022": 1278,
@@ -985,6 +1354,9 @@
   },
   {
     "ID": "Alajuela.Alajuela.Alajuela",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Alajuela",
+    "DISTRITO": "Alajuela",
     "COD_POSTAL": 20101,
     "AREA_KM2": 8.89,
     "POBL_2022": 48326,
@@ -993,6 +1365,9 @@
   },
   {
     "ID": "Alajuela.Alajuela.SanJosé",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Alajuela",
+    "DISTRITO": "SanJosé",
     "COD_POSTAL": 20102,
     "AREA_KM2": 14.69,
     "POBL_2022": 52686,
@@ -1001,6 +1376,9 @@
   },
   {
     "ID": "Alajuela.Alajuela.Carrizal",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Alajuela",
+    "DISTRITO": "Carrizal",
     "COD_POSTAL": 20103,
     "AREA_KM2": 16.12,
     "POBL_2022": 9002,
@@ -1009,6 +1387,9 @@
   },
   {
     "ID": "Alajuela.Alajuela.SanAntonio",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Alajuela",
+    "DISTRITO": "SanAntonio",
     "COD_POSTAL": 20104,
     "AREA_KM2": 8.93,
     "POBL_2022": 31637,
@@ -1017,6 +1398,9 @@
   },
   {
     "ID": "Alajuela.Alajuela.Guácima",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Alajuela",
+    "DISTRITO": "Guácima",
     "COD_POSTAL": 20105,
     "AREA_KM2": 28.04,
     "POBL_2022": 26642,
@@ -1025,6 +1409,9 @@
   },
   {
     "ID": "Alajuela.Alajuela.SanIsidro",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Alajuela",
+    "DISTRITO": "SanIsidro",
     "COD_POSTAL": 20106,
     "AREA_KM2": 36.09,
     "POBL_2022": 22586,
@@ -1033,6 +1420,9 @@
   },
   {
     "ID": "Alajuela.Alajuela.Sabanilla",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Alajuela",
+    "DISTRITO": "Sabanilla",
     "COD_POSTAL": 20107,
     "AREA_KM2": 43.05,
     "POBL_2022": 12396,
@@ -1041,6 +1431,9 @@
   },
   {
     "ID": "Alajuela.Alajuela.SanRafael",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Alajuela",
+    "DISTRITO": "SanRafael",
     "COD_POSTAL": 20108,
     "AREA_KM2": 19.29,
     "POBL_2022": 34182,
@@ -1049,6 +1442,9 @@
   },
   {
     "ID": "Alajuela.Alajuela.RíoSegundo",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Alajuela",
+    "DISTRITO": "RíoSegundo",
     "COD_POSTAL": 20109,
     "AREA_KM2": 5.57,
     "POBL_2022": 13561,
@@ -1057,6 +1453,9 @@
   },
   {
     "ID": "Alajuela.Alajuela.Desamparados",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Alajuela",
+    "DISTRITO": "Desamparados",
     "COD_POSTAL": 20110,
     "AREA_KM2": 12.95,
     "POBL_2022": 33654,
@@ -1065,6 +1464,9 @@
   },
   {
     "ID": "Alajuela.Alajuela.Turrúcares",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Alajuela",
+    "DISTRITO": "Turrúcares",
     "COD_POSTAL": 20111,
     "AREA_KM2": 35.99,
     "POBL_2022": 9349,
@@ -1073,6 +1475,9 @@
   },
   {
     "ID": "Alajuela.Alajuela.Tambor",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Alajuela",
+    "DISTRITO": "Tambor",
     "COD_POSTAL": 20112,
     "AREA_KM2": 13.88,
     "POBL_2022": 14338,
@@ -1081,6 +1486,9 @@
   },
   {
     "ID": "Alajuela.Alajuela.Garita",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Alajuela",
+    "DISTRITO": "Garita",
     "COD_POSTAL": 20113,
     "AREA_KM2": 33.91,
     "POBL_2022": 9492,
@@ -1089,6 +1497,9 @@
   },
   {
     "ID": "Alajuela.Alajuela.Sarapiquí",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Alajuela",
+    "DISTRITO": "Sarapiquí",
     "COD_POSTAL": 20114,
     "AREA_KM2": 113.98,
     "POBL_2022": 4021,
@@ -1097,6 +1508,9 @@
   },
   {
     "ID": "Alajuela.SanRamón.SanRamón",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanRamón",
+    "DISTRITO": "SanRamón",
     "COD_POSTAL": 20201,
     "AREA_KM2": 1.28,
     "POBL_2022": 9107,
@@ -1105,6 +1519,9 @@
   },
   {
     "ID": "Alajuela.SanRamón.Santiago",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanRamón",
+    "DISTRITO": "Santiago",
     "COD_POSTAL": 20202,
     "AREA_KM2": 61,
     "POBL_2022": 5699,
@@ -1113,6 +1530,9 @@
   },
   {
     "ID": "Alajuela.SanRamón.SanJuan",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanRamón",
+    "DISTRITO": "SanJuan",
     "COD_POSTAL": 20203,
     "AREA_KM2": 5.09,
     "POBL_2022": 13406,
@@ -1121,6 +1541,9 @@
   },
   {
     "ID": "Alajuela.SanRamón.PiedadesNorte",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanRamón",
+    "DISTRITO": "PiedadesNorte",
     "COD_POSTAL": 20204,
     "AREA_KM2": 47.2,
     "POBL_2022": 9564,
@@ -1129,6 +1552,9 @@
   },
   {
     "ID": "Alajuela.SanRamón.PiedadesSur",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanRamón",
+    "DISTRITO": "PiedadesSur",
     "COD_POSTAL": 20205,
     "AREA_KM2": 116.29,
     "POBL_2022": 4603,
@@ -1137,6 +1563,9 @@
   },
   {
     "ID": "Alajuela.SanRamón.SanRafael",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanRamón",
+    "DISTRITO": "SanRafael",
     "COD_POSTAL": 20206,
     "AREA_KM2": 30.73,
     "POBL_2022": 10904,
@@ -1145,6 +1574,9 @@
   },
   {
     "ID": "Alajuela.SanRamón.SanIsidro",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanRamón",
+    "DISTRITO": "SanIsidro",
     "COD_POSTAL": 20207,
     "AREA_KM2": 8.72,
     "POBL_2022": 5938,
@@ -1153,6 +1585,9 @@
   },
   {
     "ID": "Alajuela.SanRamón.Ángeles",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanRamón",
+    "DISTRITO": "Ángeles",
     "COD_POSTAL": 20208,
     "AREA_KM2": 81.41,
     "POBL_2022": 9793,
@@ -1161,6 +1596,9 @@
   },
   {
     "ID": "Alajuela.SanRamón.Alfaro",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanRamón",
+    "DISTRITO": "Alfaro",
     "COD_POSTAL": 20209,
     "AREA_KM2": 17.87,
     "POBL_2022": 8402,
@@ -1169,6 +1607,9 @@
   },
   {
     "ID": "Alajuela.SanRamón.Volio",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanRamón",
+    "DISTRITO": "Volio",
     "COD_POSTAL": 20210,
     "AREA_KM2": 20.46,
     "POBL_2022": 2727,
@@ -1177,6 +1618,9 @@
   },
   {
     "ID": "Alajuela.SanRamón.Concepción",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanRamón",
+    "DISTRITO": "Concepción",
     "COD_POSTAL": 20211,
     "AREA_KM2": 9.49,
     "POBL_2022": 2765,
@@ -1185,6 +1629,9 @@
   },
   {
     "ID": "Alajuela.SanRamón.Zapotal",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanRamón",
+    "DISTRITO": "Zapotal",
     "COD_POSTAL": 20212,
     "AREA_KM2": 67.24,
     "POBL_2022": 515,
@@ -1193,6 +1640,9 @@
   },
   {
     "ID": "Alajuela.SanRamón.PeñasBlancas",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanRamón",
+    "DISTRITO": "PeñasBlancas",
     "COD_POSTAL": 20213,
     "AREA_KM2": 247.04,
     "POBL_2022": 12371,
@@ -1201,6 +1651,9 @@
   },
   {
     "ID": "Alajuela.SanRamón.SanLorenzo",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanRamón",
+    "DISTRITO": "SanLorenzo",
     "COD_POSTAL": 20214,
     "AREA_KM2": 309.15,
     "POBL_2022": "",
@@ -1209,6 +1662,9 @@
   },
   {
     "ID": "Alajuela.Grecia.Grecia",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Grecia",
+    "DISTRITO": "Grecia",
     "COD_POSTAL": 20301,
     "AREA_KM2": 7.51,
     "POBL_2022": 16146,
@@ -1217,6 +1673,9 @@
   },
   {
     "ID": "Alajuela.Grecia.SanIsidro",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Grecia",
+    "DISTRITO": "SanIsidro",
     "COD_POSTAL": 20302,
     "AREA_KM2": 17.01,
     "POBL_2022": 7293,
@@ -1225,6 +1684,9 @@
   },
   {
     "ID": "Alajuela.Grecia.SanJosé",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Grecia",
+    "DISTRITO": "SanJosé",
     "COD_POSTAL": 20303,
     "AREA_KM2": 12.36,
     "POBL_2022": 10231,
@@ -1233,6 +1695,9 @@
   },
   {
     "ID": "Alajuela.Grecia.SanRoque",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Grecia",
+    "DISTRITO": "SanRoque",
     "COD_POSTAL": 20304,
     "AREA_KM2": 27,
     "POBL_2022": 13660,
@@ -1241,6 +1706,9 @@
   },
   {
     "ID": "Alajuela.Grecia.Tacares",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Grecia",
+    "DISTRITO": "Tacares",
     "COD_POSTAL": 20305,
     "AREA_KM2": 24.82,
     "POBL_2022": 10050,
@@ -1249,6 +1717,9 @@
   },
   {
     "ID": "Alajuela.Grecia.PuentedePiedra",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Grecia",
+    "DISTRITO": "PuentedePiedra",
     "COD_POSTAL": 20307,
     "AREA_KM2": 23.07,
     "POBL_2022": 13274,
@@ -1257,6 +1728,9 @@
   },
   {
     "ID": "Alajuela.Grecia.Bolívar",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Grecia",
+    "DISTRITO": "Bolívar",
     "COD_POSTAL": 20308,
     "AREA_KM2": 30.77,
     "POBL_2022": 9018,
@@ -1265,6 +1739,9 @@
   },
   {
     "ID": "Alajuela.SanMateo.SanMateo",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanMateo",
+    "DISTRITO": "SanMateo",
     "COD_POSTAL": 20401,
     "AREA_KM2": 64.85,
     "POBL_2022": 3071,
@@ -1273,6 +1750,9 @@
   },
   {
     "ID": "Alajuela.SanMateo.Desmonte",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanMateo",
+    "DISTRITO": "Desmonte",
     "COD_POSTAL": 20402,
     "AREA_KM2": 20.19,
     "POBL_2022": 1201,
@@ -1281,6 +1761,9 @@
   },
   {
     "ID": "Alajuela.SanMateo.JesúsMaría",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanMateo",
+    "DISTRITO": "JesúsMaría",
     "COD_POSTAL": 20403,
     "AREA_KM2": 18.79,
     "POBL_2022": 1517,
@@ -1289,6 +1772,9 @@
   },
   {
     "ID": "Alajuela.SanMateo.Labrador",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanMateo",
+    "DISTRITO": "Labrador",
     "COD_POSTAL": 20404,
     "AREA_KM2": 20.96,
     "POBL_2022": 1487,
@@ -1297,6 +1783,9 @@
   },
   {
     "ID": "Alajuela.Atenas.Atenas",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Atenas",
+    "DISTRITO": "Atenas",
     "COD_POSTAL": 20501,
     "AREA_KM2": 9.76,
     "POBL_2022": 8015,
@@ -1305,6 +1794,9 @@
   },
   {
     "ID": "Alajuela.Atenas.Jesús",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Atenas",
+    "DISTRITO": "Jesús",
     "COD_POSTAL": 20502,
     "AREA_KM2": 17.96,
     "POBL_2022": 4396,
@@ -1313,6 +1805,9 @@
   },
   {
     "ID": "Alajuela.Atenas.Mercedes",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Atenas",
+    "DISTRITO": "Mercedes",
     "COD_POSTAL": 20503,
     "AREA_KM2": 7.81,
     "POBL_2022": 3832,
@@ -1321,6 +1816,9 @@
   },
   {
     "ID": "Alajuela.Atenas.SanIsidro",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Atenas",
+    "DISTRITO": "SanIsidro",
     "COD_POSTAL": 20504,
     "AREA_KM2": 14.48,
     "POBL_2022": 3521,
@@ -1329,6 +1827,9 @@
   },
   {
     "ID": "Alajuela.Atenas.Concepción",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Atenas",
+    "DISTRITO": "Concepción",
     "COD_POSTAL": 20505,
     "AREA_KM2": 21.94,
     "POBL_2022": 4261,
@@ -1337,6 +1838,9 @@
   },
   {
     "ID": "Alajuela.Atenas.SanJosé",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Atenas",
+    "DISTRITO": "SanJosé",
     "COD_POSTAL": 20506,
     "AREA_KM2": 13.44,
     "POBL_2022": 2326,
@@ -1345,6 +1849,9 @@
   },
   {
     "ID": "Alajuela.Atenas.SantaEulalia",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Atenas",
+    "DISTRITO": "SantaEulalia",
     "COD_POSTAL": 20507,
     "AREA_KM2": 14.59,
     "POBL_2022": 2510,
@@ -1353,6 +1860,9 @@
   },
   {
     "ID": "Alajuela.Atenas.Escobal",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Atenas",
+    "DISTRITO": "Escobal",
     "COD_POSTAL": 20508,
     "AREA_KM2": 26.5,
     "POBL_2022": 1019,
@@ -1361,6 +1871,9 @@
   },
   {
     "ID": "Alajuela.Naranjo.Naranjo",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Naranjo",
+    "DISTRITO": "Naranjo",
     "COD_POSTAL": 20601,
     "AREA_KM2": 17.26,
     "POBL_2022": 17348,
@@ -1369,6 +1882,9 @@
   },
   {
     "ID": "Alajuela.Naranjo.SanMiguel",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Naranjo",
+    "DISTRITO": "SanMiguel",
     "COD_POSTAL": 20602,
     "AREA_KM2": 15.52,
     "POBL_2022": 5782,
@@ -1377,6 +1893,9 @@
   },
   {
     "ID": "Alajuela.Naranjo.SanJosé",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Naranjo",
+    "DISTRITO": "SanJosé",
     "COD_POSTAL": 20603,
     "AREA_KM2": 21.12,
     "POBL_2022": 3666,
@@ -1385,6 +1904,9 @@
   },
   {
     "ID": "Alajuela.Naranjo.CirríSur",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Naranjo",
+    "DISTRITO": "CirríSur",
     "COD_POSTAL": 20604,
     "AREA_KM2": 32.07,
     "POBL_2022": 5533,
@@ -1393,6 +1915,9 @@
   },
   {
     "ID": "Alajuela.Naranjo.SanJerónimo",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Naranjo",
+    "DISTRITO": "SanJerónimo",
     "COD_POSTAL": 20605,
     "AREA_KM2": 9.12,
     "POBL_2022": 4076,
@@ -1401,6 +1926,9 @@
   },
   {
     "ID": "Alajuela.Naranjo.SanJuan",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Naranjo",
+    "DISTRITO": "SanJuan",
     "COD_POSTAL": 20606,
     "AREA_KM2": 6.78,
     "POBL_2022": 3688,
@@ -1409,6 +1937,9 @@
   },
   {
     "ID": "Alajuela.Naranjo.ElRosario",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Naranjo",
+    "DISTRITO": "ElRosario",
     "COD_POSTAL": 20607,
     "AREA_KM2": 17.21,
     "POBL_2022": 4638,
@@ -1417,6 +1948,9 @@
   },
   {
     "ID": "Alajuela.Naranjo.Palmitos",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Naranjo",
+    "DISTRITO": "Palmitos",
     "COD_POSTAL": 20608,
     "AREA_KM2": 8.09,
     "POBL_2022": 5033,
@@ -1425,6 +1959,9 @@
   },
   {
     "ID": "Alajuela.Palmares.Palmares",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Palmares",
+    "DISTRITO": "Palmares",
     "COD_POSTAL": 20701,
     "AREA_KM2": 1.14,
     "POBL_2022": 3764,
@@ -1433,6 +1970,9 @@
   },
   {
     "ID": "Alajuela.Palmares.Zaragoza",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Palmares",
+    "DISTRITO": "Zaragoza",
     "COD_POSTAL": 20702,
     "AREA_KM2": 8.34,
     "POBL_2022": 9901,
@@ -1441,6 +1981,9 @@
   },
   {
     "ID": "Alajuela.Palmares.BuenosAires",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Palmares",
+    "DISTRITO": "BuenosAires",
     "COD_POSTAL": 20703,
     "AREA_KM2": 6.88,
     "POBL_2022": 8931,
@@ -1449,6 +1992,9 @@
   },
   {
     "ID": "Alajuela.Palmares.Santiago",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Palmares",
+    "DISTRITO": "Santiago",
     "COD_POSTAL": 20704,
     "AREA_KM2": 7.94,
     "POBL_2022": 3379,
@@ -1457,6 +2003,9 @@
   },
   {
     "ID": "Alajuela.Palmares.Candelaria",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Palmares",
+    "DISTRITO": "Candelaria",
     "COD_POSTAL": 20705,
     "AREA_KM2": 4.69,
     "POBL_2022": 2457,
@@ -1465,6 +2014,9 @@
   },
   {
     "ID": "Alajuela.Palmares.Esquipulas",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Palmares",
+    "DISTRITO": "Esquipulas",
     "COD_POSTAL": 20706,
     "AREA_KM2": 5.41,
     "POBL_2022": 8435,
@@ -1473,6 +2025,9 @@
   },
   {
     "ID": "Alajuela.Palmares.LaGranja",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Palmares",
+    "DISTRITO": "LaGranja",
     "COD_POSTAL": 20707,
     "AREA_KM2": 4.44,
     "POBL_2022": 4938,
@@ -1481,6 +2036,9 @@
   },
   {
     "ID": "Alajuela.Poás.SanPedro",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Poás",
+    "DISTRITO": "SanPedro",
     "COD_POSTAL": 20801,
     "AREA_KM2": 13.63,
     "POBL_2022": 8243,
@@ -1489,6 +2047,9 @@
   },
   {
     "ID": "Alajuela.Poás.SanJuan",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Poás",
+    "DISTRITO": "SanJuan",
     "COD_POSTAL": 20802,
     "AREA_KM2": 16.31,
     "POBL_2022": 5647,
@@ -1497,6 +2058,9 @@
   },
   {
     "ID": "Alajuela.Poás.SanRafael",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Poás",
+    "DISTRITO": "SanRafael",
     "COD_POSTAL": 20803,
     "AREA_KM2": 14.19,
     "POBL_2022": 6655,
@@ -1505,6 +2069,9 @@
   },
   {
     "ID": "Alajuela.Poás.Carrillos",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Poás",
+    "DISTRITO": "Carrillos",
     "COD_POSTAL": 20804,
     "AREA_KM2": 10.14,
     "POBL_2022": 11330,
@@ -1513,6 +2080,9 @@
   },
   {
     "ID": "Alajuela.Poás.SabanaRedonda",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Poás",
+    "DISTRITO": "SabanaRedonda",
     "COD_POSTAL": 20805,
     "AREA_KM2": 20.33,
     "POBL_2022": 3051,
@@ -1521,6 +2091,9 @@
   },
   {
     "ID": "Alajuela.Orotina.Orotina",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Orotina",
+    "DISTRITO": "Orotina",
     "COD_POSTAL": 20901,
     "AREA_KM2": 21.59,
     "POBL_2022": 10680,
@@ -1529,6 +2102,9 @@
   },
   {
     "ID": "Alajuela.Orotina.ElMastate",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Orotina",
+    "DISTRITO": "ElMastate",
     "COD_POSTAL": 20902,
     "AREA_KM2": 9.53,
     "POBL_2022": 2249,
@@ -1537,6 +2113,9 @@
   },
   {
     "ID": "Alajuela.Orotina.HaciendaVieja",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Orotina",
+    "DISTRITO": "HaciendaVieja",
     "COD_POSTAL": 20903,
     "AREA_KM2": 16.93,
     "POBL_2022": 1242,
@@ -1545,6 +2124,9 @@
   },
   {
     "ID": "Alajuela.Orotina.Coyolar",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Orotina",
+    "DISTRITO": "Coyolar",
     "COD_POSTAL": 20904,
     "AREA_KM2": 36.51,
     "POBL_2022": 7685,
@@ -1553,6 +2135,9 @@
   },
   {
     "ID": "Alajuela.Orotina.LaCeiba",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Orotina",
+    "DISTRITO": "LaCeiba",
     "COD_POSTAL": 20905,
     "AREA_KM2": 60.55,
     "POBL_2022": 2592,
@@ -1561,6 +2146,9 @@
   },
   {
     "ID": "Alajuela.SanCarlos.Quesada",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanCarlos",
+    "DISTRITO": "Quesada",
     "COD_POSTAL": 21001,
     "AREA_KM2": 144,
     "POBL_2022": 46127,
@@ -1569,6 +2157,9 @@
   },
   {
     "ID": "Alajuela.SanCarlos.Florencia",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanCarlos",
+    "DISTRITO": "Florencia",
     "COD_POSTAL": 21002,
     "AREA_KM2": 198.54,
     "POBL_2022": 18517,
@@ -1577,6 +2168,9 @@
   },
   {
     "ID": "Alajuela.SanCarlos.Buenavista",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanCarlos",
+    "DISTRITO": "Buenavista",
     "COD_POSTAL": 21003,
     "AREA_KM2": 25.98,
     "POBL_2022": 420,
@@ -1585,6 +2179,9 @@
   },
   {
     "ID": "Alajuela.SanCarlos.AguasZarcas",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanCarlos",
+    "DISTRITO": "AguasZarcas",
     "COD_POSTAL": 21004,
     "AREA_KM2": 185.86,
     "POBL_2022": 26305,
@@ -1593,6 +2190,9 @@
   },
   {
     "ID": "Alajuela.SanCarlos.Venecia",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanCarlos",
+    "DISTRITO": "Venecia",
     "COD_POSTAL": 21005,
     "AREA_KM2": 132.44,
     "POBL_2022": 12172,
@@ -1601,6 +2201,9 @@
   },
   {
     "ID": "Alajuela.SanCarlos.Pital",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanCarlos",
+    "DISTRITO": "Pital",
     "COD_POSTAL": 21006,
     "AREA_KM2": 379.61,
     "POBL_2022": 25359,
@@ -1609,6 +2212,9 @@
   },
   {
     "ID": "Alajuela.SanCarlos.LaFortuna",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanCarlos",
+    "DISTRITO": "LaFortuna",
     "COD_POSTAL": 21007,
     "AREA_KM2": 229.7,
     "POBL_2022": 19584,
@@ -1617,6 +2223,9 @@
   },
   {
     "ID": "Alajuela.SanCarlos.LaTigra",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanCarlos",
+    "DISTRITO": "LaTigra",
     "COD_POSTAL": 21008,
     "AREA_KM2": 56.44,
     "POBL_2022": 7964,
@@ -1625,6 +2234,9 @@
   },
   {
     "ID": "Alajuela.SanCarlos.LaPalmera",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanCarlos",
+    "DISTRITO": "LaPalmera",
     "COD_POSTAL": 21009,
     "AREA_KM2": 100.45,
     "POBL_2022": 7940,
@@ -1633,6 +2245,9 @@
   },
   {
     "ID": "Alajuela.SanCarlos.Venado",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanCarlos",
+    "DISTRITO": "Venado",
     "COD_POSTAL": 21010,
     "AREA_KM2": 169.28,
     "POBL_2022": 2173,
@@ -1641,6 +2256,9 @@
   },
   {
     "ID": "Alajuela.SanCarlos.Cutris",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanCarlos",
+    "DISTRITO": "Cutris",
     "COD_POSTAL": 21011,
     "AREA_KM2": 848.01,
     "POBL_2022": 15537,
@@ -1649,6 +2267,9 @@
   },
   {
     "ID": "Alajuela.SanCarlos.Monterrey",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanCarlos",
+    "DISTRITO": "Monterrey",
     "COD_POSTAL": 21012,
     "AREA_KM2": 220.2,
     "POBL_2022": 4321,
@@ -1657,6 +2278,9 @@
   },
   {
     "ID": "Alajuela.SanCarlos.Pocosol",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "SanCarlos",
+    "DISTRITO": "Pocosol",
     "COD_POSTAL": 21013,
     "AREA_KM2": 660.75,
     "POBL_2022": 19696,
@@ -1665,6 +2289,9 @@
   },
   {
     "ID": "Alajuela.Zarcero.Zarcero",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Zarcero",
+    "DISTRITO": "Zarcero",
     "COD_POSTAL": 21101,
     "AREA_KM2": 11.72,
     "POBL_2022": 4397,
@@ -1673,6 +2300,9 @@
   },
   {
     "ID": "Alajuela.Zarcero.Laguna",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Zarcero",
+    "DISTRITO": "Laguna",
     "COD_POSTAL": 21102,
     "AREA_KM2": 23.36,
     "POBL_2022": 2031,
@@ -1681,6 +2311,9 @@
   },
   {
     "ID": "Alajuela.Zarcero.Tapesco",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Zarcero",
+    "DISTRITO": "Tapesco",
     "COD_POSTAL": 21103,
     "AREA_KM2": 6.33,
     "POBL_2022": 1582,
@@ -1689,6 +2322,9 @@
   },
   {
     "ID": "Alajuela.Zarcero.Guadalupe",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Zarcero",
+    "DISTRITO": "Guadalupe",
     "COD_POSTAL": 21104,
     "AREA_KM2": 22.58,
     "POBL_2022": 1427,
@@ -1697,6 +2333,9 @@
   },
   {
     "ID": "Alajuela.Zarcero.Palmira",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Zarcero",
+    "DISTRITO": "Palmira",
     "COD_POSTAL": 21105,
     "AREA_KM2": 30.44,
     "POBL_2022": 1712,
@@ -1705,6 +2344,9 @@
   },
   {
     "ID": "Alajuela.Zarcero.Zapote",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Zarcero",
+    "DISTRITO": "Zapote",
     "COD_POSTAL": 21106,
     "AREA_KM2": 44.77,
     "POBL_2022": 944,
@@ -1713,6 +2355,9 @@
   },
   {
     "ID": "Alajuela.Zarcero.Brisas",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Zarcero",
+    "DISTRITO": "Brisas",
     "COD_POSTAL": 21107,
     "AREA_KM2": 17.87,
     "POBL_2022": 2536,
@@ -1721,6 +2366,9 @@
   },
   {
     "ID": "Alajuela.Sarchí.SarchíNorte",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Sarchí",
+    "DISTRITO": "SarchíNorte",
     "COD_POSTAL": 21201,
     "AREA_KM2": 21.3,
     "POBL_2022": 8382,
@@ -1729,6 +2377,9 @@
   },
   {
     "ID": "Alajuela.Sarchí.SarchíSur",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Sarchí",
+    "DISTRITO": "SarchíSur",
     "COD_POSTAL": 21202,
     "AREA_KM2": 6.36,
     "POBL_2022": 6539,
@@ -1737,6 +2388,9 @@
   },
   {
     "ID": "Alajuela.Sarchí.ToroAmarillo",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Sarchí",
+    "DISTRITO": "ToroAmarillo",
     "COD_POSTAL": 21203,
     "AREA_KM2": 90.93,
     "POBL_2022": 380,
@@ -1745,6 +2399,9 @@
   },
   {
     "ID": "Alajuela.Sarchí.SanPedro",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Sarchí",
+    "DISTRITO": "SanPedro",
     "COD_POSTAL": 21204,
     "AREA_KM2": 10.92,
     "POBL_2022": 4463,
@@ -1753,6 +2410,9 @@
   },
   {
     "ID": "Alajuela.Sarchí.Rodríguez",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Sarchí",
+    "DISTRITO": "Rodríguez",
     "COD_POSTAL": 21205,
     "AREA_KM2": 7.21,
     "POBL_2022": 2832,
@@ -1761,6 +2421,9 @@
   },
   {
     "ID": "Alajuela.Upala.Upala",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Upala",
+    "DISTRITO": "Upala",
     "COD_POSTAL": 21301,
     "AREA_KM2": 148.65,
     "POBL_2022": 16850,
@@ -1769,6 +2432,9 @@
   },
   {
     "ID": "Alajuela.Upala.AguasClaras",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Upala",
+    "DISTRITO": "AguasClaras",
     "COD_POSTAL": 21302,
     "AREA_KM2": 408.93,
     "POBL_2022": 5714,
@@ -1777,6 +2443,9 @@
   },
   {
     "ID": "Alajuela.Upala.SanJosé",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Upala",
+    "DISTRITO": "SanJosé",
     "COD_POSTAL": 21303,
     "AREA_KM2": 285.39,
     "POBL_2022": 8795,
@@ -1785,6 +2454,9 @@
   },
   {
     "ID": "Alajuela.Upala.Bijagua",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Upala",
+    "DISTRITO": "Bijagua",
     "COD_POSTAL": 21304,
     "AREA_KM2": 186.39,
     "POBL_2022": 5363,
@@ -1793,6 +2465,9 @@
   },
   {
     "ID": "Alajuela.Upala.Delicias",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Upala",
+    "DISTRITO": "Delicias",
     "COD_POSTAL": 21305,
     "AREA_KM2": 98.57,
     "POBL_2022": 5479,
@@ -1801,6 +2476,9 @@
   },
   {
     "ID": "Alajuela.Upala.DosRíos",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Upala",
+    "DISTRITO": "DosRíos",
     "COD_POSTAL": 21306,
     "AREA_KM2": 218.07,
     "POBL_2022": 4017,
@@ -1809,6 +2487,9 @@
   },
   {
     "ID": "Alajuela.Upala.Yolillal",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Upala",
+    "DISTRITO": "Yolillal",
     "COD_POSTAL": 21307,
     "AREA_KM2": 139.54,
     "POBL_2022": 4129,
@@ -1817,6 +2498,9 @@
   },
   {
     "ID": "Alajuela.Upala.Canalete",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Upala",
+    "DISTRITO": "Canalete",
     "COD_POSTAL": 21308,
     "AREA_KM2": 106.45,
     "POBL_2022": 5119,
@@ -1825,6 +2509,9 @@
   },
   {
     "ID": "Alajuela.LosChiles.LosChiles",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "LosChiles",
+    "DISTRITO": "LosChiles",
     "COD_POSTAL": 21401,
     "AREA_KM2": 504.21,
     "POBL_2022": 21714,
@@ -1833,6 +2520,9 @@
   },
   {
     "ID": "Alajuela.LosChiles.CañoNegro",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "LosChiles",
+    "DISTRITO": "CañoNegro",
     "COD_POSTAL": 21402,
     "AREA_KM2": 301,
     "POBL_2022": 2333,
@@ -1841,6 +2531,9 @@
   },
   {
     "ID": "Alajuela.LosChiles.ElAmparo",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "LosChiles",
+    "DISTRITO": "ElAmparo",
     "COD_POSTAL": 21403,
     "AREA_KM2": 313.29,
     "POBL_2022": 7772,
@@ -1849,6 +2542,9 @@
   },
   {
     "ID": "Alajuela.LosChiles.SanJorge",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "LosChiles",
+    "DISTRITO": "SanJorge",
     "COD_POSTAL": 21404,
     "AREA_KM2": 214.94,
     "POBL_2022": 3369,
@@ -1857,6 +2553,9 @@
   },
   {
     "ID": "Alajuela.Guatuso.SanRafael",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Guatuso",
+    "DISTRITO": "SanRafael",
     "COD_POSTAL": 21501,
     "AREA_KM2": 304.29,
     "POBL_2022": 10117,
@@ -1865,6 +2564,9 @@
   },
   {
     "ID": "Alajuela.Guatuso.Buenavista",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Guatuso",
+    "DISTRITO": "Buenavista",
     "COD_POSTAL": 21502,
     "AREA_KM2": 150.97,
     "POBL_2022": 1990,
@@ -1873,6 +2575,9 @@
   },
   {
     "ID": "Alajuela.Guatuso.Cote",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Guatuso",
+    "DISTRITO": "Cote",
     "COD_POSTAL": 21503,
     "AREA_KM2": 183.94,
     "POBL_2022": 1092,
@@ -1881,6 +2586,9 @@
   },
   {
     "ID": "Alajuela.Guatuso.Katira",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Guatuso",
+    "DISTRITO": "Katira",
     "COD_POSTAL": 21504,
     "AREA_KM2": 114.4,
     "POBL_2022": 6497,
@@ -1889,6 +2597,9 @@
   },
   {
     "ID": "Alajuela.RíoCuarto.RíoCuarto",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "RíoCuarto",
+    "DISTRITO": "RíoCuarto",
     "COD_POSTAL": 21601,
     "AREA_KM2": "",
     "POBL_2022": "",
@@ -1897,6 +2608,9 @@
   },
   {
     "ID": "Alajuela.RíoCuarto.SantaRita",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "RíoCuarto",
+    "DISTRITO": "SantaRita",
     "COD_POSTAL": 21602,
     "AREA_KM2": "",
     "POBL_2022": "",
@@ -1905,6 +2619,9 @@
   },
   {
     "ID": "Alajuela.RíoCuarto.SantaIsabel",
+    "PROVINCIA": "Alajuela",
+    "CANTON": "RíoCuarto",
+    "DISTRITO": "SantaIsabel",
     "COD_POSTAL": 21603,
     "AREA_KM2": "",
     "POBL_2022": "",
@@ -1913,6 +2630,9 @@
   },
   {
     "ID": "Cartago.Cartago.Oriental",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Cartago",
+    "DISTRITO": "Oriental",
     "COD_POSTAL": 30101,
     "AREA_KM2": 2.04,
     "POBL_2022": 12310,
@@ -1921,6 +2641,9 @@
   },
   {
     "ID": "Cartago.Cartago.Occidental",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Cartago",
+    "DISTRITO": "Occidental",
     "COD_POSTAL": 30102,
     "AREA_KM2": 2,
     "POBL_2022": 10465,
@@ -1929,6 +2652,9 @@
   },
   {
     "ID": "Cartago.Cartago.Carmen",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Cartago",
+    "DISTRITO": "Carmen",
     "COD_POSTAL": 30103,
     "AREA_KM2": 4.39,
     "POBL_2022": 19390,
@@ -1937,6 +2663,9 @@
   },
   {
     "ID": "Cartago.Cartago.SanNicolás",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Cartago",
+    "DISTRITO": "SanNicolás",
     "COD_POSTAL": 30104,
     "AREA_KM2": 29.44,
     "POBL_2022": 29913,
@@ -1945,6 +2674,9 @@
   },
   {
     "ID": "Cartago.Cartago.Aguacaliente",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Cartago",
+    "DISTRITO": "Aguacaliente",
     "COD_POSTAL": 30105,
     "AREA_KM2": 100.37,
     "POBL_2022": 36408,
@@ -1953,6 +2685,9 @@
   },
   {
     "ID": "Cartago.Cartago.Guadalupe",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Cartago",
+    "DISTRITO": "Guadalupe",
     "COD_POSTAL": 30106,
     "AREA_KM2": 13.28,
     "POBL_2022": 16547,
@@ -1961,6 +2696,9 @@
   },
   {
     "ID": "Cartago.Cartago.Corralillo",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Cartago",
+    "DISTRITO": "Corralillo",
     "COD_POSTAL": 30107,
     "AREA_KM2": 32.57,
     "POBL_2022": 12064,
@@ -1969,6 +2707,9 @@
   },
   {
     "ID": "Cartago.Cartago.TierraBlanca",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Cartago",
+    "DISTRITO": "TierraBlanca",
     "COD_POSTAL": 30108,
     "AREA_KM2": 12.75,
     "POBL_2022": 5926,
@@ -1977,6 +2718,9 @@
   },
   {
     "ID": "Cartago.Cartago.DulceNombre",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Cartago",
+    "DISTRITO": "DulceNombre",
     "COD_POSTAL": 30109,
     "AREA_KM2": 33.11,
     "POBL_2022": 12004,
@@ -1985,6 +2729,9 @@
   },
   {
     "ID": "Cartago.Cartago.LlanoGrande",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Cartago",
+    "DISTRITO": "LlanoGrande",
     "COD_POSTAL": 30110,
     "AREA_KM2": 30.35,
     "POBL_2022": 5120,
@@ -1993,6 +2740,9 @@
   },
   {
     "ID": "Cartago.Cartago.Quebradilla",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Cartago",
+    "DISTRITO": "Quebradilla",
     "COD_POSTAL": 30111,
     "AREA_KM2": 18.91,
     "POBL_2022": 6057,
@@ -2001,6 +2751,9 @@
   },
   {
     "ID": "Cartago.Paraíso.Paraíso",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Paraíso",
+    "DISTRITO": "Paraíso",
     "COD_POSTAL": 30201,
     "AREA_KM2": 19.5,
     "POBL_2022": 21561,
@@ -2009,6 +2762,9 @@
   },
   {
     "ID": "Cartago.Paraíso.Santiago",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Paraíso",
+    "DISTRITO": "Santiago",
     "COD_POSTAL": 30202,
     "AREA_KM2": 25.5,
     "POBL_2022": 6493,
@@ -2017,6 +2773,9 @@
   },
   {
     "ID": "Cartago.Paraíso.Orosi",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Paraíso",
+    "DISTRITO": "Orosi",
     "COD_POSTAL": 30203,
     "AREA_KM2": 376.41,
     "POBL_2022": 10208,
@@ -2025,6 +2784,9 @@
   },
   {
     "ID": "Cartago.Paraíso.Cachí",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Paraíso",
+    "DISTRITO": "Cachí",
     "COD_POSTAL": 30204,
     "AREA_KM2": 41.24,
     "POBL_2022": 5944,
@@ -2033,6 +2795,9 @@
   },
   {
     "ID": "Cartago.Paraíso.LlanosdeSantaLucía",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Paraíso",
+    "DISTRITO": "LlanosdeSantaLucía",
     "COD_POSTAL": 30205,
     "AREA_KM2": 6.55,
     "POBL_2022": 19590,
@@ -2041,6 +2806,9 @@
   },
   {
     "ID": "Cartago.Paraíso.Birrisito",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Paraíso",
+    "DISTRITO": "Birrisito",
     "COD_POSTAL": 30206,
     "AREA_KM2": 7.5,
     "POBL_2022": "",
@@ -2049,6 +2817,9 @@
   },
   {
     "ID": "Cartago.LaUnión.TresRíos",
+    "PROVINCIA": "Cartago",
+    "CANTON": "LaUnión",
+    "DISTRITO": "TresRíos",
     "COD_POSTAL": 30301,
     "AREA_KM2": 2.19,
     "POBL_2022": 9298,
@@ -2057,6 +2828,9 @@
   },
   {
     "ID": "Cartago.LaUnión.SanDiego",
+    "PROVINCIA": "Cartago",
+    "CANTON": "LaUnión",
+    "DISTRITO": "SanDiego",
     "COD_POSTAL": 30302,
     "AREA_KM2": 8.01,
     "POBL_2022": 25354,
@@ -2065,6 +2839,9 @@
   },
   {
     "ID": "Cartago.LaUnión.SanJuan",
+    "PROVINCIA": "Cartago",
+    "CANTON": "LaUnión",
+    "DISTRITO": "SanJuan",
     "COD_POSTAL": 30303,
     "AREA_KM2": 3.94,
     "POBL_2022": 15752,
@@ -2073,6 +2850,9 @@
   },
   {
     "ID": "Cartago.LaUnión.SanRafael",
+    "PROVINCIA": "Cartago",
+    "CANTON": "LaUnión",
+    "DISTRITO": "SanRafael",
     "COD_POSTAL": 30304,
     "AREA_KM2": 9.46,
     "POBL_2022": 16277,
@@ -2081,6 +2861,9 @@
   },
   {
     "ID": "Cartago.LaUnión.Concepción",
+    "PROVINCIA": "Cartago",
+    "CANTON": "LaUnión",
+    "DISTRITO": "Concepción",
     "COD_POSTAL": 30305,
     "AREA_KM2": 3.8,
     "POBL_2022": 19259,
@@ -2089,6 +2872,9 @@
   },
   {
     "ID": "Cartago.LaUnión.DulceNombre",
+    "PROVINCIA": "Cartago",
+    "CANTON": "LaUnión",
+    "DISTRITO": "DulceNombre",
     "COD_POSTAL": 30306,
     "AREA_KM2": 8.35,
     "POBL_2022": 9289,
@@ -2097,6 +2883,9 @@
   },
   {
     "ID": "Cartago.LaUnión.SanRamón",
+    "PROVINCIA": "Cartago",
+    "CANTON": "LaUnión",
+    "DISTRITO": "SanRamón",
     "COD_POSTAL": 30307,
     "AREA_KM2": 3.47,
     "POBL_2022": 4526,
@@ -2105,6 +2894,9 @@
   },
   {
     "ID": "Cartago.LaUnión.RíoAzul",
+    "PROVINCIA": "Cartago",
+    "CANTON": "LaUnión",
+    "DISTRITO": "RíoAzul",
     "COD_POSTAL": 30308,
     "AREA_KM2": 4.89,
     "POBL_2022": 14860,
@@ -2113,6 +2905,9 @@
   },
   {
     "ID": "Cartago.Jiménez.JuanViñas",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Jiménez",
+    "DISTRITO": "JuanViñas",
     "COD_POSTAL": 30401,
     "AREA_KM2": 43.62,
     "POBL_2022": 7095,
@@ -2121,6 +2916,9 @@
   },
   {
     "ID": "Cartago.Jiménez.Tucurrique",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Jiménez",
+    "DISTRITO": "Tucurrique",
     "COD_POSTAL": 30402,
     "AREA_KM2": 33.52,
     "POBL_2022": 5601,
@@ -2129,6 +2927,9 @@
   },
   {
     "ID": "Cartago.Jiménez.Pejibaye",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Jiménez",
+    "DISTRITO": "Pejibaye",
     "COD_POSTAL": 30403,
     "AREA_KM2": 173.85,
     "POBL_2022": 3665,
@@ -2137,6 +2938,9 @@
   },
   {
     "ID": "Cartago.Jiménez.LaVictoria",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Jiménez",
+    "DISTRITO": "LaVictoria",
     "COD_POSTAL": 30404,
     "AREA_KM2": 15.34,
     "POBL_2022": "",
@@ -2145,6 +2949,9 @@
   },
   {
     "ID": "Cartago.Turrialba.Turrialba",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Turrialba",
+    "DISTRITO": "Turrialba",
     "COD_POSTAL": 30501,
     "AREA_KM2": 56.1,
     "POBL_2022": 27039,
@@ -2153,6 +2960,9 @@
   },
   {
     "ID": "Cartago.Turrialba.LaSuiza",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Turrialba",
+    "DISTRITO": "LaSuiza",
     "COD_POSTAL": 30502,
     "AREA_KM2": 160.36,
     "POBL_2022": 7939,
@@ -2161,6 +2971,9 @@
   },
   {
     "ID": "Cartago.Turrialba.Peralta",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Turrialba",
+    "DISTRITO": "Peralta",
     "COD_POSTAL": 30503,
     "AREA_KM2": 9.53,
     "POBL_2022": 621,
@@ -2169,6 +2982,9 @@
   },
   {
     "ID": "Cartago.Turrialba.SantaCruz",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Turrialba",
+    "DISTRITO": "SantaCruz",
     "COD_POSTAL": 30504,
     "AREA_KM2": 124.94,
     "POBL_2022": 3804,
@@ -2177,6 +2993,9 @@
   },
   {
     "ID": "Cartago.Turrialba.SantaTeresita",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Turrialba",
+    "DISTRITO": "SantaTeresita",
     "COD_POSTAL": 30505,
     "AREA_KM2": 60,
     "POBL_2022": 5402,
@@ -2185,6 +3004,9 @@
   },
   {
     "ID": "Cartago.Turrialba.Pavones",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Turrialba",
+    "DISTRITO": "Pavones",
     "COD_POSTAL": 30506,
     "AREA_KM2": 42.13,
     "POBL_2022": 4628,
@@ -2193,6 +3015,9 @@
   },
   {
     "ID": "Cartago.Turrialba.Tuis",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Turrialba",
+    "DISTRITO": "Tuis",
     "COD_POSTAL": 30507,
     "AREA_KM2": 38.88,
     "POBL_2022": 2950,
@@ -2201,6 +3026,9 @@
   },
   {
     "ID": "Cartago.Turrialba.Tayutic",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Turrialba",
+    "DISTRITO": "Tayutic",
     "COD_POSTAL": 30508,
     "AREA_KM2": 74.91,
     "POBL_2022": 2506,
@@ -2209,6 +3037,9 @@
   },
   {
     "ID": "Cartago.Turrialba.SantaRosa",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Turrialba",
+    "DISTRITO": "SantaRosa",
     "COD_POSTAL": 30509,
     "AREA_KM2": 22.29,
     "POBL_2022": 5747,
@@ -2217,6 +3048,9 @@
   },
   {
     "ID": "Cartago.Turrialba.TresEquis",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Turrialba",
+    "DISTRITO": "TresEquis",
     "COD_POSTAL": 30510,
     "AREA_KM2": 37.18,
     "POBL_2022": 1964,
@@ -2225,6 +3059,9 @@
   },
   {
     "ID": "Cartago.Turrialba.LaIsabel",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Turrialba",
+    "DISTRITO": "LaIsabel",
     "COD_POSTAL": 30511,
     "AREA_KM2": 19.96,
     "POBL_2022": 6362,
@@ -2233,6 +3070,9 @@
   },
   {
     "ID": "Cartago.Turrialba.Chirripó",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Turrialba",
+    "DISTRITO": "Chirripó",
     "COD_POSTAL": 30512,
     "AREA_KM2": 942.09,
     "POBL_2022": 4584,
@@ -2241,6 +3081,9 @@
   },
   {
     "ID": "Cartago.Alvarado.Pacayas",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Alvarado",
+    "DISTRITO": "Pacayas",
     "COD_POSTAL": 30601,
     "AREA_KM2": 29.68,
     "POBL_2022": 5989,
@@ -2249,6 +3092,9 @@
   },
   {
     "ID": "Cartago.Alvarado.Cervantes",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Alvarado",
+    "DISTRITO": "Cervantes",
     "COD_POSTAL": 30602,
     "AREA_KM2": 15.19,
     "POBL_2022": 6916,
@@ -2257,6 +3103,9 @@
   },
   {
     "ID": "Cartago.Alvarado.Capellades",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Alvarado",
+    "DISTRITO": "Capellades",
     "COD_POSTAL": 30603,
     "AREA_KM2": 34.32,
     "POBL_2022": 2710,
@@ -2265,6 +3114,9 @@
   },
   {
     "ID": "Cartago.Oreamuno.SanRafael",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Oreamuno",
+    "DISTRITO": "SanRafael",
     "COD_POSTAL": 30701,
     "AREA_KM2": 10.27,
     "POBL_2022": 29275,
@@ -2273,6 +3125,9 @@
   },
   {
     "ID": "Cartago.Oreamuno.Cot",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Oreamuno",
+    "DISTRITO": "Cot",
     "COD_POSTAL": 30702,
     "AREA_KM2": 15.05,
     "POBL_2022": 11360,
@@ -2281,6 +3136,9 @@
   },
   {
     "ID": "Cartago.Oreamuno.PotreroCerrado",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Oreamuno",
+    "DISTRITO": "PotreroCerrado",
     "COD_POSTAL": 30703,
     "AREA_KM2": 18.2,
     "POBL_2022": 2705,
@@ -2289,6 +3147,9 @@
   },
   {
     "ID": "Cartago.Oreamuno.Cipreses",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Oreamuno",
+    "DISTRITO": "Cipreses",
     "COD_POSTAL": 30704,
     "AREA_KM2": 9.31,
     "POBL_2022": 4234,
@@ -2297,6 +3158,9 @@
   },
   {
     "ID": "Cartago.Oreamuno.SantaRosa",
+    "PROVINCIA": "Cartago",
+    "CANTON": "Oreamuno",
+    "DISTRITO": "SantaRosa",
     "COD_POSTAL": 30705,
     "AREA_KM2": 149.81,
     "POBL_2022": 3021,
@@ -2305,6 +3169,9 @@
   },
   {
     "ID": "Cartago.ElGuarco.ElTejar",
+    "PROVINCIA": "Cartago",
+    "CANTON": "ElGuarco",
+    "DISTRITO": "ElTejar",
     "COD_POSTAL": 30801,
     "AREA_KM2": 6.07,
     "POBL_2022": 27037,
@@ -2313,6 +3180,9 @@
   },
   {
     "ID": "Cartago.ElGuarco.SanIsidro",
+    "PROVINCIA": "Cartago",
+    "CANTON": "ElGuarco",
+    "DISTRITO": "SanIsidro",
     "COD_POSTAL": 30802,
     "AREA_KM2": 134.73,
     "POBL_2022": 11632,
@@ -2321,6 +3191,9 @@
   },
   {
     "ID": "Cartago.ElGuarco.Tobosi",
+    "PROVINCIA": "Cartago",
+    "CANTON": "ElGuarco",
+    "DISTRITO": "Tobosi",
     "COD_POSTAL": 30803,
     "AREA_KM2": 19.9,
     "POBL_2022": 7834,
@@ -2329,6 +3202,9 @@
   },
   {
     "ID": "Cartago.ElGuarco.PatiodeAgua",
+    "PROVINCIA": "Cartago",
+    "CANTON": "ElGuarco",
+    "DISTRITO": "PatiodeAgua",
     "COD_POSTAL": 30804,
     "AREA_KM2": 11.05,
     "POBL_2022": 456,
@@ -2337,6 +3213,9 @@
   },
   {
     "ID": "Heredia.Heredia.Heredia",
+    "PROVINCIA": "Heredia",
+    "CANTON": "Heredia",
+    "DISTRITO": "Heredia",
     "COD_POSTAL": 40101,
     "AREA_KM2": 2.95,
     "POBL_2022": 18988,
@@ -2345,6 +3224,9 @@
   },
   {
     "ID": "Heredia.Heredia.Mercedes",
+    "PROVINCIA": "Heredia",
+    "CANTON": "Heredia",
+    "DISTRITO": "Mercedes",
     "COD_POSTAL": 40102,
     "AREA_KM2": 4.15,
     "POBL_2022": 30276,
@@ -2353,6 +3235,9 @@
   },
   {
     "ID": "Heredia.Heredia.SanFrancisco",
+    "PROVINCIA": "Heredia",
+    "CANTON": "Heredia",
+    "DISTRITO": "SanFrancisco",
     "COD_POSTAL": 40103,
     "AREA_KM2": 6.43,
     "POBL_2022": 60166,
@@ -2361,6 +3246,9 @@
   },
   {
     "ID": "Heredia.Heredia.Ulloa",
+    "PROVINCIA": "Heredia",
+    "CANTON": "Heredia",
+    "DISTRITO": "Ulloa",
     "COD_POSTAL": 40104,
     "AREA_KM2": 11.47,
     "POBL_2022": 35618,
@@ -2369,6 +3257,9 @@
   },
   {
     "ID": "Heredia.Heredia.Varablanca",
+    "PROVINCIA": "Heredia",
+    "CANTON": "Heredia",
+    "DISTRITO": "Varablanca",
     "COD_POSTAL": 40105,
     "AREA_KM2": 258.05,
     "POBL_2022": 972,
@@ -2377,6 +3268,9 @@
   },
   {
     "ID": "Heredia.Barva.Barva",
+    "PROVINCIA": "Heredia",
+    "CANTON": "Barva",
+    "DISTRITO": "Barva",
     "COD_POSTAL": 40201,
     "AREA_KM2": 0.82,
     "POBL_2022": 5099,
@@ -2385,6 +3279,9 @@
   },
   {
     "ID": "Heredia.Barva.SanPedro",
+    "PROVINCIA": "Heredia",
+    "CANTON": "Barva",
+    "DISTRITO": "SanPedro",
     "COD_POSTAL": 40202,
     "AREA_KM2": 7.16,
     "POBL_2022": 12026,
@@ -2393,6 +3290,9 @@
   },
   {
     "ID": "Heredia.Barva.SanPablo",
+    "PROVINCIA": "Heredia",
+    "CANTON": "Barva",
+    "DISTRITO": "SanPablo",
     "COD_POSTAL": 40203,
     "AREA_KM2": 6.94,
     "POBL_2022": 10105,
@@ -2401,6 +3301,9 @@
   },
   {
     "ID": "Heredia.Barva.SanRoque",
+    "PROVINCIA": "Heredia",
+    "CANTON": "Barva",
+    "DISTRITO": "SanRoque",
     "COD_POSTAL": 40204,
     "AREA_KM2": 1.29,
     "POBL_2022": 5507,
@@ -2409,6 +3312,9 @@
   },
   {
     "ID": "Heredia.Barva.SantaLucía",
+    "PROVINCIA": "Heredia",
+    "CANTON": "Barva",
+    "DISTRITO": "SantaLucía",
     "COD_POSTAL": 40205,
     "AREA_KM2": 2.87,
     "POBL_2022": 8524,
@@ -2417,6 +3323,9 @@
   },
   {
     "ID": "Heredia.Barva.SanJosédelaMontaña",
+    "PROVINCIA": "Heredia",
+    "CANTON": "Barva",
+    "DISTRITO": "SanJosédelaMontaña",
     "COD_POSTAL": 40206,
     "AREA_KM2": 36.82,
     "POBL_2022": 6929,
@@ -2425,6 +3334,9 @@
   },
   {
     "ID": "Heredia.SantoDomingo.SantoDomingo",
+    "PROVINCIA": "Heredia",
+    "CANTON": "SantoDomingo",
+    "DISTRITO": "SantoDomingo",
     "COD_POSTAL": 40301,
     "AREA_KM2": 0.79,
     "POBL_2022": 5050,
@@ -2433,6 +3345,9 @@
   },
   {
     "ID": "Heredia.SantoDomingo.SanVicente",
+    "PROVINCIA": "Heredia",
+    "CANTON": "SantoDomingo",
+    "DISTRITO": "SanVicente",
     "COD_POSTAL": 40302,
     "AREA_KM2": 2.91,
     "POBL_2022": 8072,
@@ -2441,6 +3356,9 @@
   },
   {
     "ID": "Heredia.SantoDomingo.SanMiguel",
+    "PROVINCIA": "Heredia",
+    "CANTON": "SantoDomingo",
+    "DISTRITO": "SanMiguel",
     "COD_POSTAL": 40303,
     "AREA_KM2": 5.9,
     "POBL_2022": 7988,
@@ -2449,6 +3367,9 @@
   },
   {
     "ID": "Heredia.SantoDomingo.Paracito",
+    "PROVINCIA": "Heredia",
+    "CANTON": "SantoDomingo",
+    "DISTRITO": "Paracito",
     "COD_POSTAL": 40304,
     "AREA_KM2": 1.12,
     "POBL_2022": 2832,
@@ -2457,6 +3378,9 @@
   },
   {
     "ID": "Heredia.SantoDomingo.SantoTomás",
+    "PROVINCIA": "Heredia",
+    "CANTON": "SantoDomingo",
+    "DISTRITO": "SantoTomás",
     "COD_POSTAL": 40305,
     "AREA_KM2": 3.51,
     "POBL_2022": 7953,
@@ -2465,6 +3389,9 @@
   },
   {
     "ID": "Heredia.SantoDomingo.SantaRosa",
+    "PROVINCIA": "Heredia",
+    "CANTON": "SantoDomingo",
+    "DISTRITO": "SantaRosa",
     "COD_POSTAL": 40306,
     "AREA_KM2": 4.25,
     "POBL_2022": 9264,
@@ -2473,6 +3400,9 @@
   },
   {
     "ID": "Heredia.SantoDomingo.Tures",
+    "PROVINCIA": "Heredia",
+    "CANTON": "SantoDomingo",
+    "DISTRITO": "Tures",
     "COD_POSTAL": 40307,
     "AREA_KM2": 3.9,
     "POBL_2022": 4477,
@@ -2481,6 +3411,9 @@
   },
   {
     "ID": "Heredia.SantoDomingo.Pará",
+    "PROVINCIA": "Heredia",
+    "CANTON": "SantoDomingo",
+    "DISTRITO": "Pará",
     "COD_POSTAL": 40308,
     "AREA_KM2": 2.88,
     "POBL_2022": 4199,
@@ -2489,6 +3422,9 @@
   },
   {
     "ID": "Heredia.SantaBárbara.SantaBárbara",
+    "PROVINCIA": "Heredia",
+    "CANTON": "SantaBárbara",
+    "DISTRITO": "SantaBárbara",
     "COD_POSTAL": 40401,
     "AREA_KM2": 1.27,
     "POBL_2022": 6394,
@@ -2497,6 +3433,9 @@
   },
   {
     "ID": "Heredia.SantaBárbara.SanPedro",
+    "PROVINCIA": "Heredia",
+    "CANTON": "SantaBárbara",
+    "DISTRITO": "SanPedro",
     "COD_POSTAL": 40402,
     "AREA_KM2": 2.48,
     "POBL_2022": 7016,
@@ -2505,6 +3444,9 @@
   },
   {
     "ID": "Heredia.SantaBárbara.SanJuan",
+    "PROVINCIA": "Heredia",
+    "CANTON": "SantaBárbara",
+    "DISTRITO": "SanJuan",
     "COD_POSTAL": 40403,
     "AREA_KM2": 4.45,
     "POBL_2022": 9308,
@@ -2513,6 +3455,9 @@
   },
   {
     "ID": "Heredia.SantaBárbara.Jesús",
+    "PROVINCIA": "Heredia",
+    "CANTON": "SantaBárbara",
+    "DISTRITO": "Jesús",
     "COD_POSTAL": 40404,
     "AREA_KM2": 11.18,
     "POBL_2022": 11842,
@@ -2521,6 +3466,9 @@
   },
   {
     "ID": "Heredia.SantaBárbara.SantoDomingo",
+    "PROVINCIA": "Heredia",
+    "CANTON": "SantaBárbara",
+    "DISTRITO": "SantoDomingo",
     "COD_POSTAL": 40405,
     "AREA_KM2": 26.43,
     "POBL_2022": 3699,
@@ -2529,6 +3477,9 @@
   },
   {
     "ID": "Heredia.SantaBárbara.Purabá",
+    "PROVINCIA": "Heredia",
+    "CANTON": "SantaBárbara",
+    "DISTRITO": "Purabá",
     "COD_POSTAL": 40406,
     "AREA_KM2": 6.09,
     "POBL_2022": 5619,
@@ -2537,6 +3488,9 @@
   },
   {
     "ID": "Heredia.SanRafael.SanRafael",
+    "PROVINCIA": "Heredia",
+    "CANTON": "SanRafael",
+    "DISTRITO": "SanRafael",
     "COD_POSTAL": 40501,
     "AREA_KM2": 1.3,
     "POBL_2022": 10787,
@@ -2545,6 +3499,9 @@
   },
   {
     "ID": "Heredia.SanRafael.SanJosecito",
+    "PROVINCIA": "Heredia",
+    "CANTON": "SanRafael",
+    "DISTRITO": "SanJosecito",
     "COD_POSTAL": 40502,
     "AREA_KM2": 1.35,
     "POBL_2022": 14331,
@@ -2553,6 +3510,9 @@
   },
   {
     "ID": "Heredia.SanRafael.Santiago",
+    "PROVINCIA": "Heredia",
+    "CANTON": "SanRafael",
+    "DISTRITO": "Santiago",
     "COD_POSTAL": 40503,
     "AREA_KM2": 1.64,
     "POBL_2022": 10534,
@@ -2561,6 +3521,9 @@
   },
   {
     "ID": "Heredia.SanRafael.Ángeles",
+    "PROVINCIA": "Heredia",
+    "CANTON": "SanRafael",
+    "DISTRITO": "Ángeles",
     "COD_POSTAL": 40504,
     "AREA_KM2": 21.23,
     "POBL_2022": 13017,
@@ -2569,6 +3532,9 @@
   },
   {
     "ID": "Heredia.SanRafael.Concepción",
+    "PROVINCIA": "Heredia",
+    "CANTON": "SanRafael",
+    "DISTRITO": "Concepción",
     "COD_POSTAL": 40505,
     "AREA_KM2": 22.67,
     "POBL_2022": 7891,
@@ -2577,6 +3543,9 @@
   },
   {
     "ID": "Heredia.SanIsidro.SanIsidro",
+    "PROVINCIA": "Heredia",
+    "CANTON": "SanIsidro",
+    "DISTRITO": "SanIsidro",
     "COD_POSTAL": 40601,
     "AREA_KM2": 2.66,
     "POBL_2022": 6413,
@@ -2585,6 +3554,9 @@
   },
   {
     "ID": "Heredia.SanIsidro.SanJosé",
+    "PROVINCIA": "Heredia",
+    "CANTON": "SanIsidro",
+    "DISTRITO": "SanJosé",
     "COD_POSTAL": 40602,
     "AREA_KM2": 11.37,
     "POBL_2022": 8895,
@@ -2593,6 +3565,9 @@
   },
   {
     "ID": "Heredia.SanIsidro.Concepción",
+    "PROVINCIA": "Heredia",
+    "CANTON": "SanIsidro",
+    "DISTRITO": "Concepción",
     "COD_POSTAL": 40603,
     "AREA_KM2": 8.03,
     "POBL_2022": 3115,
@@ -2601,6 +3576,9 @@
   },
   {
     "ID": "Heredia.SanIsidro.SanFrancisco",
+    "PROVINCIA": "Heredia",
+    "CANTON": "SanIsidro",
+    "DISTRITO": "SanFrancisco",
     "COD_POSTAL": 40604,
     "AREA_KM2": 4.6,
     "POBL_2022": 5232,
@@ -2609,6 +3587,9 @@
   },
   {
     "ID": "Heredia.Belén.SanAntonio",
+    "PROVINCIA": "Heredia",
+    "CANTON": "Belén",
+    "DISTRITO": "SanAntonio",
     "COD_POSTAL": 40701,
     "AREA_KM2": 3.54,
     "POBL_2022": 11625,
@@ -2617,6 +3598,9 @@
   },
   {
     "ID": "Heredia.Belén.LaRibera",
+    "PROVINCIA": "Heredia",
+    "CANTON": "Belén",
+    "DISTRITO": "LaRibera",
     "COD_POSTAL": 40702,
     "AREA_KM2": 4.28,
     "POBL_2022": 7753,
@@ -2625,6 +3609,9 @@
   },
   {
     "ID": "Heredia.Belén.LaAsunción",
+    "PROVINCIA": "Heredia",
+    "CANTON": "Belén",
+    "DISTRITO": "LaAsunción",
     "COD_POSTAL": 40703,
     "AREA_KM2": 4.62,
     "POBL_2022": 7475,
@@ -2633,6 +3620,9 @@
   },
   {
     "ID": "Heredia.Flores.SanJoaquín",
+    "PROVINCIA": "Heredia",
+    "CANTON": "Flores",
+    "DISTRITO": "SanJoaquín",
     "COD_POSTAL": 40801,
     "AREA_KM2": 2.58,
     "POBL_2022": 8341,
@@ -2641,6 +3631,9 @@
   },
   {
     "ID": "Heredia.Flores.Barrantes",
+    "PROVINCIA": "Heredia",
+    "CANTON": "Flores",
+    "DISTRITO": "Barrantes",
     "COD_POSTAL": 40802,
     "AREA_KM2": 2.3,
     "POBL_2022": 5340,
@@ -2649,6 +3642,9 @@
   },
   {
     "ID": "Heredia.Flores.Llorente",
+    "PROVINCIA": "Heredia",
+    "CANTON": "Flores",
+    "DISTRITO": "Llorente",
     "COD_POSTAL": 40803,
     "AREA_KM2": 1.89,
     "POBL_2022": 11720,
@@ -2657,6 +3653,9 @@
   },
   {
     "ID": "Heredia.SanPablo.SanPablo",
+    "PROVINCIA": "Heredia",
+    "CANTON": "SanPablo",
+    "DISTRITO": "SanPablo",
     "COD_POSTAL": 40901,
     "AREA_KM2": 5.88,
     "POBL_2022": 21485,
@@ -2665,6 +3664,9 @@
   },
   {
     "ID": "Heredia.SanPablo.RincóndeSabanilla",
+    "PROVINCIA": "Heredia",
+    "CANTON": "SanPablo",
+    "DISTRITO": "RincóndeSabanilla",
     "COD_POSTAL": 40902,
     "AREA_KM2": 2.36,
     "POBL_2022": 10034,
@@ -2673,6 +3675,9 @@
   },
   {
     "ID": "Heredia.Sarapiquí.PuertoViejo",
+    "PROVINCIA": "Heredia",
+    "CANTON": "Sarapiquí",
+    "DISTRITO": "PuertoViejo",
     "COD_POSTAL": 41001,
     "AREA_KM2": 428.17,
     "POBL_2022": 31580,
@@ -2681,6 +3686,9 @@
   },
   {
     "ID": "Heredia.Sarapiquí.LaVirgen",
+    "PROVINCIA": "Heredia",
+    "CANTON": "Sarapiquí",
+    "DISTRITO": "LaVirgen",
     "COD_POSTAL": 41002,
     "AREA_KM2": 513.82,
     "POBL_2022": 16493,
@@ -2689,6 +3697,9 @@
   },
   {
     "ID": "Heredia.Sarapiquí.LasHorquetas",
+    "PROVINCIA": "Heredia",
+    "CANTON": "Sarapiquí",
+    "DISTRITO": "LasHorquetas",
     "COD_POSTAL": 41003,
     "AREA_KM2": 565.41,
     "POBL_2022": 35957,
@@ -2697,6 +3708,9 @@
   },
   {
     "ID": "Heredia.Sarapiquí.LlanurasdelGaspar",
+    "PROVINCIA": "Heredia",
+    "CANTON": "Sarapiquí",
+    "DISTRITO": "LlanurasdelGaspar",
     "COD_POSTAL": 41004,
     "AREA_KM2": 267.74,
     "POBL_2022": 2059,
@@ -2705,6 +3719,9 @@
   },
   {
     "ID": "Heredia.Sarapiquí.Cureña",
+    "PROVINCIA": "Heredia",
+    "CANTON": "Sarapiquí",
+    "DISTRITO": "Cureña",
     "COD_POSTAL": 41005,
     "AREA_KM2": 369.02,
     "POBL_2022": 1598,
@@ -2713,6 +3730,9 @@
   },
   {
     "ID": "Guanacaste.Liberia.Liberia",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Liberia",
+    "DISTRITO": "Liberia",
     "COD_POSTAL": 50101,
     "AREA_KM2": 563.57,
     "POBL_2022": 67132,
@@ -2721,6 +3741,9 @@
   },
   {
     "ID": "Guanacaste.Liberia.CañasDulces",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Liberia",
+    "DISTRITO": "CañasDulces",
     "COD_POSTAL": 50102,
     "AREA_KM2": 243.39,
     "POBL_2022": 4075,
@@ -2729,6 +3752,9 @@
   },
   {
     "ID": "Guanacaste.Liberia.Mayorga",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Liberia",
+    "DISTRITO": "Mayorga",
     "COD_POSTAL": 50103,
     "AREA_KM2": 227.39,
     "POBL_2022": 2032,
@@ -2737,6 +3763,9 @@
   },
   {
     "ID": "Guanacaste.Liberia.Nacascolo",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Liberia",
+    "DISTRITO": "Nacascolo",
     "COD_POSTAL": 50104,
     "AREA_KM2": 327.05,
     "POBL_2022": 3129,
@@ -2745,6 +3774,9 @@
   },
   {
     "ID": "Guanacaste.Liberia.Curubandé",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Liberia",
+    "DISTRITO": "Curubandé",
     "COD_POSTAL": 50105,
     "AREA_KM2": 81.14,
     "POBL_2022": 3242,
@@ -2753,6 +3785,9 @@
   },
   {
     "ID": "Guanacaste.Nicoya.Nicoya",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Nicoya",
+    "DISTRITO": "Nicoya",
     "COD_POSTAL": 50201,
     "AREA_KM2": 310.61,
     "POBL_2022": 27131,
@@ -2761,6 +3796,9 @@
   },
   {
     "ID": "Guanacaste.Nicoya.Mansión",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Nicoya",
+    "DISTRITO": "Mansión",
     "COD_POSTAL": 50202,
     "AREA_KM2": 212.47,
     "POBL_2022": 5772,
@@ -2769,6 +3807,9 @@
   },
   {
     "ID": "Guanacaste.Nicoya.SanAntonio",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Nicoya",
+    "DISTRITO": "SanAntonio",
     "COD_POSTAL": 50203,
     "AREA_KM2": 334.01,
     "POBL_2022": 7148,
@@ -2777,6 +3818,9 @@
   },
   {
     "ID": "Guanacaste.Nicoya.QuebradaHonda",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Nicoya",
+    "DISTRITO": "QuebradaHonda",
     "COD_POSTAL": 50204,
     "AREA_KM2": 106.03,
     "POBL_2022": 2591,
@@ -2785,6 +3829,9 @@
   },
   {
     "ID": "Guanacaste.Nicoya.Sámara",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Nicoya",
+    "DISTRITO": "Sámara",
     "COD_POSTAL": 50205,
     "AREA_KM2": 109.19,
     "POBL_2022": 4685,
@@ -2793,6 +3840,9 @@
   },
   {
     "ID": "Guanacaste.Nicoya.Nosara",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Nicoya",
+    "DISTRITO": "Nosara",
     "COD_POSTAL": 50206,
     "AREA_KM2": 134.57,
     "POBL_2022": 7213,
@@ -2801,6 +3851,9 @@
   },
   {
     "ID": "Guanacaste.Nicoya.BeléndeNosarita",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Nicoya",
+    "DISTRITO": "BeléndeNosarita",
     "COD_POSTAL": 50207,
     "AREA_KM2": 123,
     "POBL_2022": 3084,
@@ -2809,6 +3862,9 @@
   },
   {
     "ID": "Guanacaste.SantaCruz.SantaCruz",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "SantaCruz",
+    "DISTRITO": "SantaCruz",
     "COD_POSTAL": 50301,
     "AREA_KM2": 289.6,
     "POBL_2022": 28008,
@@ -2817,6 +3873,9 @@
   },
   {
     "ID": "Guanacaste.SantaCruz.Bolsón",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "SantaCruz",
+    "DISTRITO": "Bolsón",
     "COD_POSTAL": 50302,
     "AREA_KM2": 32.47,
     "POBL_2022": 2182,
@@ -2825,6 +3884,9 @@
   },
   {
     "ID": "Guanacaste.SantaCruz.VeintisietedeAbril",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "SantaCruz",
+    "DISTRITO": "VeintisietedeAbril",
     "COD_POSTAL": 50303,
     "AREA_KM2": 301.59,
     "POBL_2022": 9302,
@@ -2833,6 +3895,9 @@
   },
   {
     "ID": "Guanacaste.SantaCruz.Tempate",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "SantaCruz",
+    "DISTRITO": "Tempate",
     "COD_POSTAL": 50304,
     "AREA_KM2": 129.95,
     "POBL_2022": 6467,
@@ -2841,6 +3906,9 @@
   },
   {
     "ID": "Guanacaste.SantaCruz.Cartagena",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "SantaCruz",
+    "DISTRITO": "Cartagena",
     "COD_POSTAL": 50305,
     "AREA_KM2": 82.56,
     "POBL_2022": 5147,
@@ -2849,6 +3917,9 @@
   },
   {
     "ID": "Guanacaste.SantaCruz.Cuajiniquil",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "SantaCruz",
+    "DISTRITO": "Cuajiniquil",
     "COD_POSTAL": 50306,
     "AREA_KM2": 218.65,
     "POBL_2022": 2678,
@@ -2857,6 +3928,9 @@
   },
   {
     "ID": "Guanacaste.SantaCruz.Diriá",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "SantaCruz",
+    "DISTRITO": "Diriá",
     "COD_POSTAL": 50307,
     "AREA_KM2": 66.26,
     "POBL_2022": 4983,
@@ -2865,6 +3939,9 @@
   },
   {
     "ID": "Guanacaste.SantaCruz.CaboVelas",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "SantaCruz",
+    "DISTRITO": "CaboVelas",
     "COD_POSTAL": 50308,
     "AREA_KM2": 73.5,
     "POBL_2022": 4381,
@@ -2873,6 +3950,9 @@
   },
   {
     "ID": "Guanacaste.SantaCruz.Tamarindo",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "SantaCruz",
+    "DISTRITO": "Tamarindo",
     "COD_POSTAL": 50309,
     "AREA_KM2": 125.86,
     "POBL_2022": 8136,
@@ -2881,6 +3961,9 @@
   },
   {
     "ID": "Guanacaste.Bagaces.Bagaces",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Bagaces",
+    "DISTRITO": "Bagaces",
     "COD_POSTAL": 50401,
     "AREA_KM2": 883.98,
     "POBL_2022": 16462,
@@ -2889,6 +3972,9 @@
   },
   {
     "ID": "Guanacaste.Bagaces.LaFortuna",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Bagaces",
+    "DISTRITO": "LaFortuna",
     "COD_POSTAL": 50402,
     "AREA_KM2": 163.37,
     "POBL_2022": 3112,
@@ -2897,6 +3983,9 @@
   },
   {
     "ID": "Guanacaste.Bagaces.Mogote",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Bagaces",
+    "DISTRITO": "Mogote",
     "COD_POSTAL": 50403,
     "AREA_KM2": 181.79,
     "POBL_2022": 4079,
@@ -2905,6 +3994,9 @@
   },
   {
     "ID": "Guanacaste.Bagaces.RíoNaranjo",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Bagaces",
+    "DISTRITO": "RíoNaranjo",
     "COD_POSTAL": 50404,
     "AREA_KM2": 43.83,
     "POBL_2022": 1194,
@@ -2913,6 +4005,9 @@
   },
   {
     "ID": "Guanacaste.Carrillo.Filadelfia",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Carrillo",
+    "DISTRITO": "Filadelfia",
     "COD_POSTAL": 50501,
     "AREA_KM2": 125.14,
     "POBL_2022": 8967,
@@ -2921,6 +4016,9 @@
   },
   {
     "ID": "Guanacaste.Carrillo.Palmira",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Carrillo",
+    "DISTRITO": "Palmira",
     "COD_POSTAL": 50502,
     "AREA_KM2": 31.42,
     "POBL_2022": 6910,
@@ -2929,6 +4027,9 @@
   },
   {
     "ID": "Guanacaste.Carrillo.Sardinal",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Carrillo",
+    "DISTRITO": "Sardinal",
     "COD_POSTAL": 50503,
     "AREA_KM2": 261.43,
     "POBL_2022": 20094,
@@ -2937,6 +4038,9 @@
   },
   {
     "ID": "Guanacaste.Carrillo.Belén",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Carrillo",
+    "DISTRITO": "Belén",
     "COD_POSTAL": 50504,
     "AREA_KM2": 181.55,
     "POBL_2022": 11785,
@@ -2945,6 +4049,9 @@
   },
   {
     "ID": "Guanacaste.Cañas.Cañas",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Cañas",
+    "DISTRITO": "Cañas",
     "COD_POSTAL": 50601,
     "AREA_KM2": 193.83,
     "POBL_2022": 26577,
@@ -2953,6 +4060,9 @@
   },
   {
     "ID": "Guanacaste.Cañas.Palmira",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Cañas",
+    "DISTRITO": "Palmira",
     "COD_POSTAL": 50602,
     "AREA_KM2": 203.96,
     "POBL_2022": 1361,
@@ -2961,6 +4071,9 @@
   },
   {
     "ID": "Guanacaste.Cañas.SanMiguel",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Cañas",
+    "DISTRITO": "SanMiguel",
     "COD_POSTAL": 50603,
     "AREA_KM2": 120.86,
     "POBL_2022": 2076,
@@ -2969,6 +4082,9 @@
   },
   {
     "ID": "Guanacaste.Cañas.Bebedero",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Cañas",
+    "DISTRITO": "Bebedero",
     "COD_POSTAL": 50604,
     "AREA_KM2": 58.26,
     "POBL_2022": 2582,
@@ -2977,6 +4093,9 @@
   },
   {
     "ID": "Guanacaste.Cañas.Porozal",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Cañas",
+    "DISTRITO": "Porozal",
     "COD_POSTAL": 50605,
     "AREA_KM2": 105.23,
     "POBL_2022": 797,
@@ -2985,6 +4104,9 @@
   },
   {
     "ID": "Guanacaste.Abangares.LasJuntas",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Abangares",
+    "DISTRITO": "LasJuntas",
     "COD_POSTAL": 50701,
     "AREA_KM2": 229.16,
     "POBL_2022": 10437,
@@ -2993,6 +4115,9 @@
   },
   {
     "ID": "Guanacaste.Abangares.Sierra",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Abangares",
+    "DISTRITO": "Sierra",
     "COD_POSTAL": 50702,
     "AREA_KM2": 112.01,
     "POBL_2022": 2827,
@@ -3001,6 +4126,9 @@
   },
   {
     "ID": "Guanacaste.Abangares.SanJuan",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Abangares",
+    "DISTRITO": "SanJuan",
     "COD_POSTAL": 50703,
     "AREA_KM2": 107.46,
     "POBL_2022": 1857,
@@ -3009,6 +4137,9 @@
   },
   {
     "ID": "Guanacaste.Abangares.Colorado",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Abangares",
+    "DISTRITO": "Colorado",
     "COD_POSTAL": 50704,
     "AREA_KM2": 201.04,
     "POBL_2022": 5161,
@@ -3017,6 +4148,9 @@
   },
   {
     "ID": "Guanacaste.Tilarán.Tilarán",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Tilarán",
+    "DISTRITO": "Tilarán",
     "COD_POSTAL": 50801,
     "AREA_KM2": 139.43,
     "POBL_2022": 9449,
@@ -3025,6 +4159,9 @@
   },
   {
     "ID": "Guanacaste.Tilarán.QuebradaGrande",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Tilarán",
+    "DISTRITO": "QuebradaGrande",
     "COD_POSTAL": 50802,
     "AREA_KM2": 33.72,
     "POBL_2022": 3104,
@@ -3033,6 +4170,9 @@
   },
   {
     "ID": "Guanacaste.Tilarán.Tronadora",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Tilarán",
+    "DISTRITO": "Tronadora",
     "COD_POSTAL": 50803,
     "AREA_KM2": 142.28,
     "POBL_2022": 2029,
@@ -3041,6 +4181,9 @@
   },
   {
     "ID": "Guanacaste.Tilarán.SantaRosa",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Tilarán",
+    "DISTRITO": "SantaRosa",
     "COD_POSTAL": 50804,
     "AREA_KM2": 71.8,
     "POBL_2022": 2188,
@@ -3049,6 +4192,9 @@
   },
   {
     "ID": "Guanacaste.Tilarán.Líbano",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Tilarán",
+    "DISTRITO": "Líbano",
     "COD_POSTAL": 50805,
     "AREA_KM2": 72.07,
     "POBL_2022": 958,
@@ -3057,6 +4203,9 @@
   },
   {
     "ID": "Guanacaste.Tilarán.TierrasMorenas",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Tilarán",
+    "DISTRITO": "TierrasMorenas",
     "COD_POSTAL": 50806,
     "AREA_KM2": 83.46,
     "POBL_2022": 1545,
@@ -3065,6 +4214,9 @@
   },
   {
     "ID": "Guanacaste.Tilarán.Arenal",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Tilarán",
+    "DISTRITO": "Arenal",
     "COD_POSTAL": 50807,
     "AREA_KM2": 73.72,
     "POBL_2022": 2711,
@@ -3073,6 +4225,9 @@
   },
   {
     "ID": "Guanacaste.Tilarán.Cabeceras",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Tilarán",
+    "DISTRITO": "Cabeceras",
     "COD_POSTAL": 50808,
     "AREA_KM2": 51.25,
     "POBL_2022": "",
@@ -3081,6 +4236,9 @@
   },
   {
     "ID": "Guanacaste.Nandayure.Carmona",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Nandayure",
+    "DISTRITO": "Carmona",
     "COD_POSTAL": 50901,
     "AREA_KM2": 31.83,
     "POBL_2022": 2663,
@@ -3089,6 +4247,9 @@
   },
   {
     "ID": "Guanacaste.Nandayure.SantaRita",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Nandayure",
+    "DISTRITO": "SantaRita",
     "COD_POSTAL": 50902,
     "AREA_KM2": 51.32,
     "POBL_2022": 1480,
@@ -3097,6 +4258,9 @@
   },
   {
     "ID": "Guanacaste.Nandayure.Zapotal",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Nandayure",
+    "DISTRITO": "Zapotal",
     "COD_POSTAL": 50903,
     "AREA_KM2": 105.18,
     "POBL_2022": 1263,
@@ -3105,6 +4269,9 @@
   },
   {
     "ID": "Guanacaste.Nandayure.SanPablo",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Nandayure",
+    "DISTRITO": "SanPablo",
     "COD_POSTAL": 50904,
     "AREA_KM2": 78.13,
     "POBL_2022": 2362,
@@ -3113,6 +4280,9 @@
   },
   {
     "ID": "Guanacaste.Nandayure.Porvenir",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Nandayure",
+    "DISTRITO": "Porvenir",
     "COD_POSTAL": 50905,
     "AREA_KM2": 40.17,
     "POBL_2022": 759,
@@ -3121,6 +4291,9 @@
   },
   {
     "ID": "Guanacaste.Nandayure.Bejuco",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Nandayure",
+    "DISTRITO": "Bejuco",
     "COD_POSTAL": 50906,
     "AREA_KM2": 262.17,
     "POBL_2022": 3311,
@@ -3129,6 +4302,9 @@
   },
   {
     "ID": "Guanacaste.LaCruz.LaCruz",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "LaCruz",
+    "DISTRITO": "LaCruz",
     "COD_POSTAL": 51001,
     "AREA_KM2": 345.5,
     "POBL_2022": 13204,
@@ -3137,6 +4313,9 @@
   },
   {
     "ID": "Guanacaste.LaCruz.SantaCecilia",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "LaCruz",
+    "DISTRITO": "SantaCecilia",
     "COD_POSTAL": 51002,
     "AREA_KM2": 258.16,
     "POBL_2022": 9191,
@@ -3145,6 +4324,9 @@
   },
   {
     "ID": "Guanacaste.LaCruz.LaGarita",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "LaCruz",
+    "DISTRITO": "LaGarita",
     "COD_POSTAL": 51003,
     "AREA_KM2": 273.37,
     "POBL_2022": 2665,
@@ -3153,6 +4335,9 @@
   },
   {
     "ID": "Guanacaste.LaCruz.SantaElena",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "LaCruz",
+    "DISTRITO": "SantaElena",
     "COD_POSTAL": 51004,
     "AREA_KM2": 513.35,
     "POBL_2022": 3011,
@@ -3161,6 +4346,9 @@
   },
   {
     "ID": "Guanacaste.Hojancha.Hojancha",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Hojancha",
+    "DISTRITO": "Hojancha",
     "COD_POSTAL": 51101,
     "AREA_KM2": 79.05,
     "POBL_2022": 4707,
@@ -3169,6 +4357,9 @@
   },
   {
     "ID": "Guanacaste.Hojancha.MonteRomo",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Hojancha",
+    "DISTRITO": "MonteRomo",
     "COD_POSTAL": 51102,
     "AREA_KM2": 74.97,
     "POBL_2022": 724,
@@ -3177,6 +4368,9 @@
   },
   {
     "ID": "Guanacaste.Hojancha.PuertoCarrillo",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Hojancha",
+    "DISTRITO": "PuertoCarrillo",
     "COD_POSTAL": 51103,
     "AREA_KM2": 76.75,
     "POBL_2022": 1893,
@@ -3185,6 +4379,9 @@
   },
   {
     "ID": "Guanacaste.Hojancha.Huacas",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Hojancha",
+    "DISTRITO": "Huacas",
     "COD_POSTAL": 51104,
     "AREA_KM2": 31.49,
     "POBL_2022": 761,
@@ -3193,6 +4390,9 @@
   },
   {
     "ID": "Guanacaste.Hojancha.Matambú",
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Hojancha",
+    "DISTRITO": "Matambú",
     "COD_POSTAL": 51105,
     "AREA_KM2": "",
     "POBL_2022": "",
@@ -3201,6 +4401,9 @@
   },
   {
     "ID": "Puntarenas.Puntarenas.Puntarenas",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "Puntarenas",
     "COD_POSTAL": 60101,
     "AREA_KM2": 34.6,
     "POBL_2022": 10342,
@@ -3209,6 +4412,9 @@
   },
   {
     "ID": "Puntarenas.Puntarenas.Pitahaya",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "Pitahaya",
     "COD_POSTAL": 60102,
     "AREA_KM2": 109.66,
     "POBL_2022": 2755,
@@ -3217,6 +4423,9 @@
   },
   {
     "ID": "Puntarenas.Puntarenas.Chomes",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "Chomes",
     "COD_POSTAL": 60103,
     "AREA_KM2": 120.3,
     "POBL_2022": 6645,
@@ -3225,6 +4434,9 @@
   },
   {
     "ID": "Puntarenas.Puntarenas.Lepanto",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "Lepanto",
     "COD_POSTAL": 60104,
     "AREA_KM2": 424.74,
     "POBL_2022": 10444,
@@ -3233,6 +4445,9 @@
   },
   {
     "ID": "Puntarenas.Puntarenas.Paquera",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "Paquera",
     "COD_POSTAL": 60105,
     "AREA_KM2": 337.7,
     "POBL_2022": 8410,
@@ -3241,6 +4456,9 @@
   },
   {
     "ID": "Puntarenas.Puntarenas.Manzanillo",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "Manzanillo",
     "COD_POSTAL": 60106,
     "AREA_KM2": 60.31,
     "POBL_2022": 3459,
@@ -3249,6 +4467,9 @@
   },
   {
     "ID": "Puntarenas.Puntarenas.Guacimal",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "Guacimal",
     "COD_POSTAL": 60107,
     "AREA_KM2": 114.49,
     "POBL_2022": 1173,
@@ -3257,6 +4478,9 @@
   },
   {
     "ID": "Puntarenas.Puntarenas.Barranca",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "Barranca",
     "COD_POSTAL": 60108,
     "AREA_KM2": 36.07,
     "POBL_2022": 39426,
@@ -3265,6 +4489,9 @@
   },
   {
     "ID": "Puntarenas.Puntarenas.MonteVerde",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "MonteVerde",
     "COD_POSTAL": 60109,
     "AREA_KM2": 53.05,
     "POBL_2022": 4943,
@@ -3273,6 +4500,9 @@
   },
   {
     "ID": "Puntarenas.Puntarenas.IsladelCoco",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "IsladelCoco",
     "COD_POSTAL": 60110,
     "AREA_KM2": 23.52,
     "POBL_2022": "",
@@ -3281,6 +4511,9 @@
   },
   {
     "ID": "Puntarenas.Puntarenas.Cóbano",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "Cóbano",
     "COD_POSTAL": 60111,
     "AREA_KM2": 317.06,
     "POBL_2022": 9736,
@@ -3289,6 +4522,9 @@
   },
   {
     "ID": "Puntarenas.Puntarenas.Chacarita",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "Chacarita",
     "COD_POSTAL": 60112,
     "AREA_KM2": 4.92,
     "POBL_2022": 21244,
@@ -3297,6 +4533,9 @@
   },
   {
     "ID": "Puntarenas.Puntarenas.Chira",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "Chira",
     "COD_POSTAL": 60113,
     "AREA_KM2": 41.71,
     "POBL_2022": 1714,
@@ -3305,6 +4544,9 @@
   },
   {
     "ID": "Puntarenas.Puntarenas.Acapulco",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "Acapulco",
     "COD_POSTAL": 60114,
     "AREA_KM2": 111.2,
     "POBL_2022": 1560,
@@ -3313,6 +4555,9 @@
   },
   {
     "ID": "Puntarenas.Puntarenas.ElRoble",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "ElRoble",
     "COD_POSTAL": 60115,
     "AREA_KM2": 7.94,
     "POBL_2022": 21240,
@@ -3321,6 +4566,9 @@
   },
   {
     "ID": "Puntarenas.Puntarenas.Arancibia",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "Arancibia",
     "COD_POSTAL": 60116,
     "AREA_KM2": 45.04,
     "POBL_2022": 784,
@@ -3329,6 +4577,9 @@
   },
   {
     "ID": "Puntarenas.Esparza.EspírituSanto",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Esparza",
+    "DISTRITO": "EspírituSanto",
     "COD_POSTAL": 60201,
     "AREA_KM2": 18.95,
     "POBL_2022": 22181,
@@ -3337,6 +4588,9 @@
   },
   {
     "ID": "Puntarenas.Esparza.SanJuanGrande",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Esparza",
+    "DISTRITO": "SanJuanGrande",
     "COD_POSTAL": 60202,
     "AREA_KM2": 18.7,
     "POBL_2022": 8915,
@@ -3345,6 +4599,9 @@
   },
   {
     "ID": "Puntarenas.Esparza.Macacona",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Esparza",
+    "DISTRITO": "Macacona",
     "COD_POSTAL": 60203,
     "AREA_KM2": 33.51,
     "POBL_2022": 5482,
@@ -3353,6 +4610,9 @@
   },
   {
     "ID": "Puntarenas.Esparza.SanRafael",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Esparza",
+    "DISTRITO": "SanRafael",
     "COD_POSTAL": 60204,
     "AREA_KM2": 34.35,
     "POBL_2022": 1725,
@@ -3361,6 +4621,9 @@
   },
   {
     "ID": "Puntarenas.Esparza.SanJerónimo",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Esparza",
+    "DISTRITO": "SanJerónimo",
     "COD_POSTAL": 60205,
     "AREA_KM2": 49.95,
     "POBL_2022": 941,
@@ -3369,6 +4632,9 @@
   },
   {
     "ID": "Puntarenas.Esparza.Caldera",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Esparza",
+    "DISTRITO": "Caldera",
     "COD_POSTAL": 60206,
     "AREA_KM2": 62.01,
     "POBL_2022": "",
@@ -3377,6 +4643,9 @@
   },
   {
     "ID": "Puntarenas.BuenosAires.BuenosAires",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "BuenosAires",
+    "DISTRITO": "BuenosAires",
     "COD_POSTAL": 60301,
     "AREA_KM2": 555.37,
     "POBL_2022": 29454,
@@ -3385,6 +4654,9 @@
   },
   {
     "ID": "Puntarenas.BuenosAires.Volcán",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "BuenosAires",
+    "DISTRITO": "Volcán",
     "COD_POSTAL": 60302,
     "AREA_KM2": 187.56,
     "POBL_2022": 3690,
@@ -3393,6 +4665,9 @@
   },
   {
     "ID": "Puntarenas.BuenosAires.PotreroGrande",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "BuenosAires",
+    "DISTRITO": "PotreroGrande",
     "COD_POSTAL": 60303,
     "AREA_KM2": 626.4,
     "POBL_2022": 6494,
@@ -3401,6 +4676,9 @@
   },
   {
     "ID": "Puntarenas.BuenosAires.Boruca",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "BuenosAires",
+    "DISTRITO": "Boruca",
     "COD_POSTAL": 60304,
     "AREA_KM2": 125.02,
     "POBL_2022": 3289,
@@ -3409,6 +4687,9 @@
   },
   {
     "ID": "Puntarenas.BuenosAires.Pilas",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "BuenosAires",
+    "DISTRITO": "Pilas",
     "COD_POSTAL": 60305,
     "AREA_KM2": 114.81,
     "POBL_2022": 1749,
@@ -3417,6 +4698,9 @@
   },
   {
     "ID": "Puntarenas.BuenosAires.Colinas",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "BuenosAires",
+    "DISTRITO": "Colinas",
     "COD_POSTAL": 60306,
     "AREA_KM2": 129.07,
     "POBL_2022": 1391,
@@ -3425,6 +4709,9 @@
   },
   {
     "ID": "Puntarenas.BuenosAires.Chánguena",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "BuenosAires",
+    "DISTRITO": "Chánguena",
     "COD_POSTAL": 60307,
     "AREA_KM2": 273.2,
     "POBL_2022": 2929,
@@ -3433,6 +4720,9 @@
   },
   {
     "ID": "Puntarenas.BuenosAires.Biolley",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "BuenosAires",
+    "DISTRITO": "Biolley",
     "COD_POSTAL": 60308,
     "AREA_KM2": 208.71,
     "POBL_2022": 2589,
@@ -3441,6 +4731,9 @@
   },
   {
     "ID": "Puntarenas.BuenosAires.Brunka",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "BuenosAires",
+    "DISTRITO": "Brunka",
     "COD_POSTAL": 60309,
     "AREA_KM2": 162.96,
     "POBL_2022": 3197,
@@ -3449,6 +4742,9 @@
   },
   {
     "ID": "Puntarenas.MontesdeOro.Miramar",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "MontesdeOro",
+    "DISTRITO": "Miramar",
     "COD_POSTAL": 60401,
     "AREA_KM2": 110.64,
     "POBL_2022": 9027,
@@ -3457,6 +4753,9 @@
   },
   {
     "ID": "Puntarenas.MontesdeOro.LaUnión",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "MontesdeOro",
+    "DISTRITO": "LaUnión",
     "COD_POSTAL": 60402,
     "AREA_KM2": 78.33,
     "POBL_2022": 1513,
@@ -3465,6 +4764,9 @@
   },
   {
     "ID": "Puntarenas.MontesdeOro.SanIsidro",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "MontesdeOro",
+    "DISTRITO": "SanIsidro",
     "COD_POSTAL": 60403,
     "AREA_KM2": 57.87,
     "POBL_2022": 4047,
@@ -3473,6 +4775,9 @@
   },
   {
     "ID": "Puntarenas.Osa.PuertoCortés",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Osa",
+    "DISTRITO": "PuertoCortés",
     "COD_POSTAL": 60501,
     "AREA_KM2": 230.98,
     "POBL_2022": 8844,
@@ -3481,6 +4786,9 @@
   },
   {
     "ID": "Puntarenas.Osa.Palmar",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Osa",
+    "DISTRITO": "Palmar",
     "COD_POSTAL": 60502,
     "AREA_KM2": 250.72,
     "POBL_2022": 9716,
@@ -3489,6 +4797,9 @@
   },
   {
     "ID": "Puntarenas.Osa.Sierpe",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Osa",
+    "DISTRITO": "Sierpe",
     "COD_POSTAL": 60503,
     "AREA_KM2": 631.15,
     "POBL_2022": 3645,
@@ -3497,6 +4808,9 @@
   },
   {
     "ID": "Puntarenas.Osa.BahíaBallena",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Osa",
+    "DISTRITO": "BahíaBallena",
     "COD_POSTAL": 60504,
     "AREA_KM2": 160.39,
     "POBL_2022": 3487,
@@ -3505,6 +4819,9 @@
   },
   {
     "ID": "Puntarenas.Osa.PiedrasBlancas",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Osa",
+    "DISTRITO": "PiedrasBlancas",
     "COD_POSTAL": 60505,
     "AREA_KM2": 263.27,
     "POBL_2022": 4529,
@@ -3513,6 +4830,9 @@
   },
   {
     "ID": "Puntarenas.Osa.BahíaDrake",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Osa",
+    "DISTRITO": "BahíaDrake",
     "COD_POSTAL": 60506,
     "AREA_KM2": 393.39,
     "POBL_2022": 1162,
@@ -3521,6 +4841,9 @@
   },
   {
     "ID": "Puntarenas.Quepos.Quepos",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Quepos",
+    "DISTRITO": "Quepos",
     "COD_POSTAL": 60601,
     "AREA_KM2": 235.81,
     "POBL_2022": 25665,
@@ -3529,6 +4852,9 @@
   },
   {
     "ID": "Puntarenas.Quepos.Savegre",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Quepos",
+    "DISTRITO": "Savegre",
     "COD_POSTAL": 60602,
     "AREA_KM2": 216.07,
     "POBL_2022": 4116,
@@ -3537,6 +4863,9 @@
   },
   {
     "ID": "Puntarenas.Quepos.Naranjito",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Quepos",
+    "DISTRITO": "Naranjito",
     "COD_POSTAL": 60603,
     "AREA_KM2": 104.68,
     "POBL_2022": 4239,
@@ -3545,6 +4874,9 @@
   },
   {
     "ID": "Puntarenas.Golfito.Golfito",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Golfito",
+    "DISTRITO": "Golfito",
     "COD_POSTAL": 60701,
     "AREA_KM2": 357.32,
     "POBL_2022": 11867,
@@ -3553,6 +4885,9 @@
   },
   {
     "ID": "Puntarenas.Golfito.PuertoJiménez",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Golfito",
+    "DISTRITO": "PuertoJiménez",
     "COD_POSTAL": 60702,
     "AREA_KM2": 722.56,
     "POBL_2022": 12836,
@@ -3561,6 +4896,9 @@
   },
   {
     "ID": "Puntarenas.Golfito.Guaycará",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Golfito",
+    "DISTRITO": "Guaycará",
     "COD_POSTAL": 60703,
     "AREA_KM2": 323.11,
     "POBL_2022": 14120,
@@ -3569,6 +4907,9 @@
   },
   {
     "ID": "Puntarenas.Golfito.Pavón",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Golfito",
+    "DISTRITO": "Pavón",
     "COD_POSTAL": 60704,
     "AREA_KM2": 353.26,
     "POBL_2022": 7700,
@@ -3577,6 +4918,9 @@
   },
   {
     "ID": "Puntarenas.CotoBrus.SanVito",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "CotoBrus",
+    "DISTRITO": "SanVito",
     "COD_POSTAL": 60801,
     "AREA_KM2": 74.88,
     "POBL_2022": 16629,
@@ -3585,6 +4929,9 @@
   },
   {
     "ID": "Puntarenas.CotoBrus.Sabalito",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "CotoBrus",
+    "DISTRITO": "Sabalito",
     "COD_POSTAL": 60802,
     "AREA_KM2": 186.82,
     "POBL_2022": 13202,
@@ -3593,6 +4940,9 @@
   },
   {
     "ID": "Puntarenas.CotoBrus.Aguabuena",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "CotoBrus",
+    "DISTRITO": "Aguabuena",
     "COD_POSTAL": 60803,
     "AREA_KM2": 63.75,
     "POBL_2022": 7050,
@@ -3601,6 +4951,9 @@
   },
   {
     "ID": "Puntarenas.CotoBrus.Limoncito",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "CotoBrus",
+    "DISTRITO": "Limoncito",
     "COD_POSTAL": 60804,
     "AREA_KM2": 124.04,
     "POBL_2022": 4152,
@@ -3609,6 +4962,9 @@
   },
   {
     "ID": "Puntarenas.CotoBrus.Pittier",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "CotoBrus",
+    "DISTRITO": "Pittier",
     "COD_POSTAL": 60805,
     "AREA_KM2": 255.23,
     "POBL_2022": 3247,
@@ -3617,6 +4973,9 @@
   },
   {
     "ID": "Puntarenas.CotoBrus.GutiérrezBraun",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "CotoBrus",
+    "DISTRITO": "GutiérrezBraun",
     "COD_POSTAL": 60806,
     "AREA_KM2": 238.38,
     "POBL_2022": "",
@@ -3625,6 +4984,9 @@
   },
   {
     "ID": "Puntarenas.Parrita.Parrita",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Parrita",
+    "DISTRITO": "Parrita",
     "COD_POSTAL": 60901,
     "AREA_KM2": 480.44,
     "POBL_2022": 20984,
@@ -3633,6 +4995,9 @@
   },
   {
     "ID": "Puntarenas.Corredores.Corredor",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Corredores",
+    "DISTRITO": "Corredor",
     "COD_POSTAL": 61001,
     "AREA_KM2": 276.37,
     "POBL_2022": 20050,
@@ -3641,6 +5006,9 @@
   },
   {
     "ID": "Puntarenas.Corredores.LaCuesta",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Corredores",
+    "DISTRITO": "LaCuesta",
     "COD_POSTAL": 61002,
     "AREA_KM2": 37.06,
     "POBL_2022": 5333,
@@ -3649,6 +5017,9 @@
   },
   {
     "ID": "Puntarenas.Corredores.Canoas",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Corredores",
+    "DISTRITO": "Canoas",
     "COD_POSTAL": 61003,
     "AREA_KM2": 122.54,
     "POBL_2022": 15929,
@@ -3657,6 +5028,9 @@
   },
   {
     "ID": "Puntarenas.Corredores.Laurel",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Corredores",
+    "DISTRITO": "Laurel",
     "COD_POSTAL": 61004,
     "AREA_KM2": 188.38,
     "POBL_2022": 12172,
@@ -3665,6 +5039,9 @@
   },
   {
     "ID": "Puntarenas.Garabito.Jacó",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Garabito",
+    "DISTRITO": "Jacó",
     "COD_POSTAL": 61101,
     "AREA_KM2": 141.11,
     "POBL_2022": 18613,
@@ -3673,6 +5050,9 @@
   },
   {
     "ID": "Puntarenas.Garabito.Tárcoles",
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Garabito",
+    "DISTRITO": "Tárcoles",
     "COD_POSTAL": 61102,
     "AREA_KM2": 172.87,
     "POBL_2022": 8791,
@@ -3681,6 +5061,9 @@
   },
   {
     "ID": "Limón.Limón.Limón",
+    "PROVINCIA": "Limón",
+    "CANTON": "Limón",
+    "DISTRITO": "Limón",
     "COD_POSTAL": 70101,
     "AREA_KM2": 59.51,
     "POBL_2022": 60710,
@@ -3689,6 +5072,9 @@
   },
   {
     "ID": "Limón.Limón.ValleLaEstrella",
+    "PROVINCIA": "Limón",
+    "CANTON": "Limón",
+    "DISTRITO": "ValleLaEstrella",
     "COD_POSTAL": 70102,
     "AREA_KM2": 1238.66,
     "POBL_2022": 20818,
@@ -3697,6 +5083,9 @@
   },
   {
     "ID": "Limón.Limón.RíoBlanco",
+    "PROVINCIA": "Limón",
+    "CANTON": "Limón",
+    "DISTRITO": "RíoBlanco",
     "COD_POSTAL": 70103,
     "AREA_KM2": 131.29,
     "POBL_2022": 10257,
@@ -3705,6 +5094,9 @@
   },
   {
     "ID": "Limón.Limón.Matama",
+    "PROVINCIA": "Limón",
+    "CANTON": "Limón",
+    "DISTRITO": "Matama",
     "COD_POSTAL": 70104,
     "AREA_KM2": 339.13,
     "POBL_2022": 8451,
@@ -3713,6 +5105,9 @@
   },
   {
     "ID": "Limón.Pococí.Guápiles",
+    "PROVINCIA": "Limón",
+    "CANTON": "Pococí",
+    "DISTRITO": "Guápiles",
     "COD_POSTAL": 70201,
     "AREA_KM2": 222.63,
     "POBL_2022": 39611,
@@ -3721,6 +5116,9 @@
   },
   {
     "ID": "Limón.Pococí.Jiménez",
+    "PROVINCIA": "Limón",
+    "CANTON": "Pococí",
+    "DISTRITO": "Jiménez",
     "COD_POSTAL": 70202,
     "AREA_KM2": 109.44,
     "POBL_2022": 13052,
@@ -3729,6 +5127,9 @@
   },
   {
     "ID": "Limón.Pococí.Rita",
+    "PROVINCIA": "Limón",
+    "CANTON": "Pococí",
+    "DISTRITO": "Rita",
     "COD_POSTAL": 70203,
     "AREA_KM2": 502.39,
     "POBL_2022": 29241,
@@ -3737,6 +5138,9 @@
   },
   {
     "ID": "Limón.Pococí.Roxana",
+    "PROVINCIA": "Limón",
+    "CANTON": "Pococí",
+    "DISTRITO": "Roxana",
     "COD_POSTAL": 70204,
     "AREA_KM2": 175.67,
     "POBL_2022": 20342,
@@ -3745,6 +5149,9 @@
   },
   {
     "ID": "Limón.Pococí.Cariari",
+    "PROVINCIA": "Limón",
+    "CANTON": "Pococí",
+    "DISTRITO": "Cariari",
     "COD_POSTAL": 70205,
     "AREA_KM2": 200.96,
     "POBL_2022": 40278,
@@ -3753,6 +5160,9 @@
   },
   {
     "ID": "Limón.Pococí.Colorado",
+    "PROVINCIA": "Limón",
+    "CANTON": "Pococí",
+    "DISTRITO": "Colorado",
     "COD_POSTAL": 70206,
     "AREA_KM2": 1158.91,
     "POBL_2022": 5040,
@@ -3761,6 +5171,9 @@
   },
   {
     "ID": "Limón.Pococí.LaColonia",
+    "PROVINCIA": "Limón",
+    "CANTON": "Pococí",
+    "DISTRITO": "LaColonia",
     "COD_POSTAL": 70207,
     "AREA_KM2": 39.1,
     "POBL_2022": 7110,
@@ -3769,6 +5182,9 @@
   },
   {
     "ID": "Limón.Siquirres.Siquirres",
+    "PROVINCIA": "Limón",
+    "CANTON": "Siquirres",
+    "DISTRITO": "Siquirres",
     "COD_POSTAL": 70301,
     "AREA_KM2": 373.27,
     "POBL_2022": 34576,
@@ -3777,6 +5193,9 @@
   },
   {
     "ID": "Limón.Siquirres.Pacuarito",
+    "PROVINCIA": "Limón",
+    "CANTON": "Siquirres",
+    "DISTRITO": "Pacuarito",
     "COD_POSTAL": 70302,
     "AREA_KM2": 219.43,
     "POBL_2022": 10804,
@@ -3785,6 +5204,9 @@
   },
   {
     "ID": "Limón.Siquirres.Florida",
+    "PROVINCIA": "Limón",
+    "CANTON": "Siquirres",
+    "DISTRITO": "Florida",
     "COD_POSTAL": 70303,
     "AREA_KM2": 82.76,
     "POBL_2022": 2656,
@@ -3793,6 +5215,9 @@
   },
   {
     "ID": "Limón.Siquirres.Germania",
+    "PROVINCIA": "Limón",
+    "CANTON": "Siquirres",
+    "DISTRITO": "Germania",
     "COD_POSTAL": 70304,
     "AREA_KM2": 33.98,
     "POBL_2022": 3062,
@@ -3801,6 +5226,9 @@
   },
   {
     "ID": "Limón.Siquirres.ElCairo",
+    "PROVINCIA": "Limón",
+    "CANTON": "Siquirres",
+    "DISTRITO": "ElCairo",
     "COD_POSTAL": 70305,
     "AREA_KM2": 107.2,
     "POBL_2022": 7628,
@@ -3809,6 +5237,9 @@
   },
   {
     "ID": "Limón.Siquirres.Alegría",
+    "PROVINCIA": "Limón",
+    "CANTON": "Siquirres",
+    "DISTRITO": "Alegría",
     "COD_POSTAL": 70306,
     "AREA_KM2": 37.73,
     "POBL_2022": 6947,
@@ -3817,6 +5248,9 @@
   },
   {
     "ID": "Limón.Siquirres.Reventazón",
+    "PROVINCIA": "Limón",
+    "CANTON": "Siquirres",
+    "DISTRITO": "Reventazón",
     "COD_POSTAL": 70307,
     "AREA_KM2": "",
     "POBL_2022": "",
@@ -3825,6 +5259,9 @@
   },
   {
     "ID": "Limón.Talamanca.Bratsi",
+    "PROVINCIA": "Limón",
+    "CANTON": "Talamanca",
+    "DISTRITO": "Bratsi",
     "COD_POSTAL": 70401,
     "AREA_KM2": 180.44,
     "POBL_2022": 10590,
@@ -3833,6 +5270,9 @@
   },
   {
     "ID": "Limón.Talamanca.Sixaola",
+    "PROVINCIA": "Limón",
+    "CANTON": "Talamanca",
+    "DISTRITO": "Sixaola",
     "COD_POSTAL": 70402,
     "AREA_KM2": 169.32,
     "POBL_2022": 11847,
@@ -3841,6 +5281,9 @@
   },
   {
     "ID": "Limón.Talamanca.Cahuita",
+    "PROVINCIA": "Limón",
+    "CANTON": "Talamanca",
+    "DISTRITO": "Cahuita",
     "COD_POSTAL": 70403,
     "AREA_KM2": 234.6,
     "POBL_2022": 13656,
@@ -3849,6 +5292,9 @@
   },
   {
     "ID": "Limón.Talamanca.Telire",
+    "PROVINCIA": "Limón",
+    "CANTON": "Talamanca",
+    "DISTRITO": "Telire",
     "COD_POSTAL": 70404,
     "AREA_KM2": 2229.73,
     "POBL_2022": 8709,
@@ -3857,6 +5303,9 @@
   },
   {
     "ID": "Limón.Matina.Matina",
+    "PROVINCIA": "Limón",
+    "CANTON": "Matina",
+    "DISTRITO": "Matina",
     "COD_POSTAL": 70501,
     "AREA_KM2": 351.75,
     "POBL_2022": 10437,
@@ -3865,6 +5314,9 @@
   },
   {
     "ID": "Limón.Matina.Batán",
+    "PROVINCIA": "Limón",
+    "CANTON": "Matina",
+    "DISTRITO": "Batán",
     "COD_POSTAL": 70502,
     "AREA_KM2": 213.69,
     "POBL_2022": 20814,
@@ -3873,6 +5325,9 @@
   },
   {
     "ID": "Limón.Matina.Carrandi",
+    "PROVINCIA": "Limón",
+    "CANTON": "Matina",
+    "DISTRITO": "Carrandi",
     "COD_POSTAL": 70503,
     "AREA_KM2": 205.99,
     "POBL_2022": 16140,
@@ -3881,6 +5336,9 @@
   },
   {
     "ID": "Limón.Guácimo.Guácimo",
+    "PROVINCIA": "Limón",
+    "CANTON": "Guácimo",
+    "DISTRITO": "Guácimo",
     "COD_POSTAL": 70601,
     "AREA_KM2": 223.27,
     "POBL_2022": 26152,
@@ -3889,6 +5347,9 @@
   },
   {
     "ID": "Limón.Guácimo.Mercedes",
+    "PROVINCIA": "Limón",
+    "CANTON": "Guácimo",
+    "DISTRITO": "Mercedes",
     "COD_POSTAL": 70602,
     "AREA_KM2": 90.43,
     "POBL_2022": 2357,
@@ -3897,6 +5358,9 @@
   },
   {
     "ID": "Limón.Guácimo.Pocora",
+    "PROVINCIA": "Limón",
+    "CANTON": "Guácimo",
+    "DISTRITO": "Pocora",
     "COD_POSTAL": 70603,
     "AREA_KM2": 72.7,
     "POBL_2022": 8494,
@@ -3905,6 +5369,9 @@
   },
   {
     "ID": "Limón.Guácimo.RíoJiménez",
+    "PROVINCIA": "Limón",
+    "CANTON": "Guácimo",
+    "DISTRITO": "RíoJiménez",
     "COD_POSTAL": 70604,
     "AREA_KM2": 113.59,
     "POBL_2022": 11836,
@@ -3913,6 +5380,9 @@
   },
   {
     "ID": "Limón.Guácimo.Duacarí",
+    "PROVINCIA": "Limón",
+    "CANTON": "Guácimo",
+    "DISTRITO": "Duacarí",
     "COD_POSTAL": 70605,
     "AREA_KM2": 81.36,
     "POBL_2022": 8182,
