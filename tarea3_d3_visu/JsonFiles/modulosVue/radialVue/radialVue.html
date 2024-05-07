@@ -10,7 +10,7 @@
     <h1>Radial Layout de modulos de Vue</h1>
 
     <!-- Create a select element for province selection -->
-    <label for="province-select">Selecciona una provincia:</label>
+    <label for="province-select">Selecciona un paquete:</label>
     <select id="province-select"></select>
     <a href='../../../index.html'>Regresar a la página principal</a>
     <!-- Create a div where the graph will take place -->
@@ -32,9 +32,9 @@
 
 
         // read json data
-        d3.json("../distritosCRJson.json", function(data) {
+        d3.json("../modulosVueOrdenadoJson.json", function(data) {
             // Get unique provinces
-            var provinces = [...new Set(data.map(d => d.PROVINCIA))];
+            var provinces = [...new Set(data.map(d => d.package))];
 
             // Fill the select element with provinces
             d3.select("#province-select")
@@ -48,12 +48,12 @@
             // Function to update the chart based on selected province
             function updateChart(selectedProvince) {
                 // Filter the data to include only the selected province
-                var selectedData = data.filter(d => d.PROVINCIA === selectedProvince);
+                var selectedData = data.filter(d => d.package === selectedProvince);
 
                 // Nest the data by PROVINCIA and CANTON
                 var nestedData = d3.nest()
-                    .key(function(d) { return d.PROVINCIA; })
-                    .key(function(d) { return d.CANTON; })
+                    .key(function(d) { return d.package; })
+                    .key(function(d) { return d.function; })
                     .entries(selectedData);
 
                 // Create the cluster layout
