@@ -11,29 +11,45 @@
       display: flex;
       justify-content: center;
       align-items: center;
+      flex-direction: column; /* Alinea el contenido en columna */
       height: 100vh;
       margin: 0;
     }
 
     #my_dataviz {
-      max-width: 80%;
+      width: 600px;
+      height: 600px;
+      margin-top: 20px; /* Aumenta el margen superior */
     }
 
     .node:hover {
       stroke-width: 7px !important;
       opacity: 1 !important;
     }
+
+    /* Estilos para el cuadro de texto */
+    .tooltip {
+      position: absolute;
+      text-align: center; /* Centra el texto */
+      padding: 8px;
+      font: 12px sans-serif;
+      background: lightsteelblue;
+      border: 0px;
+      border-radius: 8px;
+      pointer-events: none;
+    }
   </style>
 </head>
 <body>
-  <h1>Tamaño de diferentes modulos de Vue con Circle Packing</h1>
+  <h1>Tamaño de diferentes módulos de Vue con Circle Packing</h1>
+  <p><a href="../../../index.html">Regresar a la página principal</a></p> <!-- Mueve el enlace de referencia arriba del gráfico -->
   <div id="my_dataviz"></div>
 
   <script>
     // set the dimensions and margins of the graph
     var margin = {top: 50, right: 30, bottom: 30, left: 40},
-        width = 460 - margin.left - margin.right,
-        height = 460 - margin.top - margin.bottom;
+        width = 800 - margin.left - margin.right,
+        height = 800 - margin.top - margin.bottom;
 
     // append the svg object to the body of the page
     var svg = d3.select("#my_dataviz")
@@ -45,16 +61,16 @@
               "translate(" + margin.left + "," + margin.top + ")");
 
     // Read data from CSV file
-    d3.csv("PoblacionTotalProvincia.csv", function(data) {
+    d3.csv("../modulosVueOrdenado.csv", function(data) {
 
       // Color palette for provinces
       var color = d3.scaleOrdinal()
-        .domain(data.map(function(d) { return d.PROVINCIA; }))
+        .domain(data.map(function(d) { return d.function; }))
         .range(["#f7fbff", "#deebf7", "#c6dbef", "#9ecae1", "#6baed6", "#4292c6", "#2171b5"]);
 
       // Size scale for provinces
       var size = d3.scaleLinear()
-        .domain([0, d3.max(data, function(d) { return +d.POBLACION; })])
+        .domain([0, d3.max(data, function(d) { return +d.size; })])
         .range([7, 55]); // circle will be between 7 and 55 px wide
 
       // create a tooltip
@@ -74,7 +90,7 @@
       };
       var mousemove = function(d) {
         Tooltip
-          .html('<u>' + d.PROVINCIA + '</u>' + "<br>" + d.POBLACION + "  habitantes")
+          .html('<u>' + d.function + '</u>' + "<br>" + d.size + "  de tamaño del peso de los archivos en conjunto")
           .style("left", (d3.mouse(this)[0] + 20) + "px")
           .style("top", (d3.mouse(this)[1]) + "px");
       };
@@ -89,10 +105,10 @@
         .enter()
         .append("circle")
           .attr("class", "node")
-          .attr("r", function(d) { return size(+d.POBLACION); })
+          .attr("r", function(d) { return size(+d.size); })
           .attr("cx", width / 2)
           .attr("cy", height / 2)
-          .style("fill", function(d) { return color(d.PROVINCIA); })
+          .style("fill", function(d) { return color(d.function); })
           .style("fill-opacity", 0.8)
           .attr("stroke", "black")
           .style("stroke-width", 1)
@@ -108,7 +124,7 @@
       var simulation = d3.forceSimulation()
         .force("center", d3.forceCenter().x(width / 2).y(height / 2)) // Attraction to the center of the svg area
         .force("charge", d3.forceManyBody().strength(.1)) // Nodes are attracted one each other if value is > 0
-        .force("collide", d3.forceCollide().strength(.2).radius(function(d) { return (size(+d.POBLACION) + 3); }).iterations(1)); // Force that avoids circle overlapping
+        .force("collide", d3.forceCollide().strength(.2).radius(function(d) { return (size(+d.size) + 3); }).iterations(1)); // Force that avoids circle overlapping
 
       // Apply these forces to the nodes and update their positions.
       // Once the force algorithm is happy with positions ('alpha' value is low enough), simulations will stop.
@@ -145,9 +161,6 @@
         .style("fill", "none")
         .style("stroke", "black")
         .style("stroke-width", 2);
-
-            // Add a link to go back
-            d3.select("body").append("p").html("<a href='../../../index.html'>Regresar a la página principal</a>");
 
     });
   </script>
