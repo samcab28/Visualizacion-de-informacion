@@ -13,8 +13,8 @@
     <script>
         // set the dimensions and margins of the graph
         var margin = {top: 50, right: 10, bottom: 10, left: 10},
-            width = 1800 - margin.left - margin.right,
-            height = 600 - margin.top - margin.bottom;
+            width = 4000 - margin.left - margin.right,
+            height = 1200 - margin.top - margin.bottom;
 
         // append the svg object to the body of the page
         var svg = d3.select("#my_dataviz")
@@ -35,16 +35,16 @@
 
         // read json data
         // Read the data
-        d3.json("../distritosCRJson.json", function(data) {
+        d3.json("../modulosVueOrdenadoJson.json", function(data) {
 
             data.sort(function(a, b) {
-                return a.PROVINCIA.localeCompare(b.PROVINCIA) || a.CANTON.localeCompare(b.CANTON) || a.DISTRITO.localeCompare(b.DISTRITO);
+                return a.package.localeCompare(b.package) || a.function.localeCompare(b.function) || a.name.localeCompare(b.name);
             });
 
             // Nest the data by PROVINCIA and CANTON
             var nestedData = d3.nest()
-                .key(function(d) { return d.PROVINCIA; })
-                .key(function(d) { return d.CANTON; })
+                .key(function(d) { return d.package; })
+                .key(function(d) { return d.function; })
                 .entries(data);
 
             // Define a color scale for provinces
