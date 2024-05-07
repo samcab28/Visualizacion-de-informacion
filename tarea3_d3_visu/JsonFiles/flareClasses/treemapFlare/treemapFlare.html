@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Clases y paquetes de la clase flare</title>
+    <title>treemap flare</title>
     <!-- Load d3.js -->
     <script src="https://d3js.org/d3.v4.js"></script>
 </head>
@@ -29,7 +29,7 @@
             .attr("text-anchor", "middle")
             .attr("font-size", "24px")
             .attr("font-weight", "bold")
-            .text("Cantones de las Provincias de Costa Rica con grafico Treemap");
+            .text("Modulos de las clases Flare");
 
         // read json data
         // Read the data
@@ -39,24 +39,24 @@
                 return a.package.localeCompare(b.package);
             });
 
-            // Nest the data by PROVINCIA and CANTON
+            // Nest the data by PACKAGE and FUNCTION
             var nestedData = d3.nest()
                 .key(function(d) { return d.package; })
                 .key(function(d) { return d.function; })
                 .entries(data);
 
-            // Define a color scale for provinces
-            var provinceColorScale = d3.scaleOrdinal(d3.schemeCategory10)
+            // Define a color scale for packages
+            var packageColorScale = d3.scaleOrdinal(d3.schemeCategory10)
                 .domain(nestedData.map(function(d) { return d.key; }));
 
             var treemapWidth = width / nestedData.length;
             var treemapHeight = height - 150; // Reducir la altura para dejar espacio al título
 
-            nestedData.forEach(function(provinciaData, index) {
-                var provincia = provinciaData.key;
+            nestedData.forEach(function(packageData, index) {
+                var package = packageData.key;
 
                 // Create a root node for the treemap
-                var root = d3.hierarchy({ values: provinciaData.values }, function(d) { return d.values; })
+                var root = d3.hierarchy({ values: packageData.values }, function(d) { return d.values; })
                     .sum(function(d) { return 1; }); // Use a constant value to ignore population
 
                 // Compute the treemap layout
@@ -67,37 +67,37 @@
                 treemap(root);
 
                 // Append a group for each treemap
-                var provinceGroup = svg.append("g")
+                var packageGroup = svg.append("g")
                     .attr("transform", "translate(" + (index * treemapWidth) + ", 100)"); // Ajustar la posición hacia abajo
 
-                // Append rectangles for each province
-                var provinceNodes = provinceGroup.selectAll(".province")
+                // Append rectangles for each package
+                var packageNodes = packageGroup.selectAll(".package")
                     .data(root.children)
                     .enter().append("g")
-                        .attr("class", "province")
+                        .attr("class", "package")
                         .attr("transform", function(d) { return "translate(" + d.x0 + "," + d.y0 + ")"; });
 
-                provinceNodes.append("rect")
-                    .attr("class", "subprovince")
+                packageNodes.append("rect")
+                    .attr("class", "subpackage")
                     .attr("x", 0)
                     .attr("y", 0)
                     .attr("width", function(d) { return d.x1 - d.x0; })
                     .attr("height", function(d) { return d.y1 - d.y0; })
                     .style("stroke", "black")
-                    .style("fill", function(d) { return provinceColorScale(d.data.key); });
+                    .style("fill", function(d) { return packageColorScale(d.data.key); });
 
-                // Append text for province name
-                provinceGroup.append("text")
+                // Append text for package name
+                packageGroup.append("text")
                     .attr("x", treemapWidth / 2)
                     .attr("y", -20) // Ajustar la posición vertical
                     .attr("text-anchor", "middle")
                     .attr("font-size", "18px")
                     .attr("font-weight", "bold")
                     .attr("fill", "black")
-                    .text(provincia);
+                    .text(package);
 
-                // Append text for canton name
-                provinceNodes.append("text")
+                // Append text for function name
+                packageNodes.append("text")
                     .attr("x", 5)
                     .attr("y", 15)
                     .attr("fill", "black")
