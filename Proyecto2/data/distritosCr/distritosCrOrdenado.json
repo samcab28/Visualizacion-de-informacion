@@ -1,0 +1,2942 @@
+[
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "SanJosé",
+      "DISTRITO": "Carmen",
+      "POBL_2022": 2946
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "SanJosé",
+      "DISTRITO": "Merced",
+      "POBL_2022": 15408
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "SanJosé",
+      "DISTRITO": "Hospital",
+      "POBL_2022": 24030
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "SanJosé",
+      "DISTRITO": "Catedral",
+      "POBL_2022": 15682
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "SanJosé",
+      "DISTRITO": "Zapote",
+      "POBL_2022": 21990
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "SanJosé",
+      "DISTRITO": "SanFranciscodeDosRíos",
+      "POBL_2022": 23745
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "SanJosé",
+      "DISTRITO": "Uruca",
+      "POBL_2022": 42861
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "SanJosé",
+      "DISTRITO": "MataRedonda",
+      "POBL_2022": 10119
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "SanJosé",
+      "DISTRITO": "Pavas",
+      "POBL_2022": 89531
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "SanJosé",
+      "DISTRITO": "Hatillo",
+      "POBL_2022": 60723
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "SanJosé",
+      "DISTRITO": "SanSebastián",
+      "POBL_2022": 44923
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Escazú",
+      "DISTRITO": "Escazú",
+      "POBL_2022": 13752
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Escazú",
+      "DISTRITO": "SanAntonio",
+      "POBL_2022": 28329
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Escazú",
+      "DISTRITO": "SanRafael",
+      "POBL_2022": 29121
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Desamparados",
+      "DISTRITO": "Desamparados",
+      "POBL_2022": 37479
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Desamparados",
+      "DISTRITO": "SanMiguel",
+      "POBL_2022": 38716
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Desamparados",
+      "DISTRITO": "SanJuandeDios",
+      "POBL_2022": 24505
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Desamparados",
+      "DISTRITO": "SanRafaelArriba",
+      "POBL_2022": 18412
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Desamparados",
+      "DISTRITO": "SanAntonio",
+      "POBL_2022": 11343
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Desamparados",
+      "DISTRITO": "Frailes",
+      "POBL_2022": 4586
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Desamparados",
+      "DISTRITO": "Patarrá",
+      "POBL_2022": 14919
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Desamparados",
+      "DISTRITO": "SanCristóbal",
+      "POBL_2022": 4769
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Desamparados",
+      "DISTRITO": "Rosario",
+      "POBL_2022": 3787
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Desamparados",
+      "DISTRITO": "Damas",
+      "POBL_2022": 15713
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Desamparados",
+      "DISTRITO": "SanRafaelAbajo",
+      "POBL_2022": 26781
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Desamparados",
+      "DISTRITO": "Gravilias",
+      "POBL_2022": 17237
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Desamparados",
+      "DISTRITO": "LosGuido",
+      "POBL_2022": 31120
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Puriscal",
+      "DISTRITO": "Santiago",
+      "POBL_2022": 12600
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Puriscal",
+      "DISTRITO": "MercedesSur",
+      "POBL_2022": 7099
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Puriscal",
+      "DISTRITO": "Barbacoas",
+      "POBL_2022": 4486
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Puriscal",
+      "DISTRITO": "GrifoAlto",
+      "POBL_2022": 1492
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Puriscal",
+      "DISTRITO": "SanRafael",
+      "POBL_2022": 2009
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Puriscal",
+      "DISTRITO": "Candelarita",
+      "POBL_2022": 1753
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Puriscal",
+      "DISTRITO": "Desamparaditos",
+      "POBL_2022": 794
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Puriscal",
+      "DISTRITO": "SanAntonio",
+      "POBL_2022": 4720
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Puriscal",
+      "DISTRITO": "Chires",
+      "POBL_2022": 3640
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Tarrazú",
+      "DISTRITO": "SanMarcos",
+      "POBL_2022": 11365
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Tarrazú",
+      "DISTRITO": "SanLorenzo",
+      "POBL_2022": 5250
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Tarrazú",
+      "DISTRITO": "SanCarlos",
+      "POBL_2022": 2172
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Aserrí",
+      "DISTRITO": "Aserrí",
+      "POBL_2022": 30347
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Aserrí",
+      "DISTRITO": "Tarbaca",
+      "POBL_2022": 1676
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Aserrí",
+      "DISTRITO": "VueltadeJorco",
+      "POBL_2022": 7342
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Aserrí",
+      "DISTRITO": "SanGabriel",
+      "POBL_2022": 6930
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Aserrí",
+      "DISTRITO": "Legua",
+      "POBL_2022": 1748
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Aserrí",
+      "DISTRITO": "Monterrey",
+      "POBL_2022": 558
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Aserrí",
+      "DISTRITO": "Salitrillos",
+      "POBL_2022": 15879
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Mora",
+      "DISTRITO": "Colón",
+      "POBL_2022": 17411
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Mora",
+      "DISTRITO": "Guayabo",
+      "POBL_2022": 5414
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Mora",
+      "DISTRITO": "Tabarcia",
+      "POBL_2022": 5160
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Mora",
+      "DISTRITO": "PiedrasNegras",
+      "POBL_2022": 498
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Mora",
+      "DISTRITO": "Picagres",
+      "POBL_2022": 899
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Mora",
+      "DISTRITO": "Jaris",
+      "POBL_2022": 1377
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Mora",
+      "DISTRITO": "Quitirrisí",
+      "POBL_2022": ""
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Goicoechea",
+      "DISTRITO": "Guadalupe",
+      "POBL_2022": 22347
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Goicoechea",
+      "DISTRITO": "SanFrancisco",
+      "POBL_2022": 2421
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Goicoechea",
+      "DISTRITO": "CalleBlancos",
+      "POBL_2022": 23451
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Goicoechea",
+      "DISTRITO": "MatadePlátano",
+      "POBL_2022": 21198
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Goicoechea",
+      "DISTRITO": "Ipís",
+      "POBL_2022": 32049
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Goicoechea",
+      "DISTRITO": "RanchoRedondo",
+      "POBL_2022": 3224
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Goicoechea",
+      "DISTRITO": "Purral",
+      "POBL_2022": 36074
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "SantaAna",
+      "DISTRITO": "SantaAna",
+      "POBL_2022": 12956
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "SantaAna",
+      "DISTRITO": "Salitral",
+      "POBL_2022": 5587
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "SantaAna",
+      "DISTRITO": "Pozos",
+      "POBL_2022": 20671
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "SantaAna",
+      "DISTRITO": "Uruca",
+      "POBL_2022": 9129
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "SantaAna",
+      "DISTRITO": "Piedades",
+      "POBL_2022": 10263
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "SantaAna",
+      "DISTRITO": "Brasil",
+      "POBL_2022": 3247
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Alajuelita",
+      "DISTRITO": "Alajuelita",
+      "POBL_2022": 13325
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Alajuelita",
+      "DISTRITO": "SanJosecito",
+      "POBL_2022": 13069
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Alajuelita",
+      "DISTRITO": "SanAntonio",
+      "POBL_2022": 6003
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Alajuelita",
+      "DISTRITO": "Concepción",
+      "POBL_2022": 23455
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Alajuelita",
+      "DISTRITO": "SanFelipe",
+      "POBL_2022": 41306
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "VázquezdeCoronado",
+      "DISTRITO": "SanIsidro",
+      "POBL_2022": 18631
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "VázquezdeCoronado",
+      "DISTRITO": "SanRafael",
+      "POBL_2022": 8643
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "VázquezdeCoronado",
+      "DISTRITO": "DulceNombredeJesús",
+      "POBL_2022": 12149
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "VázquezdeCoronado",
+      "DISTRITO": "Patalillo",
+      "POBL_2022": 24907
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "VázquezdeCoronado",
+      "DISTRITO": "Cascajal",
+      "POBL_2022": 8602
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Acosta",
+      "DISTRITO": "SanIgnacio",
+      "POBL_2022": 9475
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Acosta",
+      "DISTRITO": "Guaitil",
+      "POBL_2022": 2685
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Acosta",
+      "DISTRITO": "Palmichal",
+      "POBL_2022": 5308
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Acosta",
+      "DISTRITO": "Cangrejal",
+      "POBL_2022": 2121
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Acosta",
+      "DISTRITO": "Sabanillas",
+      "POBL_2022": 2668
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Tibás",
+      "DISTRITO": "SanJuan",
+      "POBL_2022": 25866
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Tibás",
+      "DISTRITO": "CincoEsquinas",
+      "POBL_2022": 8617
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Tibás",
+      "DISTRITO": "AnselmoLlorente",
+      "POBL_2022": 12913
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Tibás",
+      "DISTRITO": "LeónXIII",
+      "POBL_2022": 20551
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Tibás",
+      "DISTRITO": "Colima",
+      "POBL_2022": 18118
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Moravia",
+      "DISTRITO": "SanVicente",
+      "POBL_2022": 32041
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Moravia",
+      "DISTRITO": "SanJerónimo",
+      "POBL_2022": 7463
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Moravia",
+      "DISTRITO": "LaTrinidad",
+      "POBL_2022": 23755
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "MontesdeOca",
+      "DISTRITO": "SanPedro",
+      "POBL_2022": 28844
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "MontesdeOca",
+      "DISTRITO": "Sabanilla",
+      "POBL_2022": 14082
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "MontesdeOca",
+      "DISTRITO": "Mercedes",
+      "POBL_2022": 6086
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "MontesdeOca",
+      "DISTRITO": "SanRafael",
+      "POBL_2022": 13832
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Turrubares",
+      "DISTRITO": "SanPablo",
+      "POBL_2022": 1573
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Turrubares",
+      "DISTRITO": "SanPedro",
+      "POBL_2022": 861
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Turrubares",
+      "DISTRITO": "SanJuandeMata",
+      "POBL_2022": 1546
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Turrubares",
+      "DISTRITO": "SanLuis",
+      "POBL_2022": 721
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Turrubares",
+      "DISTRITO": "Carara",
+      "POBL_2022": 2330
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Dota",
+      "DISTRITO": "SantaMaría",
+      "POBL_2022": 5251
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Dota",
+      "DISTRITO": "Jardín",
+      "POBL_2022": 702
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Dota",
+      "DISTRITO": "Copey",
+      "POBL_2022": 2088
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Curridabat",
+      "DISTRITO": "Curridabat",
+      "POBL_2022": 32605
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Curridabat",
+      "DISTRITO": "Granadilla",
+      "POBL_2022": 19207
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Curridabat",
+      "DISTRITO": "Sánchez",
+      "POBL_2022": 6833
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "Curridabat",
+      "DISTRITO": "Tirrases",
+      "POBL_2022": 22032
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "PérezZeledón",
+      "DISTRITO": "SanIsidrodeElGeneral",
+      "POBL_2022": 48435
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "PérezZeledón",
+      "DISTRITO": "ElGeneral",
+      "POBL_2022": 6873
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "PérezZeledón",
+      "DISTRITO": "DanielFlores",
+      "POBL_2022": 35584
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "PérezZeledón",
+      "DISTRITO": "Rivas",
+      "POBL_2022": 7318
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "PérezZeledón",
+      "DISTRITO": "SanPedro",
+      "POBL_2022": 9344
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "PérezZeledón",
+      "DISTRITO": "Platanares",
+      "POBL_2022": 7497
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "PérezZeledón",
+      "DISTRITO": "Pejibaye",
+      "POBL_2022": 7972
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "PérezZeledón",
+      "DISTRITO": "Cajón",
+      "POBL_2022": 9045
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "PérezZeledón",
+      "DISTRITO": "Barú",
+      "POBL_2022": 2854
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "PérezZeledón",
+      "DISTRITO": "RíoNuevo",
+      "POBL_2022": 3495
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "PérezZeledón",
+      "DISTRITO": "Páramo",
+      "POBL_2022": 4865
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "PérezZeledón",
+      "DISTRITO": "LaAmistad",
+      "POBL_2022": ""
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "LeónCortés",
+      "DISTRITO": "SanPablo",
+      "POBL_2022": 4663
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "LeónCortés",
+      "DISTRITO": "SanAndrés",
+      "POBL_2022": 1746
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "LeónCortés",
+      "DISTRITO": "LlanoBonito",
+      "POBL_2022": 2269
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "LeónCortés",
+      "DISTRITO": "SanIsidro",
+      "POBL_2022": 1870
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "LeónCortés",
+      "DISTRITO": "SantaCruz",
+      "POBL_2022": 2164
+    },
+    {
+      "PROVINCIA": "SanJosé",
+      "CANTON": "LeónCortés",
+      "DISTRITO": "SanAntonio",
+      "POBL_2022": 1278
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Alajuela",
+      "DISTRITO": "Alajuela",
+      "POBL_2022": 48326
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Alajuela",
+      "DISTRITO": "SanJosé",
+      "POBL_2022": 52686
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Alajuela",
+      "DISTRITO": "Carrizal",
+      "POBL_2022": 9002
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Alajuela",
+      "DISTRITO": "SanAntonio",
+      "POBL_2022": 31637
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Alajuela",
+      "DISTRITO": "Guácima",
+      "POBL_2022": 26642
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Alajuela",
+      "DISTRITO": "SanIsidro",
+      "POBL_2022": 22586
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Alajuela",
+      "DISTRITO": "Sabanilla",
+      "POBL_2022": 12396
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Alajuela",
+      "DISTRITO": "SanRafael",
+      "POBL_2022": 34182
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Alajuela",
+      "DISTRITO": "RíoSegundo",
+      "POBL_2022": 13561
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Alajuela",
+      "DISTRITO": "Desamparados",
+      "POBL_2022": 33654
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Alajuela",
+      "DISTRITO": "Turrúcares",
+      "POBL_2022": 9349
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Alajuela",
+      "DISTRITO": "Tambor",
+      "POBL_2022": 14338
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Alajuela",
+      "DISTRITO": "Garita",
+      "POBL_2022": 9492
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Alajuela",
+      "DISTRITO": "Sarapiquí",
+      "POBL_2022": 4021
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanRamón",
+      "DISTRITO": "SanRamón",
+      "POBL_2022": 9107
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanRamón",
+      "DISTRITO": "Santiago",
+      "POBL_2022": 5699
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanRamón",
+      "DISTRITO": "SanJuan",
+      "POBL_2022": 13406
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanRamón",
+      "DISTRITO": "PiedadesNorte",
+      "POBL_2022": 9564
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanRamón",
+      "DISTRITO": "PiedadesSur",
+      "POBL_2022": 4603
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanRamón",
+      "DISTRITO": "SanRafael",
+      "POBL_2022": 10904
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanRamón",
+      "DISTRITO": "SanIsidro",
+      "POBL_2022": 5938
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanRamón",
+      "DISTRITO": "Ángeles",
+      "POBL_2022": 9793
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanRamón",
+      "DISTRITO": "Alfaro",
+      "POBL_2022": 8402
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanRamón",
+      "DISTRITO": "Volio",
+      "POBL_2022": 2727
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanRamón",
+      "DISTRITO": "Concepción",
+      "POBL_2022": 2765
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanRamón",
+      "DISTRITO": "Zapotal",
+      "POBL_2022": 515
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanRamón",
+      "DISTRITO": "PeñasBlancas",
+      "POBL_2022": 12371
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanRamón",
+      "DISTRITO": "SanLorenzo",
+      "POBL_2022": ""
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Grecia",
+      "DISTRITO": "Grecia",
+      "POBL_2022": 16146
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Grecia",
+      "DISTRITO": "SanIsidro",
+      "POBL_2022": 7293
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Grecia",
+      "DISTRITO": "SanJosé",
+      "POBL_2022": 10231
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Grecia",
+      "DISTRITO": "SanRoque",
+      "POBL_2022": 13660
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Grecia",
+      "DISTRITO": "Tacares",
+      "POBL_2022": 10050
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Grecia",
+      "DISTRITO": "PuentedePiedra",
+      "POBL_2022": 13274
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Grecia",
+      "DISTRITO": "Bolívar",
+      "POBL_2022": 9018
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanMateo",
+      "DISTRITO": "SanMateo",
+      "POBL_2022": 3071
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanMateo",
+      "DISTRITO": "Desmonte",
+      "POBL_2022": 1201
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanMateo",
+      "DISTRITO": "JesúsMaría",
+      "POBL_2022": 1517
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanMateo",
+      "DISTRITO": "Labrador",
+      "POBL_2022": 1487
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Atenas",
+      "DISTRITO": "Atenas",
+      "POBL_2022": 8015
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Atenas",
+      "DISTRITO": "Jesús",
+      "POBL_2022": 4396
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Atenas",
+      "DISTRITO": "Mercedes",
+      "POBL_2022": 3832
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Atenas",
+      "DISTRITO": "SanIsidro",
+      "POBL_2022": 3521
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Atenas",
+      "DISTRITO": "Concepción",
+      "POBL_2022": 4261
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Atenas",
+      "DISTRITO": "SanJosé",
+      "POBL_2022": 2326
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Atenas",
+      "DISTRITO": "SantaEulalia",
+      "POBL_2022": 2510
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Atenas",
+      "DISTRITO": "Escobal",
+      "POBL_2022": 1019
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Naranjo",
+      "DISTRITO": "Naranjo",
+      "POBL_2022": 17348
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Naranjo",
+      "DISTRITO": "SanMiguel",
+      "POBL_2022": 5782
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Naranjo",
+      "DISTRITO": "SanJosé",
+      "POBL_2022": 3666
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Naranjo",
+      "DISTRITO": "CirríSur",
+      "POBL_2022": 5533
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Naranjo",
+      "DISTRITO": "SanJerónimo",
+      "POBL_2022": 4076
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Naranjo",
+      "DISTRITO": "SanJuan",
+      "POBL_2022": 3688
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Naranjo",
+      "DISTRITO": "ElRosario",
+      "POBL_2022": 4638
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Naranjo",
+      "DISTRITO": "Palmitos",
+      "POBL_2022": 5033
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Palmares",
+      "DISTRITO": "Palmares",
+      "POBL_2022": 3764
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Palmares",
+      "DISTRITO": "Zaragoza",
+      "POBL_2022": 9901
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Palmares",
+      "DISTRITO": "BuenosAires",
+      "POBL_2022": 8931
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Palmares",
+      "DISTRITO": "Santiago",
+      "POBL_2022": 3379
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Palmares",
+      "DISTRITO": "Candelaria",
+      "POBL_2022": 2457
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Palmares",
+      "DISTRITO": "Esquipulas",
+      "POBL_2022": 8435
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Palmares",
+      "DISTRITO": "LaGranja",
+      "POBL_2022": 4938
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Poás",
+      "DISTRITO": "SanPedro",
+      "POBL_2022": 8243
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Poás",
+      "DISTRITO": "SanJuan",
+      "POBL_2022": 5647
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Poás",
+      "DISTRITO": "SanRafael",
+      "POBL_2022": 6655
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Poás",
+      "DISTRITO": "Carrillos",
+      "POBL_2022": 11330
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Poás",
+      "DISTRITO": "SabanaRedonda",
+      "POBL_2022": 3051
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Orotina",
+      "DISTRITO": "Orotina",
+      "POBL_2022": 10680
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Orotina",
+      "DISTRITO": "ElMastate",
+      "POBL_2022": 2249
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Orotina",
+      "DISTRITO": "HaciendaVieja",
+      "POBL_2022": 1242
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Orotina",
+      "DISTRITO": "Coyolar",
+      "POBL_2022": 7685
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Orotina",
+      "DISTRITO": "LaCeiba",
+      "POBL_2022": 2592
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanCarlos",
+      "DISTRITO": "Quesada",
+      "POBL_2022": 46127
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanCarlos",
+      "DISTRITO": "Florencia",
+      "POBL_2022": 18517
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanCarlos",
+      "DISTRITO": "Buenavista",
+      "POBL_2022": 420
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanCarlos",
+      "DISTRITO": "AguasZarcas",
+      "POBL_2022": 26305
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanCarlos",
+      "DISTRITO": "Venecia",
+      "POBL_2022": 12172
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanCarlos",
+      "DISTRITO": "Pital",
+      "POBL_2022": 25359
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanCarlos",
+      "DISTRITO": "LaFortuna",
+      "POBL_2022": 19584
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanCarlos",
+      "DISTRITO": "LaTigra",
+      "POBL_2022": 7964
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanCarlos",
+      "DISTRITO": "LaPalmera",
+      "POBL_2022": 7940
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanCarlos",
+      "DISTRITO": "Venado",
+      "POBL_2022": 2173
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanCarlos",
+      "DISTRITO": "Cutris",
+      "POBL_2022": 15537
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanCarlos",
+      "DISTRITO": "Monterrey",
+      "POBL_2022": 4321
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "SanCarlos",
+      "DISTRITO": "Pocosol",
+      "POBL_2022": 19696
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Zarcero",
+      "DISTRITO": "Zarcero",
+      "POBL_2022": 4397
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Zarcero",
+      "DISTRITO": "Laguna",
+      "POBL_2022": 2031
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Zarcero",
+      "DISTRITO": "Tapesco",
+      "POBL_2022": 1582
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Zarcero",
+      "DISTRITO": "Guadalupe",
+      "POBL_2022": 1427
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Zarcero",
+      "DISTRITO": "Palmira",
+      "POBL_2022": 1712
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Zarcero",
+      "DISTRITO": "Zapote",
+      "POBL_2022": 944
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Zarcero",
+      "DISTRITO": "Brisas",
+      "POBL_2022": 2536
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Sarchí",
+      "DISTRITO": "SarchíNorte",
+      "POBL_2022": 8382
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Sarchí",
+      "DISTRITO": "SarchíSur",
+      "POBL_2022": 6539
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Sarchí",
+      "DISTRITO": "ToroAmarillo",
+      "POBL_2022": 380
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Sarchí",
+      "DISTRITO": "SanPedro",
+      "POBL_2022": 4463
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Sarchí",
+      "DISTRITO": "Rodríguez",
+      "POBL_2022": 2832
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Upala",
+      "DISTRITO": "Upala",
+      "POBL_2022": 16850
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Upala",
+      "DISTRITO": "AguasClaras",
+      "POBL_2022": 5714
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Upala",
+      "DISTRITO": "SanJosé",
+      "POBL_2022": 8795
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Upala",
+      "DISTRITO": "Bijagua",
+      "POBL_2022": 5363
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Upala",
+      "DISTRITO": "Delicias",
+      "POBL_2022": 5479
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Upala",
+      "DISTRITO": "DosRíos",
+      "POBL_2022": 4017
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Upala",
+      "DISTRITO": "Yolillal",
+      "POBL_2022": 4129
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Upala",
+      "DISTRITO": "Canalete",
+      "POBL_2022": 5119
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "LosChiles",
+      "DISTRITO": "LosChiles",
+      "POBL_2022": 21714
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "LosChiles",
+      "DISTRITO": "CañoNegro",
+      "POBL_2022": 2333
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "LosChiles",
+      "DISTRITO": "ElAmparo",
+      "POBL_2022": 7772
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "LosChiles",
+      "DISTRITO": "SanJorge",
+      "POBL_2022": 3369
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Guatuso",
+      "DISTRITO": "SanRafael",
+      "POBL_2022": 10117
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Guatuso",
+      "DISTRITO": "Buenavista",
+      "POBL_2022": 1990
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Guatuso",
+      "DISTRITO": "Cote",
+      "POBL_2022": 1092
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "Guatuso",
+      "DISTRITO": "Katira",
+      "POBL_2022": 6497
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "RíoCuarto",
+      "DISTRITO": "RíoCuarto",
+      "POBL_2022": ""
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "RíoCuarto",
+      "DISTRITO": "SantaRita",
+      "POBL_2022": ""
+    },
+    {
+      "PROVINCIA": "Alajuela",
+      "CANTON": "RíoCuarto",
+      "DISTRITO": "SantaIsabel",
+      "POBL_2022": ""
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Cartago",
+      "DISTRITO": "Oriental",
+      "POBL_2022": 12310
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Cartago",
+      "DISTRITO": "Occidental",
+      "POBL_2022": 10465
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Cartago",
+      "DISTRITO": "Carmen",
+      "POBL_2022": 19390
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Cartago",
+      "DISTRITO": "SanNicolás",
+      "POBL_2022": 29913
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Cartago",
+      "DISTRITO": "Aguacaliente",
+      "POBL_2022": 36408
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Cartago",
+      "DISTRITO": "Guadalupe",
+      "POBL_2022": 16547
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Cartago",
+      "DISTRITO": "Corralillo",
+      "POBL_2022": 12064
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Cartago",
+      "DISTRITO": "TierraBlanca",
+      "POBL_2022": 5926
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Cartago",
+      "DISTRITO": "DulceNombre",
+      "POBL_2022": 12004
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Cartago",
+      "DISTRITO": "LlanoGrande",
+      "POBL_2022": 5120
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Cartago",
+      "DISTRITO": "Quebradilla",
+      "POBL_2022": 6057
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Paraíso",
+      "DISTRITO": "Paraíso",
+      "POBL_2022": 21561
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Paraíso",
+      "DISTRITO": "Santiago",
+      "POBL_2022": 6493
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Paraíso",
+      "DISTRITO": "Orosi",
+      "POBL_2022": 10208
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Paraíso",
+      "DISTRITO": "Cachí",
+      "POBL_2022": 5944
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Paraíso",
+      "DISTRITO": "LlanosdeSantaLucía",
+      "POBL_2022": 19590
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Paraíso",
+      "DISTRITO": "Birrisito",
+      "POBL_2022": ""
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "LaUnión",
+      "DISTRITO": "TresRíos",
+      "POBL_2022": 9298
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "LaUnión",
+      "DISTRITO": "SanDiego",
+      "POBL_2022": 25354
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "LaUnión",
+      "DISTRITO": "SanJuan",
+      "POBL_2022": 15752
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "LaUnión",
+      "DISTRITO": "SanRafael",
+      "POBL_2022": 16277
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "LaUnión",
+      "DISTRITO": "Concepción",
+      "POBL_2022": 19259
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "LaUnión",
+      "DISTRITO": "DulceNombre",
+      "POBL_2022": 9289
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "LaUnión",
+      "DISTRITO": "SanRamón",
+      "POBL_2022": 4526
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "LaUnión",
+      "DISTRITO": "RíoAzul",
+      "POBL_2022": 14860
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Jiménez",
+      "DISTRITO": "JuanViñas",
+      "POBL_2022": 7095
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Jiménez",
+      "DISTRITO": "Tucurrique",
+      "POBL_2022": 5601
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Jiménez",
+      "DISTRITO": "Pejibaye",
+      "POBL_2022": 3665
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Jiménez",
+      "DISTRITO": "LaVictoria",
+      "POBL_2022": ""
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Turrialba",
+      "DISTRITO": "Turrialba",
+      "POBL_2022": 27039
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Turrialba",
+      "DISTRITO": "LaSuiza",
+      "POBL_2022": 7939
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Turrialba",
+      "DISTRITO": "Peralta",
+      "POBL_2022": 621
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Turrialba",
+      "DISTRITO": "SantaCruz",
+      "POBL_2022": 3804
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Turrialba",
+      "DISTRITO": "SantaTeresita",
+      "POBL_2022": 5402
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Turrialba",
+      "DISTRITO": "Pavones",
+      "POBL_2022": 4628
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Turrialba",
+      "DISTRITO": "Tuis",
+      "POBL_2022": 2950
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Turrialba",
+      "DISTRITO": "Tayutic",
+      "POBL_2022": 2506
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Turrialba",
+      "DISTRITO": "SantaRosa",
+      "POBL_2022": 5747
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Turrialba",
+      "DISTRITO": "TresEquis",
+      "POBL_2022": 1964
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Turrialba",
+      "DISTRITO": "LaIsabel",
+      "POBL_2022": 6362
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Turrialba",
+      "DISTRITO": "Chirripó",
+      "POBL_2022": 4584
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Alvarado",
+      "DISTRITO": "Pacayas",
+      "POBL_2022": 5989
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Alvarado",
+      "DISTRITO": "Cervantes",
+      "POBL_2022": 6916
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Alvarado",
+      "DISTRITO": "Capellades",
+      "POBL_2022": 2710
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Oreamuno",
+      "DISTRITO": "SanRafael",
+      "POBL_2022": 29275
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Oreamuno",
+      "DISTRITO": "Cot",
+      "POBL_2022": 11360
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Oreamuno",
+      "DISTRITO": "PotreroCerrado",
+      "POBL_2022": 2705
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Oreamuno",
+      "DISTRITO": "Cipreses",
+      "POBL_2022": 4234
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "Oreamuno",
+      "DISTRITO": "SantaRosa",
+      "POBL_2022": 3021
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "ElGuarco",
+      "DISTRITO": "ElTejar",
+      "POBL_2022": 27037
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "ElGuarco",
+      "DISTRITO": "SanIsidro",
+      "POBL_2022": 11632
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "ElGuarco",
+      "DISTRITO": "Tobosi",
+      "POBL_2022": 7834
+    },
+    {
+      "PROVINCIA": "Cartago",
+      "CANTON": "ElGuarco",
+      "DISTRITO": "PatiodeAgua",
+      "POBL_2022": 456
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "Heredia",
+      "DISTRITO": "Heredia",
+      "POBL_2022": 18988
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "Heredia",
+      "DISTRITO": "Mercedes",
+      "POBL_2022": 30276
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "Heredia",
+      "DISTRITO": "SanFrancisco",
+      "POBL_2022": 60166
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "Heredia",
+      "DISTRITO": "Ulloa",
+      "POBL_2022": 35618
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "Heredia",
+      "DISTRITO": "Varablanca",
+      "POBL_2022": 972
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "Barva",
+      "DISTRITO": "Barva",
+      "POBL_2022": 5099
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "Barva",
+      "DISTRITO": "SanPedro",
+      "POBL_2022": 12026
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "Barva",
+      "DISTRITO": "SanPablo",
+      "POBL_2022": 10105
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "Barva",
+      "DISTRITO": "SanRoque",
+      "POBL_2022": 5507
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "Barva",
+      "DISTRITO": "SantaLucía",
+      "POBL_2022": 8524
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "Barva",
+      "DISTRITO": "SanJosédelaMontaña",
+      "POBL_2022": 6929
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "SantoDomingo",
+      "DISTRITO": "SantoDomingo",
+      "POBL_2022": 5050
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "SantoDomingo",
+      "DISTRITO": "SanVicente",
+      "POBL_2022": 8072
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "SantoDomingo",
+      "DISTRITO": "SanMiguel",
+      "POBL_2022": 7988
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "SantoDomingo",
+      "DISTRITO": "Paracito",
+      "POBL_2022": 2832
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "SantoDomingo",
+      "DISTRITO": "SantoTomás",
+      "POBL_2022": 7953
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "SantoDomingo",
+      "DISTRITO": "SantaRosa",
+      "POBL_2022": 9264
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "SantoDomingo",
+      "DISTRITO": "Tures",
+      "POBL_2022": 4477
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "SantoDomingo",
+      "DISTRITO": "Pará",
+      "POBL_2022": 4199
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "SantaBárbara",
+      "DISTRITO": "SantaBárbara",
+      "POBL_2022": 6394
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "SantaBárbara",
+      "DISTRITO": "SanPedro",
+      "POBL_2022": 7016
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "SantaBárbara",
+      "DISTRITO": "SanJuan",
+      "POBL_2022": 9308
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "SantaBárbara",
+      "DISTRITO": "Jesús",
+      "POBL_2022": 11842
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "SantaBárbara",
+      "DISTRITO": "SantoDomingo",
+      "POBL_2022": 3699
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "SantaBárbara",
+      "DISTRITO": "Purabá",
+      "POBL_2022": 5619
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "SanRafael",
+      "DISTRITO": "SanRafael",
+      "POBL_2022": 10787
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "SanRafael",
+      "DISTRITO": "SanJosecito",
+      "POBL_2022": 14331
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "SanRafael",
+      "DISTRITO": "Santiago",
+      "POBL_2022": 10534
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "SanRafael",
+      "DISTRITO": "Ángeles",
+      "POBL_2022": 13017
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "SanRafael",
+      "DISTRITO": "Concepción",
+      "POBL_2022": 7891
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "SanIsidro",
+      "DISTRITO": "SanIsidro",
+      "POBL_2022": 6413
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "SanIsidro",
+      "DISTRITO": "SanJosé",
+      "POBL_2022": 8895
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "SanIsidro",
+      "DISTRITO": "Concepción",
+      "POBL_2022": 3115
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "SanIsidro",
+      "DISTRITO": "SanFrancisco",
+      "POBL_2022": 5232
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "Belén",
+      "DISTRITO": "SanAntonio",
+      "POBL_2022": 11625
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "Belén",
+      "DISTRITO": "LaRibera",
+      "POBL_2022": 7753
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "Belén",
+      "DISTRITO": "LaAsunción",
+      "POBL_2022": 7475
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "Flores",
+      "DISTRITO": "SanJoaquín",
+      "POBL_2022": 8341
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "Flores",
+      "DISTRITO": "Barrantes",
+      "POBL_2022": 5340
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "Flores",
+      "DISTRITO": "Llorente",
+      "POBL_2022": 11720
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "SanPablo",
+      "DISTRITO": "SanPablo",
+      "POBL_2022": 21485
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "SanPablo",
+      "DISTRITO": "RincóndeSabanilla",
+      "POBL_2022": 10034
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "Sarapiquí",
+      "DISTRITO": "PuertoViejo",
+      "POBL_2022": 31580
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "Sarapiquí",
+      "DISTRITO": "LaVirgen",
+      "POBL_2022": 16493
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "Sarapiquí",
+      "DISTRITO": "LasHorquetas",
+      "POBL_2022": 35957
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "Sarapiquí",
+      "DISTRITO": "LlanurasdelGaspar",
+      "POBL_2022": 2059
+    },
+    {
+      "PROVINCIA": "Heredia",
+      "CANTON": "Sarapiquí",
+      "DISTRITO": "Cureña",
+      "POBL_2022": 1598
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Liberia",
+      "DISTRITO": "Liberia",
+      "POBL_2022": 67132
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Liberia",
+      "DISTRITO": "CañasDulces",
+      "POBL_2022": 4075
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Liberia",
+      "DISTRITO": "Mayorga",
+      "POBL_2022": 2032
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Liberia",
+      "DISTRITO": "Nacascolo",
+      "POBL_2022": 3129
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Liberia",
+      "DISTRITO": "Curubandé",
+      "POBL_2022": 3242
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Nicoya",
+      "DISTRITO": "Nicoya",
+      "POBL_2022": 27131
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Nicoya",
+      "DISTRITO": "Mansión",
+      "POBL_2022": 5772
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Nicoya",
+      "DISTRITO": "SanAntonio",
+      "POBL_2022": 7148
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Nicoya",
+      "DISTRITO": "QuebradaHonda",
+      "POBL_2022": 2591
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Nicoya",
+      "DISTRITO": "Sámara",
+      "POBL_2022": 4685
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Nicoya",
+      "DISTRITO": "Nosara",
+      "POBL_2022": 7213
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Nicoya",
+      "DISTRITO": "BeléndeNosarita",
+      "POBL_2022": 3084
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "SantaCruz",
+      "DISTRITO": "SantaCruz",
+      "POBL_2022": 28008
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "SantaCruz",
+      "DISTRITO": "Bolsón",
+      "POBL_2022": 2182
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "SantaCruz",
+      "DISTRITO": "VeintisietedeAbril",
+      "POBL_2022": 9302
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "SantaCruz",
+      "DISTRITO": "Tempate",
+      "POBL_2022": 6467
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "SantaCruz",
+      "DISTRITO": "Cartagena",
+      "POBL_2022": 5147
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "SantaCruz",
+      "DISTRITO": "Cuajiniquil",
+      "POBL_2022": 2678
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "SantaCruz",
+      "DISTRITO": "Diriá",
+      "POBL_2022": 4983
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "SantaCruz",
+      "DISTRITO": "CaboVelas",
+      "POBL_2022": 4381
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "SantaCruz",
+      "DISTRITO": "Tamarindo",
+      "POBL_2022": 8136
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Bagaces",
+      "DISTRITO": "Bagaces",
+      "POBL_2022": 16462
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Bagaces",
+      "DISTRITO": "LaFortuna",
+      "POBL_2022": 3112
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Bagaces",
+      "DISTRITO": "Mogote",
+      "POBL_2022": 4079
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Bagaces",
+      "DISTRITO": "RíoNaranjo",
+      "POBL_2022": 1194
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Carrillo",
+      "DISTRITO": "Filadelfia",
+      "POBL_2022": 8967
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Carrillo",
+      "DISTRITO": "Palmira",
+      "POBL_2022": 6910
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Carrillo",
+      "DISTRITO": "Sardinal",
+      "POBL_2022": 20094
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Carrillo",
+      "DISTRITO": "Belén",
+      "POBL_2022": 11785
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Cañas",
+      "DISTRITO": "Cañas",
+      "POBL_2022": 26577
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Cañas",
+      "DISTRITO": "Palmira",
+      "POBL_2022": 1361
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Cañas",
+      "DISTRITO": "SanMiguel",
+      "POBL_2022": 2076
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Cañas",
+      "DISTRITO": "Bebedero",
+      "POBL_2022": 2582
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Cañas",
+      "DISTRITO": "Porozal",
+      "POBL_2022": 797
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Abangares",
+      "DISTRITO": "LasJuntas",
+      "POBL_2022": 10437
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Abangares",
+      "DISTRITO": "Sierra",
+      "POBL_2022": 2827
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Abangares",
+      "DISTRITO": "SanJuan",
+      "POBL_2022": 1857
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Abangares",
+      "DISTRITO": "Colorado",
+      "POBL_2022": 5161
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Tilarán",
+      "DISTRITO": "Tilarán",
+      "POBL_2022": 9449
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Tilarán",
+      "DISTRITO": "QuebradaGrande",
+      "POBL_2022": 3104
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Tilarán",
+      "DISTRITO": "Tronadora",
+      "POBL_2022": 2029
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Tilarán",
+      "DISTRITO": "SantaRosa",
+      "POBL_2022": 2188
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Tilarán",
+      "DISTRITO": "Líbano",
+      "POBL_2022": 958
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Tilarán",
+      "DISTRITO": "TierrasMorenas",
+      "POBL_2022": 1545
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Tilarán",
+      "DISTRITO": "Arenal",
+      "POBL_2022": 2711
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Tilarán",
+      "DISTRITO": "Cabeceras",
+      "POBL_2022": ""
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Nandayure",
+      "DISTRITO": "Carmona",
+      "POBL_2022": 2663
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Nandayure",
+      "DISTRITO": "SantaRita",
+      "POBL_2022": 1480
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Nandayure",
+      "DISTRITO": "Zapotal",
+      "POBL_2022": 1263
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Nandayure",
+      "DISTRITO": "SanPablo",
+      "POBL_2022": 2362
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Nandayure",
+      "DISTRITO": "Porvenir",
+      "POBL_2022": 759
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Nandayure",
+      "DISTRITO": "Bejuco",
+      "POBL_2022": 3311
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "LaCruz",
+      "DISTRITO": "LaCruz",
+      "POBL_2022": 13204
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "LaCruz",
+      "DISTRITO": "SantaCecilia",
+      "POBL_2022": 9191
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "LaCruz",
+      "DISTRITO": "LaGarita",
+      "POBL_2022": 2665
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "LaCruz",
+      "DISTRITO": "SantaElena",
+      "POBL_2022": 3011
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Hojancha",
+      "DISTRITO": "Hojancha",
+      "POBL_2022": 4707
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Hojancha",
+      "DISTRITO": "MonteRomo",
+      "POBL_2022": 724
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Hojancha",
+      "DISTRITO": "PuertoCarrillo",
+      "POBL_2022": 1893
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Hojancha",
+      "DISTRITO": "Huacas",
+      "POBL_2022": 761
+    },
+    {
+      "PROVINCIA": "Guanacaste",
+      "CANTON": "Hojancha",
+      "DISTRITO": "Matambú",
+      "POBL_2022": ""
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Puntarenas",
+      "DISTRITO": "Puntarenas",
+      "POBL_2022": 10342
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Puntarenas",
+      "DISTRITO": "Pitahaya",
+      "POBL_2022": 2755
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Puntarenas",
+      "DISTRITO": "Chomes",
+      "POBL_2022": 6645
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Puntarenas",
+      "DISTRITO": "Lepanto",
+      "POBL_2022": 10444
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Puntarenas",
+      "DISTRITO": "Paquera",
+      "POBL_2022": 8410
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Puntarenas",
+      "DISTRITO": "Manzanillo",
+      "POBL_2022": 3459
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Puntarenas",
+      "DISTRITO": "Guacimal",
+      "POBL_2022": 1173
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Puntarenas",
+      "DISTRITO": "Barranca",
+      "POBL_2022": 39426
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Puntarenas",
+      "DISTRITO": "MonteVerde",
+      "POBL_2022": 4943
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Puntarenas",
+      "DISTRITO": "IsladelCoco",
+      "POBL_2022": ""
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Puntarenas",
+      "DISTRITO": "Cóbano",
+      "POBL_2022": 9736
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Puntarenas",
+      "DISTRITO": "Chacarita",
+      "POBL_2022": 21244
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Puntarenas",
+      "DISTRITO": "Chira",
+      "POBL_2022": 1714
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Puntarenas",
+      "DISTRITO": "Acapulco",
+      "POBL_2022": 1560
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Puntarenas",
+      "DISTRITO": "ElRoble",
+      "POBL_2022": 21240
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Puntarenas",
+      "DISTRITO": "Arancibia",
+      "POBL_2022": 784
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Esparza",
+      "DISTRITO": "EspírituSanto",
+      "POBL_2022": 22181
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Esparza",
+      "DISTRITO": "SanJuanGrande",
+      "POBL_2022": 8915
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Esparza",
+      "DISTRITO": "Macacona",
+      "POBL_2022": 5482
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Esparza",
+      "DISTRITO": "SanRafael",
+      "POBL_2022": 1725
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Esparza",
+      "DISTRITO": "SanJerónimo",
+      "POBL_2022": 941
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Esparza",
+      "DISTRITO": "Caldera",
+      "POBL_2022": ""
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "BuenosAires",
+      "DISTRITO": "BuenosAires",
+      "POBL_2022": 29454
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "BuenosAires",
+      "DISTRITO": "Volcán",
+      "POBL_2022": 3690
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "BuenosAires",
+      "DISTRITO": "PotreroGrande",
+      "POBL_2022": 6494
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "BuenosAires",
+      "DISTRITO": "Boruca",
+      "POBL_2022": 3289
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "BuenosAires",
+      "DISTRITO": "Pilas",
+      "POBL_2022": 1749
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "BuenosAires",
+      "DISTRITO": "Colinas",
+      "POBL_2022": 1391
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "BuenosAires",
+      "DISTRITO": "Chánguena",
+      "POBL_2022": 2929
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "BuenosAires",
+      "DISTRITO": "Biolley",
+      "POBL_2022": 2589
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "BuenosAires",
+      "DISTRITO": "Brunka",
+      "POBL_2022": 3197
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "MontesdeOro",
+      "DISTRITO": "Miramar",
+      "POBL_2022": 9027
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "MontesdeOro",
+      "DISTRITO": "LaUnión",
+      "POBL_2022": 1513
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "MontesdeOro",
+      "DISTRITO": "SanIsidro",
+      "POBL_2022": 4047
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Osa",
+      "DISTRITO": "PuertoCortés",
+      "POBL_2022": 8844
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Osa",
+      "DISTRITO": "Palmar",
+      "POBL_2022": 9716
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Osa",
+      "DISTRITO": "Sierpe",
+      "POBL_2022": 3645
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Osa",
+      "DISTRITO": "BahíaBallena",
+      "POBL_2022": 3487
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Osa",
+      "DISTRITO": "PiedrasBlancas",
+      "POBL_2022": 4529
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Osa",
+      "DISTRITO": "BahíaDrake",
+      "POBL_2022": 1162
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Quepos",
+      "DISTRITO": "Quepos",
+      "POBL_2022": 25665
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Quepos",
+      "DISTRITO": "Savegre",
+      "POBL_2022": 4116
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Quepos",
+      "DISTRITO": "Naranjito",
+      "POBL_2022": 4239
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Golfito",
+      "DISTRITO": "Golfito",
+      "POBL_2022": 11867
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Golfito",
+      "DISTRITO": "PuertoJiménez",
+      "POBL_2022": 12836
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Golfito",
+      "DISTRITO": "Guaycará",
+      "POBL_2022": 14120
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Golfito",
+      "DISTRITO": "Pavón",
+      "POBL_2022": 7700
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "CotoBrus",
+      "DISTRITO": "SanVito",
+      "POBL_2022": 16629
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "CotoBrus",
+      "DISTRITO": "Sabalito",
+      "POBL_2022": 13202
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "CotoBrus",
+      "DISTRITO": "Aguabuena",
+      "POBL_2022": 7050
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "CotoBrus",
+      "DISTRITO": "Limoncito",
+      "POBL_2022": 4152
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "CotoBrus",
+      "DISTRITO": "Pittier",
+      "POBL_2022": 3247
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "CotoBrus",
+      "DISTRITO": "GutiérrezBraun",
+      "POBL_2022": ""
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Parrita",
+      "DISTRITO": "Parrita",
+      "POBL_2022": 20984
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Corredores",
+      "DISTRITO": "Corredor",
+      "POBL_2022": 20050
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Corredores",
+      "DISTRITO": "LaCuesta",
+      "POBL_2022": 5333
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Corredores",
+      "DISTRITO": "Canoas",
+      "POBL_2022": 15929
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Corredores",
+      "DISTRITO": "Laurel",
+      "POBL_2022": 12172
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Garabito",
+      "DISTRITO": "Jacó",
+      "POBL_2022": 18613
+    },
+    {
+      "PROVINCIA": "Puntarenas",
+      "CANTON": "Garabito",
+      "DISTRITO": "Tárcoles",
+      "POBL_2022": 8791
+    },
+    {
+      "PROVINCIA": "Limón",
+      "CANTON": "Limón",
+      "DISTRITO": "Limón",
+      "POBL_2022": 60710
+    },
+    {
+      "PROVINCIA": "Limón",
+      "CANTON": "Limón",
+      "DISTRITO": "ValleLaEstrella",
+      "POBL_2022": 20818
+    },
+    {
+      "PROVINCIA": "Limón",
+      "CANTON": "Limón",
+      "DISTRITO": "RíoBlanco",
+      "POBL_2022": 10257
+    },
+    {
+      "PROVINCIA": "Limón",
+      "CANTON": "Limón",
+      "DISTRITO": "Matama",
+      "POBL_2022": 8451
+    },
+    {
+      "PROVINCIA": "Limón",
+      "CANTON": "Pococí",
+      "DISTRITO": "Guápiles",
+      "POBL_2022": 39611
+    },
+    {
+      "PROVINCIA": "Limón",
+      "CANTON": "Pococí",
+      "DISTRITO": "Jiménez",
+      "POBL_2022": 13052
+    },
+    {
+      "PROVINCIA": "Limón",
+      "CANTON": "Pococí",
+      "DISTRITO": "Rita",
+      "POBL_2022": 29241
+    },
+    {
+      "PROVINCIA": "Limón",
+      "CANTON": "Pococí",
+      "DISTRITO": "Roxana",
+      "POBL_2022": 20342
+    },
+    {
+      "PROVINCIA": "Limón",
+      "CANTON": "Pococí",
+      "DISTRITO": "Cariari",
+      "POBL_2022": 40278
+    },
+    {
+      "PROVINCIA": "Limón",
+      "CANTON": "Pococí",
+      "DISTRITO": "Colorado",
+      "POBL_2022": 5040
+    },
+    {
+      "PROVINCIA": "Limón",
+      "CANTON": "Pococí",
+      "DISTRITO": "LaColonia",
+      "POBL_2022": 7110
+    },
+    {
+      "PROVINCIA": "Limón",
+      "CANTON": "Siquirres",
+      "DISTRITO": "Siquirres",
+      "POBL_2022": 34576
+    },
+    {
+      "PROVINCIA": "Limón",
+      "CANTON": "Siquirres",
+      "DISTRITO": "Pacuarito",
+      "POBL_2022": 10804
+    },
+    {
+      "PROVINCIA": "Limón",
+      "CANTON": "Siquirres",
+      "DISTRITO": "Florida",
+      "POBL_2022": 2656
+    },
+    {
+      "PROVINCIA": "Limón",
+      "CANTON": "Siquirres",
+      "DISTRITO": "Germania",
+      "POBL_2022": 3062
+    },
+    {
+      "PROVINCIA": "Limón",
+      "CANTON": "Siquirres",
+      "DISTRITO": "ElCairo",
+      "POBL_2022": 7628
+    },
+    {
+      "PROVINCIA": "Limón",
+      "CANTON": "Siquirres",
+      "DISTRITO": "Alegría",
+      "POBL_2022": 6947
+    },
+    {
+      "PROVINCIA": "Limón",
+      "CANTON": "Siquirres",
+      "DISTRITO": "Reventazón",
+      "POBL_2022": ""
+    },
+    {
+      "PROVINCIA": "Limón",
+      "CANTON": "Talamanca",
+      "DISTRITO": "Bratsi",
+      "POBL_2022": 10590
+    },
+    {
+      "PROVINCIA": "Limón",
+      "CANTON": "Talamanca",
+      "DISTRITO": "Sixaola",
+      "POBL_2022": 11847
+    },
+    {
+      "PROVINCIA": "Limón",
+      "CANTON": "Talamanca",
+      "DISTRITO": "Cahuita",
+      "POBL_2022": 13656
+    },
+    {
+      "PROVINCIA": "Limón",
+      "CANTON": "Talamanca",
+      "DISTRITO": "Telire",
+      "POBL_2022": 8709
+    },
+    {
+      "PROVINCIA": "Limón",
+      "CANTON": "Matina",
+      "DISTRITO": "Matina",
+      "POBL_2022": 10437
+    },
+    {
+      "PROVINCIA": "Limón",
+      "CANTON": "Matina",
+      "DISTRITO": "Batán",
+      "POBL_2022": 20814
+    },
+    {
+      "PROVINCIA": "Limón",
+      "CANTON": "Matina",
+      "DISTRITO": "Carrandi",
+      "POBL_2022": 16140
+    },
+    {
+      "PROVINCIA": "Limón",
+      "CANTON": "Guácimo",
+      "DISTRITO": "Guácimo",
+      "POBL_2022": 26152
+    },
+    {
+      "PROVINCIA": "Limón",
+      "CANTON": "Guácimo",
+      "DISTRITO": "Mercedes",
+      "POBL_2022": 2357
+    },
+    {
+      "PROVINCIA": "Limón",
+      "CANTON": "Guácimo",
+      "DISTRITO": "Pocora",
+      "POBL_2022": 8494
+    },
+    {
+      "PROVINCIA": "Limón",
+      "CANTON": "Guácimo",
+      "DISTRITO": "RíoJiménez",
+      "POBL_2022": 11836
+    },
+    {
+      "PROVINCIA": "Limón",
+      "CANTON": "Guácimo",
+      "DISTRITO": "Duacarí",
+      "POBL_2022": 8182
+    }
+  ]

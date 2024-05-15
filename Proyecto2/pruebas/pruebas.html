@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Visualización Jerárquica Outside-In Tree</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+  <svg width="600" height="400"></svg>
+
+  <script>
+    // Datos jerárquicos de ejemplo
+    const data = {
+      name: 'Root',
+      children: [
+        { name: 'Child 1' },
+        { name: 'Child 2' },
+        { 
+          name: 'Child 3',
+          children: [
+            { name: 'Grandchild 1' },
+            { name: 'Grandchild 2' }
+          ]
+        }
+      ]
+    };
+
+    // Configurar el tamaño del lienzo
+    const width = 600;
+    const height = 400;
+
+    // Crear una jerarquía a partir de los datos
+    const root = d3.hierarchy(data)
+      .sum(d => 1)
+      .sort((a, b) => b.value - a.value);
+
+    // Configurar el layout del paquete (pack layout)
+    const pack = d3.pack()
+      .size([width, height])
+      .padding(3);
+
+    // Crear el lienzo SVG
+    const svg = d3.select('svg');
+
+    // Aplicar el layout al nodo raíz
+    const packedData = pack(root);
+
+    // Crear elementos para los círculos
+    const circles = svg.selectAll('circle')
+      .data(packedData.descendants().slice(1)) // Excluir el nodo raíz
+      .enter()
+      .append('circle')
+      .attr('cx', d => d.x)
+      .attr('cy', d => d.y)
+      .attr('r', d => d.r)
+      .attr('fill', 'steelblue')
+      .attr('opacity', 0.7);
+  </script>
+</body>
+</html>
