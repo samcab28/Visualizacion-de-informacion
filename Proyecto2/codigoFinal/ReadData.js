@@ -1,5 +1,9 @@
+//path del json
 const filePath = '../data/distritosCr/distritosCrEstructura.json';
 
+
+//construccion del arbol
+// Construcción del árbol
 function construirArbolCostaRica(data) {
     const arbol = { name: "Costa Rica", children: [] };
 
@@ -12,9 +16,11 @@ function construirArbolCostaRica(data) {
                 const cantones = provincia["cantones"];
 
                 cantones.forEach((canton) => {
-                    const cantonNode = { name: canton["canton"], children: [] };
-                    const distritos = canton["distritos"];
+                    // Calcula la población total por cantón sumando la población de cada distrito
+                    const poblacionCanton = canton["distritos"].reduce((total, distrito) => total + distrito["poblacion"], 0);
+                    const cantonNode = { name: `${canton["canton"]} (${poblacionCanton})`, children: [] };
 
+                    const distritos = canton["distritos"];
                     distritos.forEach((distrito) => {
                         cantonNode.children.push({ name: `${distrito["distrito"]} (${distrito["poblacion"]})` });
                     });
@@ -30,6 +36,8 @@ function construirArbolCostaRica(data) {
     return arbol;
 }
 
+
+//creacion del arbol visualizacion 1
 fetch(filePath)
     .then(response => response.json())
     .then(data => {
@@ -72,7 +80,7 @@ fetch(filePath)
             .attr("x", d => d.children ? -6 : 6)
             .attr("text-anchor", d => d.children ? "end" : "start")
             .text(d => {
-                const maxLength = 15; // Máxima longitud del nombre del distrito antes de cortar
+                const maxLength = 200; // Máxima longitud del nombre del distrito antes de cortar
                 if (d.data.name.length > maxLength) {
                     return `${d.data.name.substring(0, maxLength)}... (${d.data.name.substring(maxLength + 2)})`;
                 }
