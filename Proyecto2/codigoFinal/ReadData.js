@@ -2,8 +2,14 @@
 const filePath = '../data/distritosCr/distritosCrEstructura.json';
 
 
-//construccion del arbol
-// Construcción del árbol
+// Función para comparar cantones por población
+const compararPorPoblacion = (a, b) => {
+    const poblacionA = a["distritos"].reduce((total, distrito) => total + distrito["poblacion"], 0);
+    const poblacionB = b["distritos"].reduce((total, distrito) => total + distrito["poblacion"], 0);
+    return poblacionB - poblacionA;
+};
+
+// Función para construir el árbol
 function construirArbolCostaRica(data) {
     const arbol = { name: "Costa Rica", children: [] };
 
@@ -15,8 +21,10 @@ function construirArbolCostaRica(data) {
                 const provinciaNode = { name: provincia["provincia"], children: [] };
                 const cantones = provincia["cantones"];
 
+                // Ordenar cantones por población
+                cantones.sort(compararPorPoblacion);
+
                 cantones.forEach((canton) => {
-                    // Calcula la población total por cantón sumando la población de cada distrito
                     const poblacionCanton = canton["distritos"].reduce((total, distrito) => total + distrito["poblacion"], 0);
                     const cantonNode = { name: `${canton["canton"]} (${poblacionCanton})`, children: [] };
 
@@ -35,6 +43,11 @@ function construirArbolCostaRica(data) {
 
     return arbol;
 }
+
+// Resto del código para crear el árbol visualización 1 (sin cambios)
+
+
+
 
 
 //creacion del arbol visualizacion 1
