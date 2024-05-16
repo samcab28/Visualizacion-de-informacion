@@ -2,30 +2,55 @@
 const filePath = '../data/distritosCr/distritosCrEstructura.json';
 
 
-// Función para comparar cantones por población
+// Función para comparar entidades por población
 const compararPorPoblacion = (a, b) => {
-    const poblacionA = a["distritos"].reduce((total, distrito) => total + distrito["poblacion"], 0);
-    const poblacionB = b["distritos"].reduce((total, distrito) => total + distrito["poblacion"], 0);
+    let poblacionA = 0;
+    let poblacionB = 0;
+
+    if ("cantones" in a) {
+        poblacionA = a["cantones"].reduce((total, canton) => total + canton["poblacion"], 0);
+    } else {
+        poblacionA = parseInt(a["poblacion"], 10);
+    }
+
+    if ("cantones" in b) {
+        poblacionB = b["cantones"].reduce((total, canton) => total + canton["poblacion"], 0);
+    } else {
+        poblacionB = parseInt(b["poblacion"], 10);
+    }
+
     return poblacionB - poblacionA;
 };
 
 // Función para construir el árbol
 function construirArbolCostaRica(data) {
     const arbol = { name: "Costa Rica", children: [] };
+    let poblacionTotalProvincias = 0;
 
     if ("CostaRica" in data) {
         const costaRica = data["CostaRica"];
 
         if ("provincias" in costaRica) {
+            // Ordenar provincias por población
+            costaRica["provincias"].sort(compararPorPoblacion);
+
             costaRica["provincias"].forEach((provincia) => {
-                const provinciaNode = { name: provincia["provincia"], children: [] };
+                let poblacionProvincia = 0; // Población inicial de la provincia
+                const provinciaNode = { name: `${provincia["provincia"]} (${poblacionProvincia})`, children: [] };
                 const cantones = provincia["cantones"];
 
-                // Ordenar cantones por población
-                cantones.sort(compararPorPoblacion);
-
                 cantones.forEach((canton) => {
-                    const poblacionCanton = canton["distritos"].reduce((total, distrito) => total + distrito["poblacion"], 0);
+                    // Ordenar distritos por población
+                    canton["distritos"].sort(compararPorPoblacion);
+
+                    const poblacionCanton = canton["distritos"].reduce((total, distrito) => {
+                        const poblacionDistrito = parseInt(distrito["poblacion"], 10); // Convertir población a entero
+                        if (!isNaN(poblacionDistrito)) {
+                            return total + poblacionDistrito;
+                        }
+                        return total;
+                    }, 0);
+
                     const cantonNode = { name: `${canton["canton"]} (${poblacionCanton})`, children: [] };
 
                     const distritos = canton["distritos"];
@@ -34,15 +59,26 @@ function construirArbolCostaRica(data) {
                     });
 
                     provinciaNode.children.push(cantonNode);
+                    poblacionProvincia += poblacionCanton;
                 });
 
+                poblacionTotalProvincias += poblacionProvincia;
+                provinciaNode.name = `${provincia["provincia"]} (${poblacionProvincia})`;
                 arbol.children.push(provinciaNode);
             });
         }
     }
 
+    arbol.name = `Costa Rica (${poblacionTotalProvincias})`;
+
     return arbol;
 }
+
+
+
+
+
+
 
 // Resto del código para crear el árbol visualización 1 (sin cambios)
 
