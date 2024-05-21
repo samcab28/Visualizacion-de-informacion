@@ -40,6 +40,15 @@ d3.json("data.json").then(function(inputs) {
             .attr("d", arcGen)
             .attr("fill", d3.schemeCategory10[i % 10]) // Colores de D3
             .attr("stroke", "gray")
-            .attr("stroke-width", 1 + i); // Aumenta el ancho del borde según el nivel
+            .attr("stroke-width", 1 + i) // Aumenta el ancho del borde según el nivel
+            .each(function(d) {
+                var centroid = arcGen.centroid(d);
+                svg.append("text")
+                    .attr("x", centroid[0])
+                    .attr("y", centroid[1])
+                    .attr("dy", ".35em")
+                    .attr("text-anchor", "middle")
+                    .text(d.data.name);
+            });
     }
 });

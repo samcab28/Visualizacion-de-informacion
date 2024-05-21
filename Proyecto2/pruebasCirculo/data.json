@@ -1,42 +1,1920 @@
-[
-    [ 
-        { "name": "a", "size": "1" },
-        { "name": "b", "size": "1" },
-        { "name": "c", "size": "1" },
-        { "name": "d", "size": "1" },
-        { "name": "e", "size": "4" },
-        { "name": "f", "size": "2" },
-        { "name": "g", "size": "2" },
-        { "name": "h", "size": "4" }
-    ],
-    [ 
-        { "name": "a", "size": "5" },
-        { "name": "b", "size": "6" },
-        { "name": "c", "size": "2" },
-        { "name": "d", "size": "1" },
-        { "name": "e", "size": "1" },
-        { "name": "f", "size": "3" },
-        { "name": "g", "size": "2" },
-        { "name": "h", "size": "3" }
-    ],
-    [ 
-        { "name": "a", "size": "52" },
-        { "name": "b", "size": "66" },
-        { "name": "c", "size": "24" },
-        { "name": "d", "size": "11" },
-        { "name": "e", "size": "13" },
-        { "name": "f", "size": "31" },
-        { "name": "g", "size": "23" },
-        { "name": "h", "size": "35" }
-    ],
-    [ 
-        { "name": "a", "size": "5" },
-        { "name": "b", "size": "6" },
-        { "name": "c", "size": "2" },
-        { "name": "d", "size": "2" },
-        { "name": "e", "size": "3" },
-        { "name": "f", "size": "5" },
-        { "name": "g", "size": "2" },
-        { "name": "h", "size": "3" }
-    ]
-]
+{
+  "name": "Costa Rica (5196852)",
+  "children": [
+    {
+      "name": "SanJosé (1685299)",
+      "children": [
+        {
+          "name": "SanJosé (351958)",
+          "children": [
+            {
+              "name": "Pavas (89531)"
+            },
+            {
+              "name": "Hatillo (60723)"
+            },
+            {
+              "name": "SanSebastián (44923)"
+            },
+            {
+              "name": "Uruca (42861)"
+            },
+            {
+              "name": "Hospital (24030)"
+            },
+            {
+              "name": "SanFranciscodeDosRíos (23745)"
+            },
+            {
+              "name": "Zapote (21990)"
+            },
+            {
+              "name": "Catedral (15682)"
+            },
+            {
+              "name": "Merced (15408)"
+            },
+            {
+              "name": "MataRedonda (10119)"
+            },
+            {
+              "name": "Carmen (2946)"
+            }
+          ]
+        },
+        {
+          "name": "Escazú (71202)",
+          "children": [
+            {
+              "name": "SanRafael (29121)"
+            },
+            {
+              "name": "SanAntonio (28329)"
+            },
+            {
+              "name": "Escazú (13752)"
+            }
+          ]
+        },
+        {
+          "name": "Desamparados (249367)",
+          "children": [
+            {
+              "name": "SanMiguel (38716)"
+            },
+            {
+              "name": "Desamparados (37479)"
+            },
+            {
+              "name": "LosGuido (31120)"
+            },
+            {
+              "name": "SanRafaelAbajo (26781)"
+            },
+            {
+              "name": "SanJuandeDios (24505)"
+            },
+            {
+              "name": "SanRafaelArriba (18412)"
+            },
+            {
+              "name": "Gravilias (17237)"
+            },
+            {
+              "name": "Damas (15713)"
+            },
+            {
+              "name": "Patarrá (14919)"
+            },
+            {
+              "name": "SanAntonio (11343)"
+            },
+            {
+              "name": "SanCristóbal (4769)"
+            },
+            {
+              "name": "Frailes (4586)"
+            },
+            {
+              "name": "Rosario (3787)"
+            }
+          ]
+        },
+        {
+          "name": "Puriscal (38593)",
+          "children": [
+            {
+              "name": "Santiago (12600)"
+            },
+            {
+              "name": "MercedesSur (7099)"
+            },
+            {
+              "name": "SanAntonio (4720)"
+            },
+            {
+              "name": "Barbacoas (4486)"
+            },
+            {
+              "name": "Chires (3640)"
+            },
+            {
+              "name": "SanRafael (2009)"
+            },
+            {
+              "name": "Candelarita (1753)"
+            },
+            {
+              "name": "GrifoAlto (1492)"
+            },
+            {
+              "name": "Desamparaditos (794)"
+            }
+          ]
+        },
+        {
+          "name": "Tarrazú (18787)",
+          "children": [
+            {
+              "name": "SanMarcos (11365)"
+            },
+            {
+              "name": "SanLorenzo (5250)"
+            },
+            {
+              "name": "SanCarlos (2172)"
+            }
+          ]
+        },
+        {
+          "name": "Aserrí (64480)",
+          "children": [
+            {
+              "name": "Aserrí (30347)"
+            },
+            {
+              "name": "Salitrillos (15879)"
+            },
+            {
+              "name": "VueltadeJorco (7342)"
+            },
+            {
+              "name": "SanGabriel (6930)"
+            },
+            {
+              "name": "Legua (1748)"
+            },
+            {
+              "name": "Tarbaca (1676)"
+            },
+            {
+              "name": "Monterrey (558)"
+            }
+          ]
+        },
+        {
+          "name": "Mora (30759)",
+          "children": [
+            {
+              "name": "Colón (17411)"
+            },
+            {
+              "name": "Guayabo (5414)"
+            },
+            {
+              "name": "Tabarcia (5160)"
+            },
+            {
+              "name": "Jaris (1377)"
+            },
+            {
+              "name": "Picagres (899)"
+            },
+            {
+              "name": "PiedrasNegras (498)"
+            },
+            {
+              "name": "Quitirrisí ()"
+            }
+          ]
+        },
+        {
+          "name": "Goicoechea (140764)",
+          "children": [
+            {
+              "name": "Purral (36074)"
+            },
+            {
+              "name": "Ipís (32049)"
+            },
+            {
+              "name": "CalleBlancos (23451)"
+            },
+            {
+              "name": "Guadalupe (22347)"
+            },
+            {
+              "name": "MatadePlátano (21198)"
+            },
+            {
+              "name": "RanchoRedondo (3224)"
+            },
+            {
+              "name": "SanFrancisco (2421)"
+            }
+          ]
+        },
+        {
+          "name": "SantaAna (61853)",
+          "children": [
+            {
+              "name": "Pozos (20671)"
+            },
+            {
+              "name": "SantaAna (12956)"
+            },
+            {
+              "name": "Piedades (10263)"
+            },
+            {
+              "name": "Uruca (9129)"
+            },
+            {
+              "name": "Salitral (5587)"
+            },
+            {
+              "name": "Brasil (3247)"
+            }
+          ]
+        },
+        {
+          "name": "Alajuelita (97158)",
+          "children": [
+            {
+              "name": "SanFelipe (41306)"
+            },
+            {
+              "name": "Concepción (23455)"
+            },
+            {
+              "name": "Alajuelita (13325)"
+            },
+            {
+              "name": "SanJosecito (13069)"
+            },
+            {
+              "name": "SanAntonio (6003)"
+            }
+          ]
+        },
+        {
+          "name": "VázquezdeCoronado (72932)",
+          "children": [
+            {
+              "name": "Patalillo (24907)"
+            },
+            {
+              "name": "SanIsidro (18631)"
+            },
+            {
+              "name": "DulceNombredeJesús (12149)"
+            },
+            {
+              "name": "SanRafael (8643)"
+            },
+            {
+              "name": "Cascajal (8602)"
+            }
+          ]
+        },
+        {
+          "name": "Acosta (22257)",
+          "children": [
+            {
+              "name": "SanIgnacio (9475)"
+            },
+            {
+              "name": "Palmichal (5308)"
+            },
+            {
+              "name": "Guaitil (2685)"
+            },
+            {
+              "name": "Sabanillas (2668)"
+            },
+            {
+              "name": "Cangrejal (2121)"
+            }
+          ]
+        },
+        {
+          "name": "Tibás (86065)",
+          "children": [
+            {
+              "name": "SanJuan (25866)"
+            },
+            {
+              "name": "LeónXIII (20551)"
+            },
+            {
+              "name": "Colima (18118)"
+            },
+            {
+              "name": "AnselmoLlorente (12913)"
+            },
+            {
+              "name": "CincoEsquinas (8617)"
+            }
+          ]
+        },
+        {
+          "name": "Moravia (63259)",
+          "children": [
+            {
+              "name": "SanVicente (32041)"
+            },
+            {
+              "name": "LaTrinidad (23755)"
+            },
+            {
+              "name": "SanJerónimo (7463)"
+            }
+          ]
+        },
+        {
+          "name": "MontesdeOca (62844)",
+          "children": [
+            {
+              "name": "SanPedro (28844)"
+            },
+            {
+              "name": "Sabanilla (14082)"
+            },
+            {
+              "name": "SanRafael (13832)"
+            },
+            {
+              "name": "Mercedes (6086)"
+            }
+          ]
+        },
+        {
+          "name": "Turrubares (7031)",
+          "children": [
+            {
+              "name": "Carara (2330)"
+            },
+            {
+              "name": "SanPablo (1573)"
+            },
+            {
+              "name": "SanJuandeMata (1546)"
+            },
+            {
+              "name": "SanPedro (861)"
+            },
+            {
+              "name": "SanLuis (721)"
+            }
+          ]
+        },
+        {
+          "name": "Dota (8041)",
+          "children": [
+            {
+              "name": "SantaMaría (5251)"
+            },
+            {
+              "name": "Copey (2088)"
+            },
+            {
+              "name": "Jardín (702)"
+            }
+          ]
+        },
+        {
+          "name": "Curridabat (80677)",
+          "children": [
+            {
+              "name": "Curridabat (32605)"
+            },
+            {
+              "name": "Tirrases (22032)"
+            },
+            {
+              "name": "Granadilla (19207)"
+            },
+            {
+              "name": "Sánchez (6833)"
+            }
+          ]
+        },
+        {
+          "name": "PérezZeledón (143282)",
+          "children": [
+            {
+              "name": "SanIsidrodeElGeneral (48435)"
+            },
+            {
+              "name": "DanielFlores (35584)"
+            },
+            {
+              "name": "SanPedro (9344)"
+            },
+            {
+              "name": "Cajón (9045)"
+            },
+            {
+              "name": "Pejibaye (7972)"
+            },
+            {
+              "name": "Platanares (7497)"
+            },
+            {
+              "name": "Rivas (7318)"
+            },
+            {
+              "name": "ElGeneral (6873)"
+            },
+            {
+              "name": "Páramo (4865)"
+            },
+            {
+              "name": "RíoNuevo (3495)"
+            },
+            {
+              "name": "Barú (2854)"
+            },
+            {
+              "name": "LaAmistad ()"
+            }
+          ]
+        },
+        {
+          "name": "LeónCortés (13990)",
+          "children": [
+            {
+              "name": "SanPablo (4663)"
+            },
+            {
+              "name": "LlanoBonito (2269)"
+            },
+            {
+              "name": "SantaCruz (2164)"
+            },
+            {
+              "name": "SanIsidro (1870)"
+            },
+            {
+              "name": "SanAndrés (1746)"
+            },
+            {
+              "name": "SanAntonio (1278)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alajuela (1039127)",
+      "children": [
+        {
+          "name": "Alajuela (321872)",
+          "children": [
+            {
+              "name": "SanJosé (52686)"
+            },
+            {
+              "name": "Alajuela (48326)"
+            },
+            {
+              "name": "SanRafael (34182)"
+            },
+            {
+              "name": "Desamparados (33654)"
+            },
+            {
+              "name": "SanAntonio (31637)"
+            },
+            {
+              "name": "Guácima (26642)"
+            },
+            {
+              "name": "SanIsidro (22586)"
+            },
+            {
+              "name": "Tambor (14338)"
+            },
+            {
+              "name": "RíoSegundo (13561)"
+            },
+            {
+              "name": "Sabanilla (12396)"
+            },
+            {
+              "name": "Garita (9492)"
+            },
+            {
+              "name": "Turrúcares (9349)"
+            },
+            {
+              "name": "Carrizal (9002)"
+            },
+            {
+              "name": "Sarapiquí (4021)"
+            }
+          ]
+        },
+        {
+          "name": "SanRamón (95794)",
+          "children": [
+            {
+              "name": "SanJuan (13406)"
+            },
+            {
+              "name": "PeñasBlancas (12371)"
+            },
+            {
+              "name": "SanRafael (10904)"
+            },
+            {
+              "name": "Ángeles (9793)"
+            },
+            {
+              "name": "PiedadesNorte (9564)"
+            },
+            {
+              "name": "SanRamón (9107)"
+            },
+            {
+              "name": "Alfaro (8402)"
+            },
+            {
+              "name": "SanIsidro (5938)"
+            },
+            {
+              "name": "Santiago (5699)"
+            },
+            {
+              "name": "PiedadesSur (4603)"
+            },
+            {
+              "name": "Concepción (2765)"
+            },
+            {
+              "name": "Volio (2727)"
+            },
+            {
+              "name": "Zapotal (515)"
+            },
+            {
+              "name": "SanLorenzo ()"
+            }
+          ]
+        },
+        {
+          "name": "Grecia (79672)",
+          "children": [
+            {
+              "name": "Grecia (16146)"
+            },
+            {
+              "name": "SanRoque (13660)"
+            },
+            {
+              "name": "PuentedePiedra (13274)"
+            },
+            {
+              "name": "SanJosé (10231)"
+            },
+            {
+              "name": "Tacares (10050)"
+            },
+            {
+              "name": "Bolívar (9018)"
+            },
+            {
+              "name": "SanIsidro (7293)"
+            }
+          ]
+        },
+        {
+          "name": "SanMateo (7276)",
+          "children": [
+            {
+              "name": "SanMateo (3071)"
+            },
+            {
+              "name": "JesúsMaría (1517)"
+            },
+            {
+              "name": "Labrador (1487)"
+            },
+            {
+              "name": "Desmonte (1201)"
+            }
+          ]
+        },
+        {
+          "name": "Atenas (29880)",
+          "children": [
+            {
+              "name": "Atenas (8015)"
+            },
+            {
+              "name": "Jesús (4396)"
+            },
+            {
+              "name": "Concepción (4261)"
+            },
+            {
+              "name": "Mercedes (3832)"
+            },
+            {
+              "name": "SanIsidro (3521)"
+            },
+            {
+              "name": "SantaEulalia (2510)"
+            },
+            {
+              "name": "SanJosé (2326)"
+            },
+            {
+              "name": "Escobal (1019)"
+            }
+          ]
+        },
+        {
+          "name": "Naranjo (49764)",
+          "children": [
+            {
+              "name": "Naranjo (17348)"
+            },
+            {
+              "name": "SanMiguel (5782)"
+            },
+            {
+              "name": "CirríSur (5533)"
+            },
+            {
+              "name": "Palmitos (5033)"
+            },
+            {
+              "name": "ElRosario (4638)"
+            },
+            {
+              "name": "SanJerónimo (4076)"
+            },
+            {
+              "name": "SanJuan (3688)"
+            },
+            {
+              "name": "SanJosé (3666)"
+            }
+          ]
+        },
+        {
+          "name": "Palmares (41805)",
+          "children": [
+            {
+              "name": "Zaragoza (9901)"
+            },
+            {
+              "name": "BuenosAires (8931)"
+            },
+            {
+              "name": "Esquipulas (8435)"
+            },
+            {
+              "name": "LaGranja (4938)"
+            },
+            {
+              "name": "Palmares (3764)"
+            },
+            {
+              "name": "Santiago (3379)"
+            },
+            {
+              "name": "Candelaria (2457)"
+            }
+          ]
+        },
+        {
+          "name": "Poás (34926)",
+          "children": [
+            {
+              "name": "Carrillos (11330)"
+            },
+            {
+              "name": "SanPedro (8243)"
+            },
+            {
+              "name": "SanRafael (6655)"
+            },
+            {
+              "name": "SanJuan (5647)"
+            },
+            {
+              "name": "SabanaRedonda (3051)"
+            }
+          ]
+        },
+        {
+          "name": "Orotina (24448)",
+          "children": [
+            {
+              "name": "Orotina (10680)"
+            },
+            {
+              "name": "Coyolar (7685)"
+            },
+            {
+              "name": "LaCeiba (2592)"
+            },
+            {
+              "name": "ElMastate (2249)"
+            },
+            {
+              "name": "HaciendaVieja (1242)"
+            }
+          ]
+        },
+        {
+          "name": "SanCarlos (206115)",
+          "children": [
+            {
+              "name": "Quesada (46127)"
+            },
+            {
+              "name": "AguasZarcas (26305)"
+            },
+            {
+              "name": "Pital (25359)"
+            },
+            {
+              "name": "Pocosol (19696)"
+            },
+            {
+              "name": "LaFortuna (19584)"
+            },
+            {
+              "name": "Florencia (18517)"
+            },
+            {
+              "name": "Cutris (15537)"
+            },
+            {
+              "name": "Venecia (12172)"
+            },
+            {
+              "name": "LaTigra (7964)"
+            },
+            {
+              "name": "LaPalmera (7940)"
+            },
+            {
+              "name": "Monterrey (4321)"
+            },
+            {
+              "name": "Venado (2173)"
+            },
+            {
+              "name": "Buenavista (420)"
+            }
+          ]
+        },
+        {
+          "name": "Zarcero (14629)",
+          "children": [
+            {
+              "name": "Zarcero (4397)"
+            },
+            {
+              "name": "Brisas (2536)"
+            },
+            {
+              "name": "Laguna (2031)"
+            },
+            {
+              "name": "Palmira (1712)"
+            },
+            {
+              "name": "Tapesco (1582)"
+            },
+            {
+              "name": "Guadalupe (1427)"
+            },
+            {
+              "name": "Zapote (944)"
+            }
+          ]
+        },
+        {
+          "name": "Sarchí (22596)",
+          "children": [
+            {
+              "name": "SarchíNorte (8382)"
+            },
+            {
+              "name": "SarchíSur (6539)"
+            },
+            {
+              "name": "SanPedro (4463)"
+            },
+            {
+              "name": "Rodríguez (2832)"
+            },
+            {
+              "name": "ToroAmarillo (380)"
+            }
+          ]
+        },
+        {
+          "name": "Upala (55466)",
+          "children": [
+            {
+              "name": "Upala (16850)"
+            },
+            {
+              "name": "SanJosé (8795)"
+            },
+            {
+              "name": "AguasClaras (5714)"
+            },
+            {
+              "name": "Delicias (5479)"
+            },
+            {
+              "name": "Bijagua (5363)"
+            },
+            {
+              "name": "Canalete (5119)"
+            },
+            {
+              "name": "Yolillal (4129)"
+            },
+            {
+              "name": "DosRíos (4017)"
+            }
+          ]
+        },
+        {
+          "name": "LosChiles (35188)",
+          "children": [
+            {
+              "name": "LosChiles (21714)"
+            },
+            {
+              "name": "ElAmparo (7772)"
+            },
+            {
+              "name": "SanJorge (3369)"
+            },
+            {
+              "name": "CañoNegro (2333)"
+            }
+          ]
+        },
+        {
+          "name": "Guatuso (19696)",
+          "children": [
+            {
+              "name": "SanRafael (10117)"
+            },
+            {
+              "name": "Katira (6497)"
+            },
+            {
+              "name": "Buenavista (1990)"
+            },
+            {
+              "name": "Cote (1092)"
+            }
+          ]
+        },
+        {
+          "name": "RíoCuarto (0)",
+          "children": [
+            {
+              "name": "RíoCuarto ()"
+            },
+            {
+              "name": "SantaRita ()"
+            },
+            {
+              "name": "SantaIsabel ()"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cartago (547691)",
+      "children": [
+        {
+          "name": "Cartago (166204)",
+          "children": [
+            {
+              "name": "Aguacaliente (36408)"
+            },
+            {
+              "name": "SanNicolás (29913)"
+            },
+            {
+              "name": "Carmen (19390)"
+            },
+            {
+              "name": "Guadalupe (16547)"
+            },
+            {
+              "name": "Oriental (12310)"
+            },
+            {
+              "name": "Corralillo (12064)"
+            },
+            {
+              "name": "DulceNombre (12004)"
+            },
+            {
+              "name": "Occidental (10465)"
+            },
+            {
+              "name": "Quebradilla (6057)"
+            },
+            {
+              "name": "TierraBlanca (5926)"
+            },
+            {
+              "name": "LlanoGrande (5120)"
+            }
+          ]
+        },
+        {
+          "name": "Paraíso (63796)",
+          "children": [
+            {
+              "name": "Paraíso (21561)"
+            },
+            {
+              "name": "LlanosdeSantaLucía (19590)"
+            },
+            {
+              "name": "Orosi (10208)"
+            },
+            {
+              "name": "Santiago (6493)"
+            },
+            {
+              "name": "Cachí (5944)"
+            },
+            {
+              "name": "Birrisito ()"
+            }
+          ]
+        },
+        {
+          "name": "LaUnión (114615)",
+          "children": [
+            {
+              "name": "SanDiego (25354)"
+            },
+            {
+              "name": "Concepción (19259)"
+            },
+            {
+              "name": "SanRafael (16277)"
+            },
+            {
+              "name": "SanJuan (15752)"
+            },
+            {
+              "name": "RíoAzul (14860)"
+            },
+            {
+              "name": "TresRíos (9298)"
+            },
+            {
+              "name": "DulceNombre (9289)"
+            },
+            {
+              "name": "SanRamón (4526)"
+            }
+          ]
+        },
+        {
+          "name": "Jiménez (16361)",
+          "children": [
+            {
+              "name": "JuanViñas (7095)"
+            },
+            {
+              "name": "Tucurrique (5601)"
+            },
+            {
+              "name": "Pejibaye (3665)"
+            },
+            {
+              "name": "LaVictoria ()"
+            }
+          ]
+        },
+        {
+          "name": "Turrialba (73546)",
+          "children": [
+            {
+              "name": "Turrialba (27039)"
+            },
+            {
+              "name": "LaSuiza (7939)"
+            },
+            {
+              "name": "LaIsabel (6362)"
+            },
+            {
+              "name": "SantaRosa (5747)"
+            },
+            {
+              "name": "SantaTeresita (5402)"
+            },
+            {
+              "name": "Pavones (4628)"
+            },
+            {
+              "name": "Chirripó (4584)"
+            },
+            {
+              "name": "SantaCruz (3804)"
+            },
+            {
+              "name": "Tuis (2950)"
+            },
+            {
+              "name": "Tayutic (2506)"
+            },
+            {
+              "name": "TresEquis (1964)"
+            },
+            {
+              "name": "Peralta (621)"
+            }
+          ]
+        },
+        {
+          "name": "Alvarado (15615)",
+          "children": [
+            {
+              "name": "Cervantes (6916)"
+            },
+            {
+              "name": "Pacayas (5989)"
+            },
+            {
+              "name": "Capellades (2710)"
+            }
+          ]
+        },
+        {
+          "name": "Oreamuno (50595)",
+          "children": [
+            {
+              "name": "SanRafael (29275)"
+            },
+            {
+              "name": "Cot (11360)"
+            },
+            {
+              "name": "Cipreses (4234)"
+            },
+            {
+              "name": "SantaRosa (3021)"
+            },
+            {
+              "name": "PotreroCerrado (2705)"
+            }
+          ]
+        },
+        {
+          "name": "ElGuarco (46959)",
+          "children": [
+            {
+              "name": "ElTejar (27037)"
+            },
+            {
+              "name": "SanIsidro (11632)"
+            },
+            {
+              "name": "Tobosi (7834)"
+            },
+            {
+              "name": "PatiodeAgua (456)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heredia (539598)",
+      "children": [
+        {
+          "name": "Heredia (146020)",
+          "children": [
+            {
+              "name": "SanFrancisco (60166)"
+            },
+            {
+              "name": "Ulloa (35618)"
+            },
+            {
+              "name": "Mercedes (30276)"
+            },
+            {
+              "name": "Heredia (18988)"
+            },
+            {
+              "name": "Varablanca (972)"
+            }
+          ]
+        },
+        {
+          "name": "Barva (48190)",
+          "children": [
+            {
+              "name": "SanPedro (12026)"
+            },
+            {
+              "name": "SanPablo (10105)"
+            },
+            {
+              "name": "SantaLucía (8524)"
+            },
+            {
+              "name": "SanJosédelaMontaña (6929)"
+            },
+            {
+              "name": "SanRoque (5507)"
+            },
+            {
+              "name": "Barva (5099)"
+            }
+          ]
+        },
+        {
+          "name": "SantoDomingo (49835)",
+          "children": [
+            {
+              "name": "SantaRosa (9264)"
+            },
+            {
+              "name": "SanVicente (8072)"
+            },
+            {
+              "name": "SanMiguel (7988)"
+            },
+            {
+              "name": "SantoTomás (7953)"
+            },
+            {
+              "name": "SantoDomingo (5050)"
+            },
+            {
+              "name": "Tures (4477)"
+            },
+            {
+              "name": "Pará (4199)"
+            },
+            {
+              "name": "Paracito (2832)"
+            }
+          ]
+        },
+        {
+          "name": "SantaBárbara (43878)",
+          "children": [
+            {
+              "name": "Jesús (11842)"
+            },
+            {
+              "name": "SanJuan (9308)"
+            },
+            {
+              "name": "SanPedro (7016)"
+            },
+            {
+              "name": "SantaBárbara (6394)"
+            },
+            {
+              "name": "Purabá (5619)"
+            },
+            {
+              "name": "SantoDomingo (3699)"
+            }
+          ]
+        },
+        {
+          "name": "SanRafael (56560)",
+          "children": [
+            {
+              "name": "SanJosecito (14331)"
+            },
+            {
+              "name": "Ángeles (13017)"
+            },
+            {
+              "name": "SanRafael (10787)"
+            },
+            {
+              "name": "Santiago (10534)"
+            },
+            {
+              "name": "Concepción (7891)"
+            }
+          ]
+        },
+        {
+          "name": "SanIsidro (23655)",
+          "children": [
+            {
+              "name": "SanJosé (8895)"
+            },
+            {
+              "name": "SanIsidro (6413)"
+            },
+            {
+              "name": "SanFrancisco (5232)"
+            },
+            {
+              "name": "Concepción (3115)"
+            }
+          ]
+        },
+        {
+          "name": "Belén (26853)",
+          "children": [
+            {
+              "name": "SanAntonio (11625)"
+            },
+            {
+              "name": "LaRibera (7753)"
+            },
+            {
+              "name": "LaAsunción (7475)"
+            }
+          ]
+        },
+        {
+          "name": "Flores (25401)",
+          "children": [
+            {
+              "name": "Llorente (11720)"
+            },
+            {
+              "name": "SanJoaquín (8341)"
+            },
+            {
+              "name": "Barrantes (5340)"
+            }
+          ]
+        },
+        {
+          "name": "SanPablo (31519)",
+          "children": [
+            {
+              "name": "SanPablo (21485)"
+            },
+            {
+              "name": "RincóndeSabanilla (10034)"
+            }
+          ]
+        },
+        {
+          "name": "Sarapiquí (87687)",
+          "children": [
+            {
+              "name": "LasHorquetas (35957)"
+            },
+            {
+              "name": "PuertoViejo (31580)"
+            },
+            {
+              "name": "LaVirgen (16493)"
+            },
+            {
+              "name": "LlanurasdelGaspar (2059)"
+            },
+            {
+              "name": "Cureña (1598)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Guanacaste (404774)",
+      "children": [
+        {
+          "name": "Liberia (79610)",
+          "children": [
+            {
+              "name": "Liberia (67132)"
+            },
+            {
+              "name": "CañasDulces (4075)"
+            },
+            {
+              "name": "Curubandé (3242)"
+            },
+            {
+              "name": "Nacascolo (3129)"
+            },
+            {
+              "name": "Mayorga (2032)"
+            }
+          ]
+        },
+        {
+          "name": "Nicoya (57624)",
+          "children": [
+            {
+              "name": "Nicoya (27131)"
+            },
+            {
+              "name": "Nosara (7213)"
+            },
+            {
+              "name": "SanAntonio (7148)"
+            },
+            {
+              "name": "Mansión (5772)"
+            },
+            {
+              "name": "Sámara (4685)"
+            },
+            {
+              "name": "BeléndeNosarita (3084)"
+            },
+            {
+              "name": "QuebradaHonda (2591)"
+            }
+          ]
+        },
+        {
+          "name": "SantaCruz (71284)",
+          "children": [
+            {
+              "name": "SantaCruz (28008)"
+            },
+            {
+              "name": "VeintisietedeAbril (9302)"
+            },
+            {
+              "name": "Tamarindo (8136)"
+            },
+            {
+              "name": "Tempate (6467)"
+            },
+            {
+              "name": "Cartagena (5147)"
+            },
+            {
+              "name": "Diriá (4983)"
+            },
+            {
+              "name": "CaboVelas (4381)"
+            },
+            {
+              "name": "Cuajiniquil (2678)"
+            },
+            {
+              "name": "Bolsón (2182)"
+            }
+          ]
+        },
+        {
+          "name": "Bagaces (24847)",
+          "children": [
+            {
+              "name": "Bagaces (16462)"
+            },
+            {
+              "name": "Mogote (4079)"
+            },
+            {
+              "name": "LaFortuna (3112)"
+            },
+            {
+              "name": "RíoNaranjo (1194)"
+            }
+          ]
+        },
+        {
+          "name": "Carrillo (47756)",
+          "children": [
+            {
+              "name": "Sardinal (20094)"
+            },
+            {
+              "name": "Belén (11785)"
+            },
+            {
+              "name": "Filadelfia (8967)"
+            },
+            {
+              "name": "Palmira (6910)"
+            }
+          ]
+        },
+        {
+          "name": "Cañas (33393)",
+          "children": [
+            {
+              "name": "Cañas (26577)"
+            },
+            {
+              "name": "Bebedero (2582)"
+            },
+            {
+              "name": "SanMiguel (2076)"
+            },
+            {
+              "name": "Palmira (1361)"
+            },
+            {
+              "name": "Porozal (797)"
+            }
+          ]
+        },
+        {
+          "name": "Abangares (20282)",
+          "children": [
+            {
+              "name": "LasJuntas (10437)"
+            },
+            {
+              "name": "Colorado (5161)"
+            },
+            {
+              "name": "Sierra (2827)"
+            },
+            {
+              "name": "SanJuan (1857)"
+            }
+          ]
+        },
+        {
+          "name": "Tilarán (21984)",
+          "children": [
+            {
+              "name": "Tilarán (9449)"
+            },
+            {
+              "name": "QuebradaGrande (3104)"
+            },
+            {
+              "name": "Arenal (2711)"
+            },
+            {
+              "name": "SantaRosa (2188)"
+            },
+            {
+              "name": "Tronadora (2029)"
+            },
+            {
+              "name": "TierrasMorenas (1545)"
+            },
+            {
+              "name": "Líbano (958)"
+            },
+            {
+              "name": "Cabeceras ()"
+            }
+          ]
+        },
+        {
+          "name": "Nandayure (11838)",
+          "children": [
+            {
+              "name": "Bejuco (3311)"
+            },
+            {
+              "name": "Carmona (2663)"
+            },
+            {
+              "name": "SanPablo (2362)"
+            },
+            {
+              "name": "SantaRita (1480)"
+            },
+            {
+              "name": "Zapotal (1263)"
+            },
+            {
+              "name": "Porvenir (759)"
+            }
+          ]
+        },
+        {
+          "name": "LaCruz (28071)",
+          "children": [
+            {
+              "name": "LaCruz (13204)"
+            },
+            {
+              "name": "SantaCecilia (9191)"
+            },
+            {
+              "name": "SantaElena (3011)"
+            },
+            {
+              "name": "LaGarita (2665)"
+            }
+          ]
+        },
+        {
+          "name": "Hojancha (8085)",
+          "children": [
+            {
+              "name": "Hojancha (4707)"
+            },
+            {
+              "name": "PuertoCarrillo (1893)"
+            },
+            {
+              "name": "Huacas (761)"
+            },
+            {
+              "name": "MonteRomo (724)"
+            },
+            {
+              "name": "Matambú ()"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Puntarenas (510566)",
+      "children": [
+        {
+          "name": "Puntarenas (143875)",
+          "children": [
+            {
+              "name": "Barranca (39426)"
+            },
+            {
+              "name": "Chacarita (21244)"
+            },
+            {
+              "name": "ElRoble (21240)"
+            },
+            {
+              "name": "Lepanto (10444)"
+            },
+            {
+              "name": "Puntarenas (10342)"
+            },
+            {
+              "name": "Cóbano (9736)"
+            },
+            {
+              "name": "Paquera (8410)"
+            },
+            {
+              "name": "Chomes (6645)"
+            },
+            {
+              "name": "MonteVerde (4943)"
+            },
+            {
+              "name": "Manzanillo (3459)"
+            },
+            {
+              "name": "Pitahaya (2755)"
+            },
+            {
+              "name": "Chira (1714)"
+            },
+            {
+              "name": "Acapulco (1560)"
+            },
+            {
+              "name": "Guacimal (1173)"
+            },
+            {
+              "name": "Arancibia (784)"
+            },
+            {
+              "name": "IsladelCoco ()"
+            }
+          ]
+        },
+        {
+          "name": "Esparza (39244)",
+          "children": [
+            {
+              "name": "EspírituSanto (22181)"
+            },
+            {
+              "name": "SanJuanGrande (8915)"
+            },
+            {
+              "name": "Macacona (5482)"
+            },
+            {
+              "name": "SanRafael (1725)"
+            },
+            {
+              "name": "SanJerónimo (941)"
+            },
+            {
+              "name": "Caldera ()"
+            }
+          ]
+        },
+        {
+          "name": "BuenosAires (54782)",
+          "children": [
+            {
+              "name": "BuenosAires (29454)"
+            },
+            {
+              "name": "PotreroGrande (6494)"
+            },
+            {
+              "name": "Volcán (3690)"
+            },
+            {
+              "name": "Boruca (3289)"
+            },
+            {
+              "name": "Brunka (3197)"
+            },
+            {
+              "name": "Chánguena (2929)"
+            },
+            {
+              "name": "Biolley (2589)"
+            },
+            {
+              "name": "Pilas (1749)"
+            },
+            {
+              "name": "Colinas (1391)"
+            }
+          ]
+        },
+        {
+          "name": "MontesdeOro (14587)",
+          "children": [
+            {
+              "name": "Miramar (9027)"
+            },
+            {
+              "name": "SanIsidro (4047)"
+            },
+            {
+              "name": "LaUnión (1513)"
+            }
+          ]
+        },
+        {
+          "name": "Osa (31383)",
+          "children": [
+            {
+              "name": "Palmar (9716)"
+            },
+            {
+              "name": "PuertoCortés (8844)"
+            },
+            {
+              "name": "PiedrasBlancas (4529)"
+            },
+            {
+              "name": "Sierpe (3645)"
+            },
+            {
+              "name": "BahíaBallena (3487)"
+            },
+            {
+              "name": "BahíaDrake (1162)"
+            }
+          ]
+        },
+        {
+          "name": "Quepos (34020)",
+          "children": [
+            {
+              "name": "Quepos (25665)"
+            },
+            {
+              "name": "Naranjito (4239)"
+            },
+            {
+              "name": "Savegre (4116)"
+            }
+          ]
+        },
+        {
+          "name": "Golfito (46523)",
+          "children": [
+            {
+              "name": "Guaycará (14120)"
+            },
+            {
+              "name": "PuertoJiménez (12836)"
+            },
+            {
+              "name": "Golfito (11867)"
+            },
+            {
+              "name": "Pavón (7700)"
+            }
+          ]
+        },
+        {
+          "name": "CotoBrus (44280)",
+          "children": [
+            {
+              "name": "SanVito (16629)"
+            },
+            {
+              "name": "Sabalito (13202)"
+            },
+            {
+              "name": "Aguabuena (7050)"
+            },
+            {
+              "name": "Limoncito (4152)"
+            },
+            {
+              "name": "Pittier (3247)"
+            },
+            {
+              "name": "GutiérrezBraun ()"
+            }
+          ]
+        },
+        {
+          "name": "Parrita (20984)",
+          "children": [
+            {
+              "name": "Parrita (20984)"
+            }
+          ]
+        },
+        {
+          "name": "Corredores (53484)",
+          "children": [
+            {
+              "name": "Corredor (20050)"
+            },
+            {
+              "name": "Canoas (15929)"
+            },
+            {
+              "name": "Laurel (12172)"
+            },
+            {
+              "name": "LaCuesta (5333)"
+            }
+          ]
+        },
+        {
+          "name": "Garabito (27404)",
+          "children": [
+            {
+              "name": "Jacó (18613)"
+            },
+            {
+              "name": "Tárcoles (8791)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Limón (469797)",
+      "children": [
+        {
+          "name": "Limón (100236)",
+          "children": [
+            {
+              "name": "Limón (60710)"
+            },
+            {
+              "name": "ValleLaEstrella (20818)"
+            },
+            {
+              "name": "RíoBlanco (10257)"
+            },
+            {
+              "name": "Matama (8451)"
+            }
+          ]
+        },
+        {
+          "name": "Pococí (154674)",
+          "children": [
+            {
+              "name": "Cariari (40278)"
+            },
+            {
+              "name": "Guápiles (39611)"
+            },
+            {
+              "name": "Rita (29241)"
+            },
+            {
+              "name": "Roxana (20342)"
+            },
+            {
+              "name": "Jiménez (13052)"
+            },
+            {
+              "name": "LaColonia (7110)"
+            },
+            {
+              "name": "Colorado (5040)"
+            }
+          ]
+        },
+        {
+          "name": "Siquirres (65673)",
+          "children": [
+            {
+              "name": "Siquirres (34576)"
+            },
+            {
+              "name": "Pacuarito (10804)"
+            },
+            {
+              "name": "ElCairo (7628)"
+            },
+            {
+              "name": "Alegría (6947)"
+            },
+            {
+              "name": "Germania (3062)"
+            },
+            {
+              "name": "Florida (2656)"
+            },
+            {
+              "name": "Reventazón ()"
+            }
+          ]
+        },
+        {
+          "name": "Talamanca (44802)",
+          "children": [
+            {
+              "name": "Cahuita (13656)"
+            },
+            {
+              "name": "Sixaola (11847)"
+            },
+            {
+              "name": "Bratsi (10590)"
+            },
+            {
+              "name": "Telire (8709)"
+            }
+          ]
+        },
+        {
+          "name": "Matina (47391)",
+          "children": [
+            {
+              "name": "Batán (20814)"
+            },
+            {
+              "name": "Carrandi (16140)"
+            },
+            {
+              "name": "Matina (10437)"
+            }
+          ]
+        },
+        {
+          "name": "Guácimo (57021)",
+          "children": [
+            {
+              "name": "Guácimo (26152)"
+            },
+            {
+              "name": "RíoJiménez (11836)"
+            },
+            {
+              "name": "Pocora (8494)"
+            },
+            {
+              "name": "Duacarí (8182)"
+            },
+            {
+              "name": "Mercedes (2357)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
