@@ -9,8 +9,8 @@
 <body>
     <div id="demo10"></div>
     <script>
-        var width = 1000;
-        var height = 1000;
+        var width =3500;
+        var height = 3500;
         var radius = Math.min(width, height) / 2;
 
         var svg = d3.select("#demo10")
@@ -20,7 +20,7 @@
             .append("g")
             .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
 
-        var input = {
+            var input = {
     "name": "Costa Rica",
     "children": [
         {
@@ -143,7 +143,6 @@
     ]
 }
 
-
         var root = d3.hierarchy(input)
             .sum(function(d) { return d.size; })
             .sort(function(a, b) { return b.value - a.value; });
@@ -152,6 +151,10 @@
             .size([2 * Math.PI, radius]);
 
         partition(root);
+
+        var colorScale = d3.scaleOrdinal()
+            .domain(["San José", "Guanacaste", "Puntarenas", "Alajuela", "Cartago", "Limón", "Heredia"])
+            .range(["blue", "green", "orange", "red", "purple", "yellow", "gray"]);
 
         var arc = d3.arc()
             .startAngle(function(d) { return d.x0; })
@@ -166,11 +169,7 @@
             .attr("d", arc)
             .style("stroke", "#fff")
             .style("fill", function(d) { 
-                switch(d.depth) {
-                    case 1: return "pink"; // Provincias
-                    case 2: return "red";  // Cantones
-                    default: return "green"; // Default color
-                }
+                return d.depth === 1 ? colorScale(d.data.name) : d.parent ? colorScale(d.parent.data.name) : null;
             })
             .append("title")
             .text(function(d) { return d.data.name + "\n" + d.value; });
@@ -183,7 +182,12 @@
             })
             .attr("dx", "-20") // radius margin
             .attr("dy", ".5em")
+            .style("font-size", function(d) {
+                var fontSize = Math.min((2 * radius * Math.PI) / root.height, 30); // Limit font size to 24px
+                return fontSize + "px";
+            })
             .text(function(d) { return d.parent ? d.data.name : ""; });
+
 
         function computeTextRotation(d) {
             var angle = (d.x0 + d.x1) / Math.PI * 90;
