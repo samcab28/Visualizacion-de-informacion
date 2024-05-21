@@ -10,7 +10,26 @@ var input = [
 
 var input2 = [
     {"name": "SanJosé",
-    "size": 1685299},
+    "size": 1685299,[    {"name": "SanJosé", "size": 351958},
+    {"name": "Escazú", "size": 71202},
+    {"name": "Desamparados", "size": 249367},
+    {"name": "Puriscal", "size": 38593},
+    {"name": "Tarrazú", "size": 18787},
+    {"name": "Aserrí", "size": 64480},
+    {"name": "Mora", "size": 30759},
+    {"name": "Goicoechea", "size": 140764},
+    {"name": "SantaAna", "size": 61853},
+    {"name": "Alajuelita", "size": 97158},
+    {"name": "VázquezdeCoronado", "size": 72932},
+    {"name": "Acosta", "size": 22257},
+    {"name": "Tibás", "size": 86065},
+    {"name": "Moravia", "size": 63259},
+    {"name": "MontesdeOca", "size": 62844},
+    {"name": "Turrubares", "size": 7031},
+    {"name": "Dota", "size": 8041},
+    {"name": "Curridabat", "size": 80677},
+    {"name": "PérezZeledón", "size": 143282},
+    {"name": "LeónCortés", "size": 13990}],},
     {"name": "Alajuela",
     "size": 1039127},
     {"name": "Cartago",
@@ -26,26 +45,29 @@ var input2 = [
 ];
 
 var input3 = [
-    { name: "a", size: "52" },
-    { name: "b", size: "66" },
-    { name: "c", size: "24" },
-    { name: "d", size: "11" },
-    { name: "e", size: "13" },
-    { name: "f", size: "31" },
-    { name: "g", size: "23" },
-    { name: "h", size: "35" }
+    {"name": "SanJosé", "size": 351958},
+    {"name": "Escazú", "size": 71202},
+    {"name": "Desamparados", "size": 249367},
+    {"name": "Puriscal", "size": 38593},
+    {"name": "Tarrazú", "size": 18787},
+    {"name": "Aserrí", "size": 64480},
+    {"name": "Mora", "size": 30759},
+    {"name": "Goicoechea", "size": 140764},
+    {"name": "SantaAna", "size": 61853},
+    {"name": "Alajuelita", "size": 97158},
+    {"name": "VázquezdeCoronado", "size": 72932},
+    {"name": "Acosta", "size": 22257},
+    {"name": "Tibás", "size": 86065},
+    {"name": "Moravia", "size": 63259},
+    {"name": "MontesdeOca", "size": 62844},
+    {"name": "Turrubares", "size": 7031},
+    {"name": "Dota", "size": 8041},
+    {"name": "Curridabat", "size": 80677},
+    {"name": "PérezZeledón", "size": 143282},
+    {"name": "LeónCortés", "size": 13990}
 ];
 
-var input4 = [
-    { name: "a", size: "5" },
-    { name: "b", size: "6" },
-    { name: "c", size: "2" },
-    { name: "d", size: "2" },
-    { name: "e", size: "3" },
-    { name: "f", size: "5" },
-    { name: "g", size: "2" },
-    { name: "h", size: "3" }
-];
+
 
 var angleGen = d3.pie()
     .startAngle(0)
@@ -68,12 +90,9 @@ var arcGen2 = d3.arc()
     .outerRadius(300);
 
 var arcGen3 = d3.arc()
-    .innerRadius(100)
+    .innerRadius(0)
     .outerRadius(200); 
 
-var arcGen4 = d3.arc()
-    .innerRadius(0)
-    .outerRadius(100);
 
 var svg = d3.select("#demo10")
     .append("svg")
