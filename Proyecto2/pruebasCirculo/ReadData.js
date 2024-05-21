@@ -97,6 +97,3 @@ const datavar = construirArbolCostaRica(filePath);
 // Print the entire tree structure
 console.log(JSON.stringify(datavar, null, 2));
 
-export default datavar;
-
-
