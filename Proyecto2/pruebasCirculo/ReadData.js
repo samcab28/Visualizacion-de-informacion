@@ -51,7 +51,7 @@ function construirArbolCostaRica(data) {
     }
 
     // Guardar el resultado en el archivo data.json
-    fs.writeFileSync('./data.json', JSON.stringify(arbol, null, 2));
+    fs.writeFileSync('./data2.json', JSON.stringify(arbol, null, 2));
 
     return arbol;
 }
