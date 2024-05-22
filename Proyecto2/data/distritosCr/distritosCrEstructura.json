@@ -1,2411 +1,2411 @@
 {
-  "CostaRica": {
-    "provincias": [
-      {
-        "provincia": "SanJosé",
-        "cantones": [
-          {
-            "canton": "SanJosé",
-            "distritos": [
-              {
-                "distrito": "Carmen",
-                "poblacion": 2946
-              },
-              {
-                "distrito": "Merced",
-                "poblacion": 15408
-              },
-              {
-                "distrito": "Hospital",
-                "poblacion": 24030
-              },
-              {
-                "distrito": "Catedral",
-                "poblacion": 15682
-              },
-              {
-                "distrito": "Zapote",
-                "poblacion": 21990
-              },
-              {
-                "distrito": "SanFranciscodeDosRíos",
-                "poblacion": 23745
-              },
-              {
-                "distrito": "Uruca",
-                "poblacion": 42861
-              },
-              {
-                "distrito": "MataRedonda",
-                "poblacion": 10119
-              },
-              {
-                "distrito": "Pavas",
-                "poblacion": 89531
-              },
-              {
-                "distrito": "Hatillo",
-                "poblacion": 60723
-              },
-              {
-                "distrito": "SanSebastián",
-                "poblacion": 44923
-              }
-            ]
-          },
-          {
-            "canton": "Escazú",
-            "distritos": [
-              {
-                "distrito": "Escazú",
-                "poblacion": 13752
-              },
-              {
-                "distrito": "SanAntonio",
-                "poblacion": 28329
-              },
-              {
-                "distrito": "SanRafael",
-                "poblacion": 29121
-              }
-            ]
-          },
-          {
-            "canton": "Desamparados",
-            "distritos": [
-              {
-                "distrito": "Desamparados",
-                "poblacion": 37479
-              },
-              {
-                "distrito": "SanMiguel",
-                "poblacion": 38716
-              },
-              {
-                "distrito": "SanJuandeDios",
-                "poblacion": 24505
-              },
-              {
-                "distrito": "SanRafaelArriba",
-                "poblacion": 18412
-              },
-              {
-                "distrito": "SanAntonio",
-                "poblacion": 11343
-              },
-              {
-                "distrito": "Frailes",
-                "poblacion": 4586
-              },
-              {
-                "distrito": "Patarrá",
-                "poblacion": 14919
-              },
-              {
-                "distrito": "SanCristóbal",
-                "poblacion": 4769
-              },
-              {
-                "distrito": "Rosario",
-                "poblacion": 3787
-              },
-              {
-                "distrito": "Damas",
-                "poblacion": 15713
-              },
-              {
-                "distrito": "SanRafaelAbajo",
-                "poblacion": 26781
-              },
-              {
-                "distrito": "Gravilias",
-                "poblacion": 17237
-              },
-              {
-                "distrito": "LosGuido",
-                "poblacion": 31120
-              }
-            ]
-          },
-          {
-            "canton": "Puriscal",
-            "distritos": [
-              {
-                "distrito": "Santiago",
-                "poblacion": 12600
-              },
-              {
-                "distrito": "MercedesSur",
-                "poblacion": 7099
-              },
-              {
-                "distrito": "Barbacoas",
-                "poblacion": 4486
-              },
-              {
-                "distrito": "GrifoAlto",
-                "poblacion": 1492
-              },
-              {
-                "distrito": "SanRafael",
-                "poblacion": 2009
-              },
-              {
-                "distrito": "Candelarita",
-                "poblacion": 1753
-              },
-              {
-                "distrito": "Desamparaditos",
-                "poblacion": 794
-              },
-              {
-                "distrito": "SanAntonio",
-                "poblacion": 4720
-              },
-              {
-                "distrito": "Chires",
-                "poblacion": 3640
-              }
-            ]
-          },
-          {
-            "canton": "Tarrazú",
-            "distritos": [
-              {
-                "distrito": "SanMarcos",
-                "poblacion": 11365
-              },
-              {
-                "distrito": "SanLorenzo",
-                "poblacion": 5250
-              },
-              {
-                "distrito": "SanCarlos",
-                "poblacion": 2172
-              }
-            ]
-          },
-          {
-            "canton": "Aserrí",
-            "distritos": [
-              {
-                "distrito": "Aserrí",
-                "poblacion": 30347
-              },
-              {
-                "distrito": "Tarbaca",
-                "poblacion": 1676
-              },
-              {
-                "distrito": "VueltadeJorco",
-                "poblacion": 7342
-              },
-              {
-                "distrito": "SanGabriel",
-                "poblacion": 6930
-              },
-              {
-                "distrito": "Legua",
-                "poblacion": 1748
-              },
-              {
-                "distrito": "Monterrey",
-                "poblacion": 558
-              },
-              {
-                "distrito": "Salitrillos",
-                "poblacion": 15879
-              }
-            ]
-          },
-          {
-            "canton": "Mora",
-            "distritos": [
-              {
-                "distrito": "Colón",
-                "poblacion": 17411
-              },
-              {
-                "distrito": "Guayabo",
-                "poblacion": 5414
-              },
-              {
-                "distrito": "Tabarcia",
-                "poblacion": 5160
-              },
-              {
-                "distrito": "PiedrasNegras",
-                "poblacion": 498
-              },
-              {
-                "distrito": "Picagres",
-                "poblacion": 899
-              },
-              {
-                "distrito": "Jaris",
-                "poblacion": 1377
-              },
-              {
-                "distrito": "Quitirrisí",
-                "poblacion": ""
-              }
-            ]
-          },
-          {
-            "canton": "Goicoechea",
-            "distritos": [
-              {
-                "distrito": "Guadalupe",
-                "poblacion": 22347
-              },
-              {
-                "distrito": "SanFrancisco",
-                "poblacion": 2421
-              },
-              {
-                "distrito": "CalleBlancos",
-                "poblacion": 23451
-              },
-              {
-                "distrito": "MatadePlátano",
-                "poblacion": 21198
-              },
-              {
-                "distrito": "Ipís",
-                "poblacion": 32049
-              },
-              {
-                "distrito": "RanchoRedondo",
-                "poblacion": 3224
-              },
-              {
-                "distrito": "Purral",
-                "poblacion": 36074
-              }
-            ]
-          },
-          {
-            "canton": "SantaAna",
-            "distritos": [
-              {
-                "distrito": "SantaAna",
-                "poblacion": 12956
-              },
-              {
-                "distrito": "Salitral",
-                "poblacion": 5587
-              },
-              {
-                "distrito": "Pozos",
-                "poblacion": 20671
-              },
-              {
-                "distrito": "Uruca",
-                "poblacion": 9129
-              },
-              {
-                "distrito": "Piedades",
-                "poblacion": 10263
-              },
-              {
-                "distrito": "Brasil",
-                "poblacion": 3247
-              }
-            ]
-          },
-          {
-            "canton": "Alajuelita",
-            "distritos": [
-              {
-                "distrito": "Alajuelita",
-                "poblacion": 13325
-              },
-              {
-                "distrito": "SanJosecito",
-                "poblacion": 13069
-              },
-              {
-                "distrito": "SanAntonio",
-                "poblacion": 6003
-              },
-              {
-                "distrito": "Concepción",
-                "poblacion": 23455
-              },
-              {
-                "distrito": "SanFelipe",
-                "poblacion": 41306
-              }
-            ]
-          },
-          {
-            "canton": "VázquezdeCoronado",
-            "distritos": [
-              {
-                "distrito": "SanIsidro",
-                "poblacion": 18631
-              },
-              {
-                "distrito": "SanRafael",
-                "poblacion": 8643
-              },
-              {
-                "distrito": "DulceNombredeJesús",
-                "poblacion": 12149
-              },
-              {
-                "distrito": "Patalillo",
-                "poblacion": 24907
-              },
-              {
-                "distrito": "Cascajal",
-                "poblacion": 8602
-              }
-            ]
-          },
-          {
-            "canton": "Acosta",
-            "distritos": [
-              {
-                "distrito": "SanIgnacio",
-                "poblacion": 9475
-              },
-              {
-                "distrito": "Guaitil",
-                "poblacion": 2685
-              },
-              {
-                "distrito": "Palmichal",
-                "poblacion": 5308
-              },
-              {
-                "distrito": "Cangrejal",
-                "poblacion": 2121
-              },
-              {
-                "distrito": "Sabanillas",
-                "poblacion": 2668
-              }
-            ]
-          },
-          {
-            "canton": "Tibás",
-            "distritos": [
-              {
-                "distrito": "SanJuan",
-                "poblacion": 25866
-              },
-              {
-                "distrito": "CincoEsquinas",
-                "poblacion": 8617
-              },
-              {
-                "distrito": "AnselmoLlorente",
-                "poblacion": 12913
-              },
-              {
-                "distrito": "LeónXIII",
-                "poblacion": 20551
-              },
-              {
-                "distrito": "Colima",
-                "poblacion": 18118
-              }
-            ]
-          },
-          {
-            "canton": "Moravia",
-            "distritos": [
-              {
-                "distrito": "SanVicente",
-                "poblacion": 32041
-              },
-              {
-                "distrito": "SanJerónimo",
-                "poblacion": 7463
-              },
-              {
-                "distrito": "LaTrinidad",
-                "poblacion": 23755
-              }
-            ]
-          },
-          {
-            "canton": "MontesdeOca",
-            "distritos": [
-              {
-                "distrito": "SanPedro",
-                "poblacion": 28844
-              },
-              {
-                "distrito": "Sabanilla",
-                "poblacion": 14082
-              },
-              {
-                "distrito": "Mercedes",
-                "poblacion": 6086
-              },
-              {
-                "distrito": "SanRafael",
-                "poblacion": 13832
-              }
-            ]
-          },
-          {
-            "canton": "Turrubares",
-            "distritos": [
-              {
-                "distrito": "SanPablo",
-                "poblacion": 1573
-              },
-              {
-                "distrito": "SanPedro",
-                "poblacion": 861
-              },
-              {
-                "distrito": "SanJuandeMata",
-                "poblacion": 1546
-              },
-              {
-                "distrito": "SanLuis",
-                "poblacion": 721
-              },
-              {
-                "distrito": "Carara",
-                "poblacion": 2330
-              }
-            ]
-          },
-          {
-            "canton": "Dota",
-            "distritos": [
-              {
-                "distrito": "SantaMaría",
-                "poblacion": 5251
-              },
-              {
-                "distrito": "Jardín",
-                "poblacion": 702
-              },
-              {
-                "distrito": "Copey",
-                "poblacion": 2088
-              }
-            ]
-          },
-          {
-            "canton": "Curridabat",
-            "distritos": [
-              {
-                "distrito": "Curridabat",
-                "poblacion": 32605
-              },
-              {
-                "distrito": "Granadilla",
-                "poblacion": 19207
-              },
-              {
-                "distrito": "Sánchez",
-                "poblacion": 6833
-              },
-              {
-                "distrito": "Tirrases",
-                "poblacion": 22032
-              }
-            ]
-          },
-          {
-            "canton": "PérezZeledón",
-            "distritos": [
-              {
-                "distrito": "SanIsidrodeElGeneral",
-                "poblacion": 48435
-              },
-              {
-                "distrito": "ElGeneral",
-                "poblacion": 6873
-              },
-              {
-                "distrito": "DanielFlores",
-                "poblacion": 35584
-              },
-              {
-                "distrito": "Rivas",
-                "poblacion": 7318
-              },
-              {
-                "distrito": "SanPedro",
-                "poblacion": 9344
-              },
-              {
-                "distrito": "Platanares",
-                "poblacion": 7497
-              },
-              {
-                "distrito": "Pejibaye",
-                "poblacion": 7972
-              },
-              {
-                "distrito": "Cajón",
-                "poblacion": 9045
-              },
-              {
-                "distrito": "Barú",
-                "poblacion": 2854
-              },
-              {
-                "distrito": "RíoNuevo",
-                "poblacion": 3495
-              },
-              {
-                "distrito": "Páramo",
-                "poblacion": 4865
-              },
-              {
-                "distrito": "LaAmistad",
-                "poblacion": ""
-              }
-            ]
-          },
-          {
-            "canton": "LeónCortés",
-            "distritos": [
-              {
-                "distrito": "SanPablo",
-                "poblacion": 4663
-              },
-              {
-                "distrito": "SanAndrés",
-                "poblacion": 1746
-              },
-              {
-                "distrito": "LlanoBonito",
-                "poblacion": 2269
-              },
-              {
-                "distrito": "SanIsidro",
-                "poblacion": 1870
-              },
-              {
-                "distrito": "SantaCruz",
-                "poblacion": 2164
-              },
-              {
-                "distrito": "SanAntonio",
-                "poblacion": 1278
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "provincia": "Alajuela",
-        "cantones": [
-          {
-            "canton": "Alajuela",
-            "distritos": [
-              {
-                "distrito": "Alajuela",
-                "poblacion": 48326
-              },
-              {
-                "distrito": "SanJosé",
-                "poblacion": 52686
-              },
-              {
-                "distrito": "Carrizal",
-                "poblacion": 9002
-              },
-              {
-                "distrito": "SanAntonio",
-                "poblacion": 31637
-              },
-              {
-                "distrito": "Guácima",
-                "poblacion": 26642
-              },
-              {
-                "distrito": "SanIsidro",
-                "poblacion": 22586
-              },
-              {
-                "distrito": "Sabanilla",
-                "poblacion": 12396
-              },
-              {
-                "distrito": "SanRafael",
-                "poblacion": 34182
-              },
-              {
-                "distrito": "RíoSegundo",
-                "poblacion": 13561
-              },
-              {
-                "distrito": "Desamparados",
-                "poblacion": 33654
-              },
-              {
-                "distrito": "Turrúcares",
-                "poblacion": 9349
-              },
-              {
-                "distrito": "Tambor",
-                "poblacion": 14338
-              },
-              {
-                "distrito": "Garita",
-                "poblacion": 9492
-              },
-              {
-                "distrito": "Sarapiquí",
-                "poblacion": 4021
-              }
-            ]
-          },
-          {
-            "canton": "SanRamón",
-            "distritos": [
-              {
-                "distrito": "SanRamón",
-                "poblacion": 9107
-              },
-              {
-                "distrito": "Santiago",
-                "poblacion": 5699
-              },
-              {
-                "distrito": "SanJuan",
-                "poblacion": 13406
-              },
-              {
-                "distrito": "PiedadesNorte",
-                "poblacion": 9564
-              },
-              {
-                "distrito": "PiedadesSur",
-                "poblacion": 4603
-              },
-              {
-                "distrito": "SanRafael",
-                "poblacion": 10904
-              },
-              {
-                "distrito": "SanIsidro",
-                "poblacion": 5938
-              },
-              {
-                "distrito": "Ángeles",
-                "poblacion": 9793
-              },
-              {
-                "distrito": "Alfaro",
-                "poblacion": 8402
-              },
-              {
-                "distrito": "Volio",
-                "poblacion": 2727
-              },
-              {
-                "distrito": "Concepción",
-                "poblacion": 2765
-              },
-              {
-                "distrito": "Zapotal",
-                "poblacion": 515
-              },
-              {
-                "distrito": "PeñasBlancas",
-                "poblacion": 12371
-              },
-              {
-                "distrito": "SanLorenzo",
-                "poblacion": ""
-              }
-            ]
-          },
-          {
-            "canton": "Grecia",
-            "distritos": [
-              {
-                "distrito": "Grecia",
-                "poblacion": 16146
-              },
-              {
-                "distrito": "SanIsidro",
-                "poblacion": 7293
-              },
-              {
-                "distrito": "SanJosé",
-                "poblacion": 10231
-              },
-              {
-                "distrito": "SanRoque",
-                "poblacion": 13660
-              },
-              {
-                "distrito": "Tacares",
-                "poblacion": 10050
-              },
-              {
-                "distrito": "PuentedePiedra",
-                "poblacion": 13274
-              },
-              {
-                "distrito": "Bolívar",
-                "poblacion": 9018
-              }
-            ]
-          },
-          {
-            "canton": "SanMateo",
-            "distritos": [
-              {
-                "distrito": "SanMateo",
-                "poblacion": 3071
-              },
-              {
-                "distrito": "Desmonte",
-                "poblacion": 1201
-              },
-              {
-                "distrito": "JesúsMaría",
-                "poblacion": 1517
-              },
-              {
-                "distrito": "Labrador",
-                "poblacion": 1487
-              }
-            ]
-          },
-          {
-            "canton": "Atenas",
-            "distritos": [
-              {
-                "distrito": "Atenas",
-                "poblacion": 8015
-              },
-              {
-                "distrito": "Jesús",
-                "poblacion": 4396
-              },
-              {
-                "distrito": "Mercedes",
-                "poblacion": 3832
-              },
-              {
-                "distrito": "SanIsidro",
-                "poblacion": 3521
-              },
-              {
-                "distrito": "Concepción",
-                "poblacion": 4261
-              },
-              {
-                "distrito": "SanJosé",
-                "poblacion": 2326
-              },
-              {
-                "distrito": "SantaEulalia",
-                "poblacion": 2510
-              },
-              {
-                "distrito": "Escobal",
-                "poblacion": 1019
-              }
-            ]
-          },
-          {
-            "canton": "Naranjo",
-            "distritos": [
-              {
-                "distrito": "Naranjo",
-                "poblacion": 17348
-              },
-              {
-                "distrito": "SanMiguel",
-                "poblacion": 5782
-              },
-              {
-                "distrito": "SanJosé",
-                "poblacion": 3666
-              },
-              {
-                "distrito": "CirríSur",
-                "poblacion": 5533
-              },
-              {
-                "distrito": "SanJerónimo",
-                "poblacion": 4076
-              },
-              {
-                "distrito": "SanJuan",
-                "poblacion": 3688
-              },
-              {
-                "distrito": "ElRosario",
-                "poblacion": 4638
-              },
-              {
-                "distrito": "Palmitos",
-                "poblacion": 5033
-              }
-            ]
-          },
-          {
-            "canton": "Palmares",
-            "distritos": [
-              {
-                "distrito": "Palmares",
-                "poblacion": 3764
-              },
-              {
-                "distrito": "Zaragoza",
-                "poblacion": 9901
-              },
-              {
-                "distrito": "BuenosAires",
-                "poblacion": 8931
-              },
-              {
-                "distrito": "Santiago",
-                "poblacion": 3379
-              },
-              {
-                "distrito": "Candelaria",
-                "poblacion": 2457
-              },
-              {
-                "distrito": "Esquipulas",
-                "poblacion": 8435
-              },
-              {
-                "distrito": "LaGranja",
-                "poblacion": 4938
-              }
-            ]
-          },
-          {
-            "canton": "Poás",
-            "distritos": [
-              {
-                "distrito": "SanPedro",
-                "poblacion": 8243
-              },
-              {
-                "distrito": "SanJuan",
-                "poblacion": 5647
-              },
-              {
-                "distrito": "SanRafael",
-                "poblacion": 6655
-              },
-              {
-                "distrito": "Carrillos",
-                "poblacion": 11330
-              },
-              {
-                "distrito": "SabanaRedonda",
-                "poblacion": 3051
-              }
-            ]
-          },
-          {
-            "canton": "Orotina",
-            "distritos": [
-              {
-                "distrito": "Orotina",
-                "poblacion": 10680
-              },
-              {
-                "distrito": "ElMastate",
-                "poblacion": 2249
-              },
-              {
-                "distrito": "HaciendaVieja",
-                "poblacion": 1242
-              },
-              {
-                "distrito": "Coyolar",
-                "poblacion": 7685
-              },
-              {
-                "distrito": "LaCeiba",
-                "poblacion": 2592
-              }
-            ]
-          },
-          {
-            "canton": "SanCarlos",
-            "distritos": [
-              {
-                "distrito": "Quesada",
-                "poblacion": 46127
-              },
-              {
-                "distrito": "Florencia",
-                "poblacion": 18517
-              },
-              {
-                "distrito": "Buenavista",
-                "poblacion": 420
-              },
-              {
-                "distrito": "AguasZarcas",
-                "poblacion": 26305
-              },
-              {
-                "distrito": "Venecia",
-                "poblacion": 12172
-              },
-              {
-                "distrito": "Pital",
-                "poblacion": 25359
-              },
-              {
-                "distrito": "LaFortuna",
-                "poblacion": 19584
-              },
-              {
-                "distrito": "LaTigra",
-                "poblacion": 7964
-              },
-              {
-                "distrito": "LaPalmera",
-                "poblacion": 7940
-              },
-              {
-                "distrito": "Venado",
-                "poblacion": 2173
-              },
-              {
-                "distrito": "Cutris",
-                "poblacion": 15537
-              },
-              {
-                "distrito": "Monterrey",
-                "poblacion": 4321
-              },
-              {
-                "distrito": "Pocosol",
-                "poblacion": 19696
-              }
-            ]
-          },
-          {
-            "canton": "Zarcero",
-            "distritos": [
-              {
-                "distrito": "Zarcero",
-                "poblacion": 4397
-              },
-              {
-                "distrito": "Laguna",
-                "poblacion": 2031
-              },
-              {
-                "distrito": "Tapesco",
-                "poblacion": 1582
-              },
-              {
-                "distrito": "Guadalupe",
-                "poblacion": 1427
-              },
-              {
-                "distrito": "Palmira",
-                "poblacion": 1712
-              },
-              {
-                "distrito": "Zapote",
-                "poblacion": 944
-              },
-              {
-                "distrito": "Brisas",
-                "poblacion": 2536
-              }
-            ]
-          },
-          {
-            "canton": "Sarchí",
-            "distritos": [
-              {
-                "distrito": "SarchíNorte",
-                "poblacion": 8382
-              },
-              {
-                "distrito": "SarchíSur",
-                "poblacion": 6539
-              },
-              {
-                "distrito": "ToroAmarillo",
-                "poblacion": 380
-              },
-              {
-                "distrito": "SanPedro",
-                "poblacion": 4463
-              },
-              {
-                "distrito": "Rodríguez",
-                "poblacion": 2832
-              }
-            ]
-          },
-          {
-            "canton": "Upala",
-            "distritos": [
-              {
-                "distrito": "Upala",
-                "poblacion": 16850
-              },
-              {
-                "distrito": "AguasClaras",
-                "poblacion": 5714
-              },
-              {
-                "distrito": "SanJosé",
-                "poblacion": 8795
-              },
-              {
-                "distrito": "Bijagua",
-                "poblacion": 5363
-              },
-              {
-                "distrito": "Delicias",
-                "poblacion": 5479
-              },
-              {
-                "distrito": "DosRíos",
-                "poblacion": 4017
-              },
-              {
-                "distrito": "Yolillal",
-                "poblacion": 4129
-              },
-              {
-                "distrito": "Canalete",
-                "poblacion": 5119
-              }
-            ]
-          },
-          {
-            "canton": "LosChiles",
-            "distritos": [
-              {
-                "distrito": "LosChiles",
-                "poblacion": 21714
-              },
-              {
-                "distrito": "CañoNegro",
-                "poblacion": 2333
-              },
-              {
-                "distrito": "ElAmparo",
-                "poblacion": 7772
-              },
-              {
-                "distrito": "SanJorge",
-                "poblacion": 3369
-              }
-            ]
-          },
-          {
-            "canton": "Guatuso",
-            "distritos": [
-              {
-                "distrito": "SanRafael",
-                "poblacion": 10117
-              },
-              {
-                "distrito": "Buenavista",
-                "poblacion": 1990
-              },
-              {
-                "distrito": "Cote",
-                "poblacion": 1092
-              },
-              {
-                "distrito": "Katira",
-                "poblacion": 6497
-              }
-            ]
-          },
-          {
-            "canton": "RíoCuarto",
-            "distritos": [
-              {
-                "distrito": "RíoCuarto",
-                "poblacion": ""
-              },
-              {
-                "distrito": "SantaRita",
-                "poblacion": ""
-              },
-              {
-                "distrito": "SantaIsabel",
-                "poblacion": ""
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "provincia": "Cartago",
-        "cantones": [
-          {
-            "canton": "Cartago",
-            "distritos": [
-              {
-                "distrito": "Oriental",
-                "poblacion": 12310
-              },
-              {
-                "distrito": "Occidental",
-                "poblacion": 10465
-              },
-              {
-                "distrito": "Carmen",
-                "poblacion": 19390
-              },
-              {
-                "distrito": "SanNicolás",
-                "poblacion": 29913
-              },
-              {
-                "distrito": "Aguacaliente",
-                "poblacion": 36408
-              },
-              {
-                "distrito": "Guadalupe",
-                "poblacion": 16547
-              },
-              {
-                "distrito": "Corralillo",
-                "poblacion": 12064
-              },
-              {
-                "distrito": "TierraBlanca",
-                "poblacion": 5926
-              },
-              {
-                "distrito": "DulceNombre",
-                "poblacion": 12004
-              },
-              {
-                "distrito": "LlanoGrande",
-                "poblacion": 5120
-              },
-              {
-                "distrito": "Quebradilla",
-                "poblacion": 6057
-              }
-            ]
-          },
-          {
-            "canton": "Paraíso",
-            "distritos": [
-              {
-                "distrito": "Paraíso",
-                "poblacion": 21561
-              },
-              {
-                "distrito": "Santiago",
-                "poblacion": 6493
-              },
-              {
-                "distrito": "Orosi",
-                "poblacion": 10208
-              },
-              {
-                "distrito": "Cachí",
-                "poblacion": 5944
-              },
-              {
-                "distrito": "LlanosdeSantaLucía",
-                "poblacion": 19590
-              },
-              {
-                "distrito": "Birrisito",
-                "poblacion": ""
-              }
-            ]
-          },
-          {
-            "canton": "LaUnión",
-            "distritos": [
-              {
-                "distrito": "TresRíos",
-                "poblacion": 9298
-              },
-              {
-                "distrito": "SanDiego",
-                "poblacion": 25354
-              },
-              {
-                "distrito": "SanJuan",
-                "poblacion": 15752
-              },
-              {
-                "distrito": "SanRafael",
-                "poblacion": 16277
-              },
-              {
-                "distrito": "Concepción",
-                "poblacion": 19259
-              },
-              {
-                "distrito": "DulceNombre",
-                "poblacion": 9289
-              },
-              {
-                "distrito": "SanRamón",
-                "poblacion": 4526
-              },
-              {
-                "distrito": "RíoAzul",
-                "poblacion": 14860
-              }
-            ]
-          },
-          {
-            "canton": "Jiménez",
-            "distritos": [
-              {
-                "distrito": "JuanViñas",
-                "poblacion": 7095
-              },
-              {
-                "distrito": "Tucurrique",
-                "poblacion": 5601
-              },
-              {
-                "distrito": "Pejibaye",
-                "poblacion": 3665
-              },
-              {
-                "distrito": "LaVictoria",
-                "poblacion": ""
-              }
-            ]
-          },
-          {
-            "canton": "Turrialba",
-            "distritos": [
-              {
-                "distrito": "Turrialba",
-                "poblacion": 27039
-              },
-              {
-                "distrito": "LaSuiza",
-                "poblacion": 7939
-              },
-              {
-                "distrito": "Peralta",
-                "poblacion": 621
-              },
-              {
-                "distrito": "SantaCruz",
-                "poblacion": 3804
-              },
-              {
-                "distrito": "SantaTeresita",
-                "poblacion": 5402
-              },
-              {
-                "distrito": "Pavones",
-                "poblacion": 4628
-              },
-              {
-                "distrito": "Tuis",
-                "poblacion": 2950
-              },
-              {
-                "distrito": "Tayutic",
-                "poblacion": 2506
-              },
-              {
-                "distrito": "SantaRosa",
-                "poblacion": 5747
-              },
-              {
-                "distrito": "TresEquis",
-                "poblacion": 1964
-              },
-              {
-                "distrito": "LaIsabel",
-                "poblacion": 6362
-              },
-              {
-                "distrito": "Chirripó",
-                "poblacion": 4584
-              }
-            ]
-          },
-          {
-            "canton": "Alvarado",
-            "distritos": [
-              {
-                "distrito": "Pacayas",
-                "poblacion": 5989
-              },
-              {
-                "distrito": "Cervantes",
-                "poblacion": 6916
-              },
-              {
-                "distrito": "Capellades",
-                "poblacion": 2710
-              }
-            ]
-          },
-          {
-            "canton": "Oreamuno",
-            "distritos": [
-              {
-                "distrito": "SanRafael",
-                "poblacion": 29275
-              },
-              {
-                "distrito": "Cot",
-                "poblacion": 11360
-              },
-              {
-                "distrito": "PotreroCerrado",
-                "poblacion": 2705
-              },
-              {
-                "distrito": "Cipreses",
-                "poblacion": 4234
-              },
-              {
-                "distrito": "SantaRosa",
-                "poblacion": 3021
-              }
-            ]
-          },
-          {
-            "canton": "ElGuarco",
-            "distritos": [
-              {
-                "distrito": "ElTejar",
-                "poblacion": 27037
-              },
-              {
-                "distrito": "SanIsidro",
-                "poblacion": 11632
-              },
-              {
-                "distrito": "Tobosi",
-                "poblacion": 7834
-              },
-              {
-                "distrito": "PatiodeAgua",
-                "poblacion": 456
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "provincia": "Heredia",
-        "cantones": [
-          {
-            "canton": "Heredia",
-            "distritos": [
-              {
-                "distrito": "Heredia",
-                "poblacion": 18988
-              },
-              {
-                "distrito": "Mercedes",
-                "poblacion": 30276
-              },
-              {
-                "distrito": "SanFrancisco",
-                "poblacion": 60166
-              },
-              {
-                "distrito": "Ulloa",
-                "poblacion": 35618
-              },
-              {
-                "distrito": "Varablanca",
-                "poblacion": 972
-              }
-            ]
-          },
-          {
-            "canton": "Barva",
-            "distritos": [
-              {
-                "distrito": "Barva",
-                "poblacion": 5099
-              },
-              {
-                "distrito": "SanPedro",
-                "poblacion": 12026
-              },
-              {
-                "distrito": "SanPablo",
-                "poblacion": 10105
-              },
-              {
-                "distrito": "SanRoque",
-                "poblacion": 5507
-              },
-              {
-                "distrito": "SantaLucía",
-                "poblacion": 8524
-              },
-              {
-                "distrito": "SanJosédelaMontaña",
-                "poblacion": 6929
-              }
-            ]
-          },
-          {
-            "canton": "SantoDomingo",
-            "distritos": [
-              {
-                "distrito": "SantoDomingo",
-                "poblacion": 5050
-              },
-              {
-                "distrito": "SanVicente",
-                "poblacion": 8072
-              },
-              {
-                "distrito": "SanMiguel",
-                "poblacion": 7988
-              },
-              {
-                "distrito": "Paracito",
-                "poblacion": 2832
-              },
-              {
-                "distrito": "SantoTomás",
-                "poblacion": 7953
-              },
-              {
-                "distrito": "SantaRosa",
-                "poblacion": 9264
-              },
-              {
-                "distrito": "Tures",
-                "poblacion": 4477
-              },
-              {
-                "distrito": "Pará",
-                "poblacion": 4199
-              }
-            ]
-          },
-          {
-            "canton": "SantaBárbara",
-            "distritos": [
-              {
-                "distrito": "SantaBárbara",
-                "poblacion": 6394
-              },
-              {
-                "distrito": "SanPedro",
-                "poblacion": 7016
-              },
-              {
-                "distrito": "SanJuan",
-                "poblacion": 9308
-              },
-              {
-                "distrito": "Jesús",
-                "poblacion": 11842
-              },
-              {
-                "distrito": "SantoDomingo",
-                "poblacion": 3699
-              },
-              {
-                "distrito": "Purabá",
-                "poblacion": 5619
-              }
-            ]
-          },
-          {
-            "canton": "SanRafael",
-            "distritos": [
-              {
-                "distrito": "SanRafael",
-                "poblacion": 10787
-              },
-              {
-                "distrito": "SanJosecito",
-                "poblacion": 14331
-              },
-              {
-                "distrito": "Santiago",
-                "poblacion": 10534
-              },
-              {
-                "distrito": "Ángeles",
-                "poblacion": 13017
-              },
-              {
-                "distrito": "Concepción",
-                "poblacion": 7891
-              }
-            ]
-          },
-          {
-            "canton": "SanIsidro",
-            "distritos": [
-              {
-                "distrito": "SanIsidro",
-                "poblacion": 6413
-              },
-              {
-                "distrito": "SanJosé",
-                "poblacion": 8895
-              },
-              {
-                "distrito": "Concepción",
-                "poblacion": 3115
-              },
-              {
-                "distrito": "SanFrancisco",
-                "poblacion": 5232
-              }
-            ]
-          },
-          {
-            "canton": "Belén",
-            "distritos": [
-              {
-                "distrito": "SanAntonio",
-                "poblacion": 11625
-              },
-              {
-                "distrito": "LaRibera",
-                "poblacion": 7753
-              },
-              {
-                "distrito": "LaAsunción",
-                "poblacion": 7475
-              }
-            ]
-          },
-          {
-            "canton": "Flores",
-            "distritos": [
-              {
-                "distrito": "SanJoaquín",
-                "poblacion": 8341
-              },
-              {
-                "distrito": "Barrantes",
-                "poblacion": 5340
-              },
-              {
-                "distrito": "Llorente",
-                "poblacion": 11720
-              }
-            ]
-          },
-          {
-            "canton": "SanPablo",
-            "distritos": [
-              {
-                "distrito": "SanPablo",
-                "poblacion": 21485
-              },
-              {
-                "distrito": "RincóndeSabanilla",
-                "poblacion": 10034
-              }
-            ]
-          },
-          {
-            "canton": "Sarapiquí",
-            "distritos": [
-              {
-                "distrito": "PuertoViejo",
-                "poblacion": 31580
-              },
-              {
-                "distrito": "LaVirgen",
-                "poblacion": 16493
-              },
-              {
-                "distrito": "LasHorquetas",
-                "poblacion": 35957
-              },
-              {
-                "distrito": "LlanurasdelGaspar",
-                "poblacion": 2059
-              },
-              {
-                "distrito": "Cureña",
-                "poblacion": 1598
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "provincia": "Guanacaste",
-        "cantones": [
-          {
-            "canton": "Liberia",
-            "distritos": [
-              {
-                "distrito": "Liberia",
-                "poblacion": 67132
-              },
-              {
-                "distrito": "CañasDulces",
-                "poblacion": 4075
-              },
-              {
-                "distrito": "Mayorga",
-                "poblacion": 2032
-              },
-              {
-                "distrito": "Nacascolo",
-                "poblacion": 3129
-              },
-              {
-                "distrito": "Curubandé",
-                "poblacion": 3242
-              }
-            ]
-          },
-          {
-            "canton": "Nicoya",
-            "distritos": [
-              {
-                "distrito": "Nicoya",
-                "poblacion": 27131
-              },
-              {
-                "distrito": "Mansión",
-                "poblacion": 5772
-              },
-              {
-                "distrito": "SanAntonio",
-                "poblacion": 7148
-              },
-              {
-                "distrito": "QuebradaHonda",
-                "poblacion": 2591
-              },
-              {
-                "distrito": "Sámara",
-                "poblacion": 4685
-              },
-              {
-                "distrito": "Nosara",
-                "poblacion": 7213
-              },
-              {
-                "distrito": "BeléndeNosarita",
-                "poblacion": 3084
-              }
-            ]
-          },
-          {
-            "canton": "SantaCruz",
-            "distritos": [
-              {
-                "distrito": "SantaCruz",
-                "poblacion": 28008
-              },
-              {
-                "distrito": "Bolsón",
-                "poblacion": 2182
-              },
-              {
-                "distrito": "VeintisietedeAbril",
-                "poblacion": 9302
-              },
-              {
-                "distrito": "Tempate",
-                "poblacion": 6467
-              },
-              {
-                "distrito": "Cartagena",
-                "poblacion": 5147
-              },
-              {
-                "distrito": "Cuajiniquil",
-                "poblacion": 2678
-              },
-              {
-                "distrito": "Diriá",
-                "poblacion": 4983
-              },
-              {
-                "distrito": "CaboVelas",
-                "poblacion": 4381
-              },
-              {
-                "distrito": "Tamarindo",
-                "poblacion": 8136
-              }
-            ]
-          },
-          {
-            "canton": "Bagaces",
-            "distritos": [
-              {
-                "distrito": "Bagaces",
-                "poblacion": 16462
-              },
-              {
-                "distrito": "LaFortuna",
-                "poblacion": 3112
-              },
-              {
-                "distrito": "Mogote",
-                "poblacion": 4079
-              },
-              {
-                "distrito": "RíoNaranjo",
-                "poblacion": 1194
-              }
-            ]
-          },
-          {
-            "canton": "Carrillo",
-            "distritos": [
-              {
-                "distrito": "Filadelfia",
-                "poblacion": 8967
-              },
-              {
-                "distrito": "Palmira",
-                "poblacion": 6910
-              },
-              {
-                "distrito": "Sardinal",
-                "poblacion": 20094
-              },
-              {
-                "distrito": "Belén",
-                "poblacion": 11785
-              }
-            ]
-          },
-          {
-            "canton": "Cañas",
-            "distritos": [
-              {
-                "distrito": "Cañas",
-                "poblacion": 26577
-              },
-              {
-                "distrito": "Palmira",
-                "poblacion": 1361
-              },
-              {
-                "distrito": "SanMiguel",
-                "poblacion": 2076
-              },
-              {
-                "distrito": "Bebedero",
-                "poblacion": 2582
-              },
-              {
-                "distrito": "Porozal",
-                "poblacion": 797
-              }
-            ]
-          },
-          {
-            "canton": "Abangares",
-            "distritos": [
-              {
-                "distrito": "LasJuntas",
-                "poblacion": 10437
-              },
-              {
-                "distrito": "Sierra",
-                "poblacion": 2827
-              },
-              {
-                "distrito": "SanJuan",
-                "poblacion": 1857
-              },
-              {
-                "distrito": "Colorado",
-                "poblacion": 5161
-              }
-            ]
-          },
-          {
-            "canton": "Tilarán",
-            "distritos": [
-              {
-                "distrito": "Tilarán",
-                "poblacion": 9449
-              },
-              {
-                "distrito": "QuebradaGrande",
-                "poblacion": 3104
-              },
-              {
-                "distrito": "Tronadora",
-                "poblacion": 2029
-              },
-              {
-                "distrito": "SantaRosa",
-                "poblacion": 2188
-              },
-              {
-                "distrito": "Líbano",
-                "poblacion": 958
-              },
-              {
-                "distrito": "TierrasMorenas",
-                "poblacion": 1545
-              },
-              {
-                "distrito": "Arenal",
-                "poblacion": 2711
-              },
-              {
-                "distrito": "Cabeceras",
-                "poblacion": ""
-              }
-            ]
-          },
-          {
-            "canton": "Nandayure",
-            "distritos": [
-              {
-                "distrito": "Carmona",
-                "poblacion": 2663
-              },
-              {
-                "distrito": "SantaRita",
-                "poblacion": 1480
-              },
-              {
-                "distrito": "Zapotal",
-                "poblacion": 1263
-              },
-              {
-                "distrito": "SanPablo",
-                "poblacion": 2362
-              },
-              {
-                "distrito": "Porvenir",
-                "poblacion": 759
-              },
-              {
-                "distrito": "Bejuco",
-                "poblacion": 3311
-              }
-            ]
-          },
-          {
-            "canton": "LaCruz",
-            "distritos": [
-              {
-                "distrito": "LaCruz",
-                "poblacion": 13204
-              },
-              {
-                "distrito": "SantaCecilia",
-                "poblacion": 9191
-              },
-              {
-                "distrito": "LaGarita",
-                "poblacion": 2665
-              },
-              {
-                "distrito": "SantaElena",
-                "poblacion": 3011
-              }
-            ]
-          },
-          {
-            "canton": "Hojancha",
-            "distritos": [
-              {
-                "distrito": "Hojancha",
-                "poblacion": 4707
-              },
-              {
-                "distrito": "MonteRomo",
-                "poblacion": 724
-              },
-              {
-                "distrito": "PuertoCarrillo",
-                "poblacion": 1893
-              },
-              {
-                "distrito": "Huacas",
-                "poblacion": 761
-              },
-              {
-                "distrito": "Matambú",
-                "poblacion": ""
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "provincia": "Puntarenas",
-        "cantones": [
-          {
-            "canton": "Puntarenas",
-            "distritos": [
-              {
-                "distrito": "Puntarenas",
-                "poblacion": 10342
-              },
-              {
-                "distrito": "Pitahaya",
-                "poblacion": 2755
-              },
-              {
-                "distrito": "Chomes",
-                "poblacion": 6645
-              },
-              {
-                "distrito": "Lepanto",
-                "poblacion": 10444
-              },
-              {
-                "distrito": "Paquera",
-                "poblacion": 8410
-              },
-              {
-                "distrito": "Manzanillo",
-                "poblacion": 3459
-              },
-              {
-                "distrito": "Guacimal",
-                "poblacion": 1173
-              },
-              {
-                "distrito": "Barranca",
-                "poblacion": 39426
-              },
-              {
-                "distrito": "MonteVerde",
-                "poblacion": 4943
-              },
-              {
-                "distrito": "IsladelCoco",
-                "poblacion": ""
-              },
-              {
-                "distrito": "Cóbano",
-                "poblacion": 9736
-              },
-              {
-                "distrito": "Chacarita",
-                "poblacion": 21244
-              },
-              {
-                "distrito": "Chira",
-                "poblacion": 1714
-              },
-              {
-                "distrito": "Acapulco",
-                "poblacion": 1560
-              },
-              {
-                "distrito": "ElRoble",
-                "poblacion": 21240
-              },
-              {
-                "distrito": "Arancibia",
-                "poblacion": 784
-              }
-            ]
-          },
-          {
-            "canton": "Esparza",
-            "distritos": [
-              {
-                "distrito": "EspírituSanto",
-                "poblacion": 22181
-              },
-              {
-                "distrito": "SanJuanGrande",
-                "poblacion": 8915
-              },
-              {
-                "distrito": "Macacona",
-                "poblacion": 5482
-              },
-              {
-                "distrito": "SanRafael",
-                "poblacion": 1725
-              },
-              {
-                "distrito": "SanJerónimo",
-                "poblacion": 941
-              },
-              {
-                "distrito": "Caldera",
-                "poblacion": ""
-              }
-            ]
-          },
-          {
-            "canton": "BuenosAires",
-            "distritos": [
-              {
-                "distrito": "BuenosAires",
-                "poblacion": 29454
-              },
-              {
-                "distrito": "Volcán",
-                "poblacion": 3690
-              },
-              {
-                "distrito": "PotreroGrande",
-                "poblacion": 6494
-              },
-              {
-                "distrito": "Boruca",
-                "poblacion": 3289
-              },
-              {
-                "distrito": "Pilas",
-                "poblacion": 1749
-              },
-              {
-                "distrito": "Colinas",
-                "poblacion": 1391
-              },
-              {
-                "distrito": "Chánguena",
-                "poblacion": 2929
-              },
-              {
-                "distrito": "Biolley",
-                "poblacion": 2589
-              },
-              {
-                "distrito": "Brunka",
-                "poblacion": 3197
-              }
-            ]
-          },
-          {
-            "canton": "MontesdeOro",
-            "distritos": [
-              {
-                "distrito": "Miramar",
-                "poblacion": 9027
-              },
-              {
-                "distrito": "LaUnión",
-                "poblacion": 1513
-              },
-              {
-                "distrito": "SanIsidro",
-                "poblacion": 4047
-              }
-            ]
-          },
-          {
-            "canton": "Osa",
-            "distritos": [
-              {
-                "distrito": "PuertoCortés",
-                "poblacion": 8844
-              },
-              {
-                "distrito": "Palmar",
-                "poblacion": 9716
-              },
-              {
-                "distrito": "Sierpe",
-                "poblacion": 3645
-              },
-              {
-                "distrito": "BahíaBallena",
-                "poblacion": 3487
-              },
-              {
-                "distrito": "PiedrasBlancas",
-                "poblacion": 4529
-              },
-              {
-                "distrito": "BahíaDrake",
-                "poblacion": 1162
-              }
-            ]
-          },
-          {
-            "canton": "Quepos",
-            "distritos": [
-              {
-                "distrito": "Quepos",
-                "poblacion": 25665
-              },
-              {
-                "distrito": "Savegre",
-                "poblacion": 4116
-              },
-              {
-                "distrito": "Naranjito",
-                "poblacion": 4239
-              }
-            ]
-          },
-          {
-            "canton": "Golfito",
-            "distritos": [
-              {
-                "distrito": "Golfito",
-                "poblacion": 11867
-              },
-              {
-                "distrito": "PuertoJiménez",
-                "poblacion": 12836
-              },
-              {
-                "distrito": "Guaycará",
-                "poblacion": 14120
-              },
-              {
-                "distrito": "Pavón",
-                "poblacion": 7700
-              }
-            ]
-          },
-          {
-            "canton": "CotoBrus",
-            "distritos": [
-              {
-                "distrito": "SanVito",
-                "poblacion": 16629
-              },
-              {
-                "distrito": "Sabalito",
-                "poblacion": 13202
-              },
-              {
-                "distrito": "Aguabuena",
-                "poblacion": 7050
-              },
-              {
-                "distrito": "Limoncito",
-                "poblacion": 4152
-              },
-              {
-                "distrito": "Pittier",
-                "poblacion": 3247
-              },
-              {
-                "distrito": "GutiérrezBraun",
-                "poblacion": ""
-              }
-            ]
-          },
-          {
-            "canton": "Parrita",
-            "distritos": [
-              {
-                "distrito": "Parrita",
-                "poblacion": 20984
-              }
-            ]
-          },
-          {
-            "canton": "Corredores",
-            "distritos": [
-              {
-                "distrito": "Corredor",
-                "poblacion": 20050
-              },
-              {
-                "distrito": "LaCuesta",
-                "poblacion": 5333
-              },
-              {
-                "distrito": "Canoas",
-                "poblacion": 15929
-              },
-              {
-                "distrito": "Laurel",
-                "poblacion": 12172
-              }
-            ]
-          },
-          {
-            "canton": "Garabito",
-            "distritos": [
-              {
-                "distrito": "Jacó",
-                "poblacion": 18613
-              },
-              {
-                "distrito": "Tárcoles",
-                "poblacion": 8791
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "provincia": "Limón",
-        "cantones": [
-          {
-            "canton": "Limón",
-            "distritos": [
-              {
-                "distrito": "Limón",
-                "poblacion": 60710
-              },
-              {
-                "distrito": "ValleLaEstrella",
-                "poblacion": 20818
-              },
-              {
-                "distrito": "RíoBlanco",
-                "poblacion": 10257
-              },
-              {
-                "distrito": "Matama",
-                "poblacion": 8451
-              }
-            ]
-          },
-          {
-            "canton": "Pococí",
-            "distritos": [
-              {
-                "distrito": "Guápiles",
-                "poblacion": 39611
-              },
-              {
-                "distrito": "Jiménez",
-                "poblacion": 13052
-              },
-              {
-                "distrito": "Rita",
-                "poblacion": 29241
-              },
-              {
-                "distrito": "Roxana",
-                "poblacion": 20342
-              },
-              {
-                "distrito": "Cariari",
-                "poblacion": 40278
-              },
-              {
-                "distrito": "Colorado",
-                "poblacion": 5040
-              },
-              {
-                "distrito": "LaColonia",
-                "poblacion": 7110
-              }
-            ]
-          },
-          {
-            "canton": "Siquirres",
-            "distritos": [
-              {
-                "distrito": "Siquirres",
-                "poblacion": 34576
-              },
-              {
-                "distrito": "Pacuarito",
-                "poblacion": 10804
-              },
-              {
-                "distrito": "Florida",
-                "poblacion": 2656
-              },
-              {
-                "distrito": "Germania",
-                "poblacion": 3062
-              },
-              {
-                "distrito": "ElCairo",
-                "poblacion": 7628
-              },
-              {
-                "distrito": "Alegría",
-                "poblacion": 6947
-              },
-              {
-                "distrito": "Reventazón",
-                "poblacion": ""
-              }
-            ]
-          },
-          {
-            "canton": "Talamanca",
-            "distritos": [
-              {
-                "distrito": "Bratsi",
-                "poblacion": 10590
-              },
-              {
-                "distrito": "Sixaola",
-                "poblacion": 11847
-              },
-              {
-                "distrito": "Cahuita",
-                "poblacion": 13656
-              },
-              {
-                "distrito": "Telire",
-                "poblacion": 8709
-              }
-            ]
-          },
-          {
-            "canton": "Matina",
-            "distritos": [
-              {
-                "distrito": "Matina",
-                "poblacion": 10437
-              },
-              {
-                "distrito": "Batán",
-                "poblacion": 20814
-              },
-              {
-                "distrito": "Carrandi",
-                "poblacion": 16140
-              }
-            ]
-          },
-          {
-            "canton": "Guácimo",
-            "distritos": [
-              {
-                "distrito": "Guácimo",
-                "poblacion": 26152
-              },
-              {
-                "distrito": "Mercedes",
-                "poblacion": 2357
-              },
-              {
-                "distrito": "Pocora",
-                "poblacion": 8494
-              },
-              {
-                "distrito": "RíoJiménez",
-                "poblacion": 11836
-              },
-              {
-                "distrito": "Duacarí",
-                "poblacion": 8182
-              }
-            ]
-          }
-        ]
-      }
-    ]
+    "CostaRica": {
+      "provincias": [
+        {
+          "provincia": "SanJosé",
+          "cantones": [
+            {
+              "canton": "SanJosé",
+              "distritos": [
+                {
+                  "distrito": "Carmen",
+                  "poblacion": 2946
+                },
+                {
+                  "distrito": "Merced",
+                  "poblacion": 15408
+                },
+                {
+                  "distrito": "Hospital",
+                  "poblacion": 24030
+                },
+                {
+                  "distrito": "Catedral",
+                  "poblacion": 15682
+                },
+                {
+                  "distrito": "Zapote",
+                  "poblacion": 21990
+                },
+                {
+                  "distrito": "SanFranciscodeDosRíos",
+                  "poblacion": 23745
+                },
+                {
+                  "distrito": "Uruca",
+                  "poblacion": 42861
+                },
+                {
+                  "distrito": "MataRedonda",
+                  "poblacion": 10119
+                },
+                {
+                  "distrito": "Pavas",
+                  "poblacion": 89531
+                },
+                {
+                  "distrito": "Hatillo",
+                  "poblacion": 60723
+                },
+                {
+                  "distrito": "SanSebastián",
+                  "poblacion": 44923
+                }
+              ]
+            },
+            {
+              "canton": "Escazú",
+              "distritos": [
+                {
+                  "distrito": "Escazú",
+                  "poblacion": 13752
+                },
+                {
+                  "distrito": "SanAntonio",
+                  "poblacion": 28329
+                },
+                {
+                  "distrito": "SanRafael",
+                  "poblacion": 29121
+                }
+              ]
+            },
+            {
+              "canton": "Desamparados",
+              "distritos": [
+                {
+                  "distrito": "Desamparados",
+                  "poblacion": 37479
+                },
+                {
+                  "distrito": "SanMiguel",
+                  "poblacion": 38716
+                },
+                {
+                  "distrito": "SanJuandeDios",
+                  "poblacion": 24505
+                },
+                {
+                  "distrito": "SanRafaelArriba",
+                  "poblacion": 18412
+                },
+                {
+                  "distrito": "SanAntonio",
+                  "poblacion": 11343
+                },
+                {
+                  "distrito": "Frailes",
+                  "poblacion": 4586
+                },
+                {
+                  "distrito": "Patarrá",
+                  "poblacion": 14919
+                },
+                {
+                  "distrito": "SanCristóbal",
+                  "poblacion": 4769
+                },
+                {
+                  "distrito": "Rosario",
+                  "poblacion": 3787
+                },
+                {
+                  "distrito": "Damas",
+                  "poblacion": 15713
+                },
+                {
+                  "distrito": "SanRafaelAbajo",
+                  "poblacion": 26781
+                },
+                {
+                  "distrito": "Gravilias",
+                  "poblacion": 17237
+                },
+                {
+                  "distrito": "LosGuido",
+                  "poblacion": 31120
+                }
+              ]
+            },
+            {
+              "canton": "Puriscal",
+              "distritos": [
+                {
+                  "distrito": "Santiago",
+                  "poblacion": 12600
+                },
+                {
+                  "distrito": "MercedesSur",
+                  "poblacion": 7099
+                },
+                {
+                  "distrito": "Barbacoas",
+                  "poblacion": 4486
+                },
+                {
+                  "distrito": "GrifoAlto",
+                  "poblacion": 1492
+                },
+                {
+                  "distrito": "SanRafael",
+                  "poblacion": 2009
+                },
+                {
+                  "distrito": "Candelarita",
+                  "poblacion": 1753
+                },
+                {
+                  "distrito": "Desamparaditos",
+                  "poblacion": 794
+                },
+                {
+                  "distrito": "SanAntonio",
+                  "poblacion": 4720
+                },
+                {
+                  "distrito": "Chires",
+                  "poblacion": 3640
+                }
+              ]
+            },
+            {
+              "canton": "Tarrazú",
+              "distritos": [
+                {
+                  "distrito": "SanMarcos",
+                  "poblacion": 11365
+                },
+                {
+                  "distrito": "SanLorenzo",
+                  "poblacion": 5250
+                },
+                {
+                  "distrito": "SanCarlos",
+                  "poblacion": 2172
+                }
+              ]
+            },
+            {
+              "canton": "Aserrí",
+              "distritos": [
+                {
+                  "distrito": "Aserrí",
+                  "poblacion": 30347
+                },
+                {
+                  "distrito": "Tarbaca",
+                  "poblacion": 1676
+                },
+                {
+                  "distrito": "VueltadeJorco",
+                  "poblacion": 7342
+                },
+                {
+                  "distrito": "SanGabriel",
+                  "poblacion": 6930
+                },
+                {
+                  "distrito": "Legua",
+                  "poblacion": 1748
+                },
+                {
+                  "distrito": "Monterrey",
+                  "poblacion": 558
+                },
+                {
+                  "distrito": "Salitrillos",
+                  "poblacion": 15879
+                }
+              ]
+            },
+            {
+              "canton": "Mora",
+              "distritos": [
+                {
+                  "distrito": "Colón",
+                  "poblacion": 17411
+                },
+                {
+                  "distrito": "Guayabo",
+                  "poblacion": 5414
+                },
+                {
+                  "distrito": "Tabarcia",
+                  "poblacion": 5160
+                },
+                {
+                  "distrito": "PiedrasNegras",
+                  "poblacion": 498
+                },
+                {
+                  "distrito": "Picagres",
+                  "poblacion": 899
+                },
+                {
+                  "distrito": "Jaris",
+                  "poblacion": 1377
+                },
+                {
+                  "distrito": "Quitirrisí",
+                  "poblacion": ""
+                }
+              ]
+            },
+            {
+              "canton": "Goicoechea",
+              "distritos": [
+                {
+                  "distrito": "Guadalupe",
+                  "poblacion": 22347
+                },
+                {
+                  "distrito": "SanFrancisco",
+                  "poblacion": 2421
+                },
+                {
+                  "distrito": "CalleBlancos",
+                  "poblacion": 23451
+                },
+                {
+                  "distrito": "MatadePlátano",
+                  "poblacion": 21198
+                },
+                {
+                  "distrito": "Ipís",
+                  "poblacion": 32049
+                },
+                {
+                  "distrito": "RanchoRedondo",
+                  "poblacion": 3224
+                },
+                {
+                  "distrito": "Purral",
+                  "poblacion": 36074
+                }
+              ]
+            },
+            {
+              "canton": "SantaAna",
+              "distritos": [
+                {
+                  "distrito": "SantaAna",
+                  "poblacion": 12956
+                },
+                {
+                  "distrito": "Salitral",
+                  "poblacion": 5587
+                },
+                {
+                  "distrito": "Pozos",
+                  "poblacion": 20671
+                },
+                {
+                  "distrito": "Uruca",
+                  "poblacion": 9129
+                },
+                {
+                  "distrito": "Piedades",
+                  "poblacion": 10263
+                },
+                {
+                  "distrito": "Brasil",
+                  "poblacion": 3247
+                }
+              ]
+            },
+            {
+              "canton": "Alajuelita",
+              "distritos": [
+                {
+                  "distrito": "Alajuelita",
+                  "poblacion": 13325
+                },
+                {
+                  "distrito": "SanJosecito",
+                  "poblacion": 13069
+                },
+                {
+                  "distrito": "SanAntonio",
+                  "poblacion": 6003
+                },
+                {
+                  "distrito": "Concepción",
+                  "poblacion": 23455
+                },
+                {
+                  "distrito": "SanFelipe",
+                  "poblacion": 41306
+                }
+              ]
+            },
+            {
+              "canton": "VázquezdeCoronado",
+              "distritos": [
+                {
+                  "distrito": "SanIsidro",
+                  "poblacion": 18631
+                },
+                {
+                  "distrito": "SanRafael",
+                  "poblacion": 8643
+                },
+                {
+                  "distrito": "DulceNombredeJesús",
+                  "poblacion": 12149
+                },
+                {
+                  "distrito": "Patalillo",
+                  "poblacion": 24907
+                },
+                {
+                  "distrito": "Cascajal",
+                  "poblacion": 8602
+                }
+              ]
+            },
+            {
+              "canton": "Acosta",
+              "distritos": [
+                {
+                  "distrito": "SanIgnacio",
+                  "poblacion": 9475
+                },
+                {
+                  "distrito": "Guaitil",
+                  "poblacion": 2685
+                },
+                {
+                  "distrito": "Palmichal",
+                  "poblacion": 5308
+                },
+                {
+                  "distrito": "Cangrejal",
+                  "poblacion": 2121
+                },
+                {
+                  "distrito": "Sabanillas",
+                  "poblacion": 2668
+                }
+              ]
+            },
+            {
+              "canton": "Tibás",
+              "distritos": [
+                {
+                  "distrito": "SanJuan",
+                  "poblacion": 25866
+                },
+                {
+                  "distrito": "CincoEsquinas",
+                  "poblacion": 8617
+                },
+                {
+                  "distrito": "AnselmoLlorente",
+                  "poblacion": 12913
+                },
+                {
+                  "distrito": "LeónXIII",
+                  "poblacion": 20551
+                },
+                {
+                  "distrito": "Colima",
+                  "poblacion": 18118
+                }
+              ]
+            },
+            {
+              "canton": "Moravia",
+              "distritos": [
+                {
+                  "distrito": "SanVicente",
+                  "poblacion": 32041
+                },
+                {
+                  "distrito": "SanJerónimo",
+                  "poblacion": 7463
+                },
+                {
+                  "distrito": "LaTrinidad",
+                  "poblacion": 23755
+                }
+              ]
+            },
+            {
+              "canton": "MontesdeOca",
+              "distritos": [
+                {
+                  "distrito": "SanPedro",
+                  "poblacion": 28844
+                },
+                {
+                  "distrito": "Sabanilla",
+                  "poblacion": 14082
+                },
+                {
+                  "distrito": "Mercedes",
+                  "poblacion": 6086
+                },
+                {
+                  "distrito": "SanRafael",
+                  "poblacion": 13832
+                }
+              ]
+            },
+            {
+              "canton": "Turrubares",
+              "distritos": [
+                {
+                  "distrito": "SanPablo",
+                  "poblacion": 1573
+                },
+                {
+                  "distrito": "SanPedro",
+                  "poblacion": 861
+                },
+                {
+                  "distrito": "SanJuandeMata",
+                  "poblacion": 1546
+                },
+                {
+                  "distrito": "SanLuis",
+                  "poblacion": 721
+                },
+                {
+                  "distrito": "Carara",
+                  "poblacion": 2330
+                }
+              ]
+            },
+            {
+              "canton": "Dota",
+              "distritos": [
+                {
+                  "distrito": "SantaMaría",
+                  "poblacion": 5251
+                },
+                {
+                  "distrito": "Jardín",
+                  "poblacion": 702
+                },
+                {
+                  "distrito": "Copey",
+                  "poblacion": 2088
+                }
+              ]
+            },
+            {
+              "canton": "Curridabat",
+              "distritos": [
+                {
+                  "distrito": "Curridabat",
+                  "poblacion": 32605
+                },
+                {
+                  "distrito": "Granadilla",
+                  "poblacion": 19207
+                },
+                {
+                  "distrito": "Sánchez",
+                  "poblacion": 6833
+                },
+                {
+                  "distrito": "Tirrases",
+                  "poblacion": 22032
+                }
+              ]
+            },
+            {
+              "canton": "PérezZeledón",
+              "distritos": [
+                {
+                  "distrito": "SanIsidrodeElGeneral",
+                  "poblacion": 48435
+                },
+                {
+                  "distrito": "ElGeneral",
+                  "poblacion": 6873
+                },
+                {
+                  "distrito": "DanielFlores",
+                  "poblacion": 35584
+                },
+                {
+                  "distrito": "Rivas",
+                  "poblacion": 7318
+                },
+                {
+                  "distrito": "SanPedro",
+                  "poblacion": 9344
+                },
+                {
+                  "distrito": "Platanares",
+                  "poblacion": 7497
+                },
+                {
+                  "distrito": "Pejibaye",
+                  "poblacion": 7972
+                },
+                {
+                  "distrito": "Cajón",
+                  "poblacion": 9045
+                },
+                {
+                  "distrito": "Barú",
+                  "poblacion": 2854
+                },
+                {
+                  "distrito": "RíoNuevo",
+                  "poblacion": 3495
+                },
+                {
+                  "distrito": "Páramo",
+                  "poblacion": 4865
+                },
+                {
+                  "distrito": "LaAmistad",
+                  "poblacion": ""
+                }
+              ]
+            },
+            {
+              "canton": "LeónCortés",
+              "distritos": [
+                {
+                  "distrito": "SanPablo",
+                  "poblacion": 4663
+                },
+                {
+                  "distrito": "SanAndrés",
+                  "poblacion": 1746
+                },
+                {
+                  "distrito": "LlanoBonito",
+                  "poblacion": 2269
+                },
+                {
+                  "distrito": "SanIsidro",
+                  "poblacion": 1870
+                },
+                {
+                  "distrito": "SantaCruz",
+                  "poblacion": 2164
+                },
+                {
+                  "distrito": "SanAntonio",
+                  "poblacion": 1278
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "provincia": "Alajuela",
+          "cantones": [
+            {
+              "canton": "Alajuela",
+              "distritos": [
+                {
+                  "distrito": "Alajuela",
+                  "poblacion": 48326
+                },
+                {
+                  "distrito": "SanJosé",
+                  "poblacion": 52686
+                },
+                {
+                  "distrito": "Carrizal",
+                  "poblacion": 9002
+                },
+                {
+                  "distrito": "SanAntonio",
+                  "poblacion": 31637
+                },
+                {
+                  "distrito": "Guácima",
+                  "poblacion": 26642
+                },
+                {
+                  "distrito": "SanIsidro",
+                  "poblacion": 22586
+                },
+                {
+                  "distrito": "Sabanilla",
+                  "poblacion": 12396
+                },
+                {
+                  "distrito": "SanRafael",
+                  "poblacion": 34182
+                },
+                {
+                  "distrito": "RíoSegundo",
+                  "poblacion": 13561
+                },
+                {
+                  "distrito": "Desamparados",
+                  "poblacion": 33654
+                },
+                {
+                  "distrito": "Turrúcares",
+                  "poblacion": 9349
+                },
+                {
+                  "distrito": "Tambor",
+                  "poblacion": 14338
+                },
+                {
+                  "distrito": "Garita",
+                  "poblacion": 9492
+                },
+                {
+                  "distrito": "Sarapiquí",
+                  "poblacion": 4021
+                }
+              ]
+            },
+            {
+              "canton": "SanRamón",
+              "distritos": [
+                {
+                  "distrito": "SanRamón",
+                  "poblacion": 9107
+                },
+                {
+                  "distrito": "Santiago",
+                  "poblacion": 5699
+                },
+                {
+                  "distrito": "SanJuan",
+                  "poblacion": 13406
+                },
+                {
+                  "distrito": "PiedadesNorte",
+                  "poblacion": 9564
+                },
+                {
+                  "distrito": "PiedadesSur",
+                  "poblacion": 4603
+                },
+                {
+                  "distrito": "SanRafael",
+                  "poblacion": 10904
+                },
+                {
+                  "distrito": "SanIsidro",
+                  "poblacion": 5938
+                },
+                {
+                  "distrito": "Ángeles",
+                  "poblacion": 9793
+                },
+                {
+                  "distrito": "Alfaro",
+                  "poblacion": 8402
+                },
+                {
+                  "distrito": "Volio",
+                  "poblacion": 2727
+                },
+                {
+                  "distrito": "Concepción",
+                  "poblacion": 2765
+                },
+                {
+                  "distrito": "Zapotal",
+                  "poblacion": 515
+                },
+                {
+                  "distrito": "PeñasBlancas",
+                  "poblacion": 12371
+                },
+                {
+                  "distrito": "SanLorenzo",
+                  "poblacion": ""
+                }
+              ]
+            },
+            {
+              "canton": "Grecia",
+              "distritos": [
+                {
+                  "distrito": "Grecia",
+                  "poblacion": 16146
+                },
+                {
+                  "distrito": "SanIsidro",
+                  "poblacion": 7293
+                },
+                {
+                  "distrito": "SanJosé",
+                  "poblacion": 10231
+                },
+                {
+                  "distrito": "SanRoque",
+                  "poblacion": 13660
+                },
+                {
+                  "distrito": "Tacares",
+                  "poblacion": 10050
+                },
+                {
+                  "distrito": "PuentedePiedra",
+                  "poblacion": 13274
+                },
+                {
+                  "distrito": "Bolívar",
+                  "poblacion": 9018
+                }
+              ]
+            },
+            {
+              "canton": "SanMateo",
+              "distritos": [
+                {
+                  "distrito": "SanMateo",
+                  "poblacion": 3071
+                },
+                {
+                  "distrito": "Desmonte",
+                  "poblacion": 1201
+                },
+                {
+                  "distrito": "JesúsMaría",
+                  "poblacion": 1517
+                },
+                {
+                  "distrito": "Labrador",
+                  "poblacion": 1487
+                }
+              ]
+            },
+            {
+              "canton": "Atenas",
+              "distritos": [
+                {
+                  "distrito": "Atenas",
+                  "poblacion": 8015
+                },
+                {
+                  "distrito": "Jesús",
+                  "poblacion": 4396
+                },
+                {
+                  "distrito": "Mercedes",
+                  "poblacion": 3832
+                },
+                {
+                  "distrito": "SanIsidro",
+                  "poblacion": 3521
+                },
+                {
+                  "distrito": "Concepción",
+                  "poblacion": 4261
+                },
+                {
+                  "distrito": "SanJosé",
+                  "poblacion": 2326
+                },
+                {
+                  "distrito": "SantaEulalia",
+                  "poblacion": 2510
+                },
+                {
+                  "distrito": "Escobal",
+                  "poblacion": 1019
+                }
+              ]
+            },
+            {
+              "canton": "Naranjo",
+              "distritos": [
+                {
+                  "distrito": "Naranjo",
+                  "poblacion": 17348
+                },
+                {
+                  "distrito": "SanMiguel",
+                  "poblacion": 5782
+                },
+                {
+                  "distrito": "SanJosé",
+                  "poblacion": 3666
+                },
+                {
+                  "distrito": "CirríSur",
+                  "poblacion": 5533
+                },
+                {
+                  "distrito": "SanJerónimo",
+                  "poblacion": 4076
+                },
+                {
+                  "distrito": "SanJuan",
+                  "poblacion": 3688
+                },
+                {
+                  "distrito": "ElRosario",
+                  "poblacion": 4638
+                },
+                {
+                  "distrito": "Palmitos",
+                  "poblacion": 5033
+                }
+              ]
+            },
+            {
+              "canton": "Palmares",
+              "distritos": [
+                {
+                  "distrito": "Palmares",
+                  "poblacion": 3764
+                },
+                {
+                  "distrito": "Zaragoza",
+                  "poblacion": 9901
+                },
+                {
+                  "distrito": "BuenosAires",
+                  "poblacion": 8931
+                },
+                {
+                  "distrito": "Santiago",
+                  "poblacion": 3379
+                },
+                {
+                  "distrito": "Candelaria",
+                  "poblacion": 2457
+                },
+                {
+                  "distrito": "Esquipulas",
+                  "poblacion": 8435
+                },
+                {
+                  "distrito": "LaGranja",
+                  "poblacion": 4938
+                }
+              ]
+            },
+            {
+              "canton": "Poás",
+              "distritos": [
+                {
+                  "distrito": "SanPedro",
+                  "poblacion": 8243
+                },
+                {
+                  "distrito": "SanJuan",
+                  "poblacion": 5647
+                },
+                {
+                  "distrito": "SanRafael",
+                  "poblacion": 6655
+                },
+                {
+                  "distrito": "Carrillos",
+                  "poblacion": 11330
+                },
+                {
+                  "distrito": "SabanaRedonda",
+                  "poblacion": 3051
+                }
+              ]
+            },
+            {
+              "canton": "Orotina",
+              "distritos": [
+                {
+                  "distrito": "Orotina",
+                  "poblacion": 10680
+                },
+                {
+                  "distrito": "ElMastate",
+                  "poblacion": 2249
+                },
+                {
+                  "distrito": "HaciendaVieja",
+                  "poblacion": 1242
+                },
+                {
+                  "distrito": "Coyolar",
+                  "poblacion": 7685
+                },
+                {
+                  "distrito": "LaCeiba",
+                  "poblacion": 2592
+                }
+              ]
+            },
+            {
+              "canton": "SanCarlos",
+              "distritos": [
+                {
+                  "distrito": "Quesada",
+                  "poblacion": 46127
+                },
+                {
+                  "distrito": "Florencia",
+                  "poblacion": 18517
+                },
+                {
+                  "distrito": "Buenavista",
+                  "poblacion": 420
+                },
+                {
+                  "distrito": "AguasZarcas",
+                  "poblacion": 26305
+                },
+                {
+                  "distrito": "Venecia",
+                  "poblacion": 12172
+                },
+                {
+                  "distrito": "Pital",
+                  "poblacion": 25359
+                },
+                {
+                  "distrito": "LaFortuna",
+                  "poblacion": 19584
+                },
+                {
+                  "distrito": "LaTigra",
+                  "poblacion": 7964
+                },
+                {
+                  "distrito": "LaPalmera",
+                  "poblacion": 7940
+                },
+                {
+                  "distrito": "Venado",
+                  "poblacion": 2173
+                },
+                {
+                  "distrito": "Cutris",
+                  "poblacion": 15537
+                },
+                {
+                  "distrito": "Monterrey",
+                  "poblacion": 4321
+                },
+                {
+                  "distrito": "Pocosol",
+                  "poblacion": 19696
+                }
+              ]
+            },
+            {
+              "canton": "Zarcero",
+              "distritos": [
+                {
+                  "distrito": "Zarcero",
+                  "poblacion": 4397
+                },
+                {
+                  "distrito": "Laguna",
+                  "poblacion": 2031
+                },
+                {
+                  "distrito": "Tapesco",
+                  "poblacion": 1582
+                },
+                {
+                  "distrito": "Guadalupe",
+                  "poblacion": 1427
+                },
+                {
+                  "distrito": "Palmira",
+                  "poblacion": 1712
+                },
+                {
+                  "distrito": "Zapote",
+                  "poblacion": 944
+                },
+                {
+                  "distrito": "Brisas",
+                  "poblacion": 2536
+                }
+              ]
+            },
+            {
+              "canton": "Sarchí",
+              "distritos": [
+                {
+                  "distrito": "SarchíNorte",
+                  "poblacion": 8382
+                },
+                {
+                  "distrito": "SarchíSur",
+                  "poblacion": 6539
+                },
+                {
+                  "distrito": "ToroAmarillo",
+                  "poblacion": 380
+                },
+                {
+                  "distrito": "SanPedro",
+                  "poblacion": 4463
+                },
+                {
+                  "distrito": "Rodríguez",
+                  "poblacion": 2832
+                }
+              ]
+            },
+            {
+              "canton": "Upala",
+              "distritos": [
+                {
+                  "distrito": "Upala",
+                  "poblacion": 16850
+                },
+                {
+                  "distrito": "AguasClaras",
+                  "poblacion": 5714
+                },
+                {
+                  "distrito": "SanJosé",
+                  "poblacion": 8795
+                },
+                {
+                  "distrito": "Bijagua",
+                  "poblacion": 5363
+                },
+                {
+                  "distrito": "Delicias",
+                  "poblacion": 5479
+                },
+                {
+                  "distrito": "DosRíos",
+                  "poblacion": 4017
+                },
+                {
+                  "distrito": "Yolillal",
+                  "poblacion": 4129
+                },
+                {
+                  "distrito": "Canalete",
+                  "poblacion": 5119
+                }
+              ]
+            },
+            {
+              "canton": "LosChiles",
+              "distritos": [
+                {
+                  "distrito": "LosChiles",
+                  "poblacion": 21714
+                },
+                {
+                  "distrito": "CañoNegro",
+                  "poblacion": 2333
+                },
+                {
+                  "distrito": "ElAmparo",
+                  "poblacion": 7772
+                },
+                {
+                  "distrito": "SanJorge",
+                  "poblacion": 3369
+                }
+              ]
+            },
+            {
+              "canton": "Guatuso",
+              "distritos": [
+                {
+                  "distrito": "SanRafael",
+                  "poblacion": 10117
+                },
+                {
+                  "distrito": "Buenavista",
+                  "poblacion": 1990
+                },
+                {
+                  "distrito": "Cote",
+                  "poblacion": 1092
+                },
+                {
+                  "distrito": "Katira",
+                  "poblacion": 6497
+                }
+              ]
+            },
+            {
+              "canton": "RíoCuarto",
+              "distritos": [
+                {
+                  "distrito": "RíoCuarto",
+                  "poblacion": ""
+                },
+                {
+                  "distrito": "SantaRita",
+                  "poblacion": ""
+                },
+                {
+                  "distrito": "SantaIsabel",
+                  "poblacion": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "provincia": "Cartago",
+          "cantones": [
+            {
+              "canton": "Cartago",
+              "distritos": [
+                {
+                  "distrito": "Oriental",
+                  "poblacion": 12310
+                },
+                {
+                  "distrito": "Occidental",
+                  "poblacion": 10465
+                },
+                {
+                  "distrito": "Carmen",
+                  "poblacion": 19390
+                },
+                {
+                  "distrito": "SanNicolás",
+                  "poblacion": 29913
+                },
+                {
+                  "distrito": "Aguacaliente",
+                  "poblacion": 36408
+                },
+                {
+                  "distrito": "Guadalupe",
+                  "poblacion": 16547
+                },
+                {
+                  "distrito": "Corralillo",
+                  "poblacion": 12064
+                },
+                {
+                  "distrito": "TierraBlanca",
+                  "poblacion": 5926
+                },
+                {
+                  "distrito": "DulceNombre",
+                  "poblacion": 12004
+                },
+                {
+                  "distrito": "LlanoGrande",
+                  "poblacion": 5120
+                },
+                {
+                  "distrito": "Quebradilla",
+                  "poblacion": 6057
+                }
+              ]
+            },
+            {
+              "canton": "Paraíso",
+              "distritos": [
+                {
+                  "distrito": "Paraíso",
+                  "poblacion": 21561
+                },
+                {
+                  "distrito": "Santiago",
+                  "poblacion": 6493
+                },
+                {
+                  "distrito": "Orosi",
+                  "poblacion": 10208
+                },
+                {
+                  "distrito": "Cachí",
+                  "poblacion": 5944
+                },
+                {
+                  "distrito": "LlanosdeSantaLucía",
+                  "poblacion": 19590
+                },
+                {
+                  "distrito": "Birrisito",
+                  "poblacion": ""
+                }
+              ]
+            },
+            {
+              "canton": "LaUnión",
+              "distritos": [
+                {
+                  "distrito": "TresRíos",
+                  "poblacion": 9298
+                },
+                {
+                  "distrito": "SanDiego",
+                  "poblacion": 25354
+                },
+                {
+                  "distrito": "SanJuan",
+                  "poblacion": 15752
+                },
+                {
+                  "distrito": "SanRafael",
+                  "poblacion": 16277
+                },
+                {
+                  "distrito": "Concepción",
+                  "poblacion": 19259
+                },
+                {
+                  "distrito": "DulceNombre",
+                  "poblacion": 9289
+                },
+                {
+                  "distrito": "SanRamón",
+                  "poblacion": 4526
+                },
+                {
+                  "distrito": "RíoAzul",
+                  "poblacion": 14860
+                }
+              ]
+            },
+            {
+              "canton": "Jiménez",
+              "distritos": [
+                {
+                  "distrito": "JuanViñas",
+                  "poblacion": 7095
+                },
+                {
+                  "distrito": "Tucurrique",
+                  "poblacion": 5601
+                },
+                {
+                  "distrito": "Pejibaye",
+                  "poblacion": 3665
+                },
+                {
+                  "distrito": "LaVictoria",
+                  "poblacion": ""
+                }
+              ]
+            },
+            {
+              "canton": "Turrialba",
+              "distritos": [
+                {
+                  "distrito": "Turrialba",
+                  "poblacion": 27039
+                },
+                {
+                  "distrito": "LaSuiza",
+                  "poblacion": 7939
+                },
+                {
+                  "distrito": "Peralta",
+                  "poblacion": 621
+                },
+                {
+                  "distrito": "SantaCruz",
+                  "poblacion": 3804
+                },
+                {
+                  "distrito": "SantaTeresita",
+                  "poblacion": 5402
+                },
+                {
+                  "distrito": "Pavones",
+                  "poblacion": 4628
+                },
+                {
+                  "distrito": "Tuis",
+                  "poblacion": 2950
+                },
+                {
+                  "distrito": "Tayutic",
+                  "poblacion": 2506
+                },
+                {
+                  "distrito": "SantaRosa",
+                  "poblacion": 5747
+                },
+                {
+                  "distrito": "TresEquis",
+                  "poblacion": 1964
+                },
+                {
+                  "distrito": "LaIsabel",
+                  "poblacion": 6362
+                },
+                {
+                  "distrito": "Chirripó",
+                  "poblacion": 4584
+                }
+              ]
+            },
+            {
+              "canton": "Alvarado",
+              "distritos": [
+                {
+                  "distrito": "Pacayas",
+                  "poblacion": 5989
+                },
+                {
+                  "distrito": "Cervantes",
+                  "poblacion": 6916
+                },
+                {
+                  "distrito": "Capellades",
+                  "poblacion": 2710
+                }
+              ]
+            },
+            {
+              "canton": "Oreamuno",
+              "distritos": [
+                {
+                  "distrito": "SanRafael",
+                  "poblacion": 29275
+                },
+                {
+                  "distrito": "Cot",
+                  "poblacion": 11360
+                },
+                {
+                  "distrito": "PotreroCerrado",
+                  "poblacion": 2705
+                },
+                {
+                  "distrito": "Cipreses",
+                  "poblacion": 4234
+                },
+                {
+                  "distrito": "SantaRosa",
+                  "poblacion": 3021
+                }
+              ]
+            },
+            {
+              "canton": "ElGuarco",
+              "distritos": [
+                {
+                  "distrito": "ElTejar",
+                  "poblacion": 27037
+                },
+                {
+                  "distrito": "SanIsidro",
+                  "poblacion": 11632
+                },
+                {
+                  "distrito": "Tobosi",
+                  "poblacion": 7834
+                },
+                {
+                  "distrito": "PatiodeAgua",
+                  "poblacion": 456
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "provincia": "Heredia",
+          "cantones": [
+            {
+              "canton": "Heredia",
+              "distritos": [
+                {
+                  "distrito": "Heredia",
+                  "poblacion": 18988
+                },
+                {
+                  "distrito": "Mercedes",
+                  "poblacion": 30276
+                },
+                {
+                  "distrito": "SanFrancisco",
+                  "poblacion": 60166
+                },
+                {
+                  "distrito": "Ulloa",
+                  "poblacion": 35618
+                },
+                {
+                  "distrito": "Varablanca",
+                  "poblacion": 972
+                }
+              ]
+            },
+            {
+              "canton": "Barva",
+              "distritos": [
+                {
+                  "distrito": "Barva",
+                  "poblacion": 5099
+                },
+                {
+                  "distrito": "SanPedro",
+                  "poblacion": 12026
+                },
+                {
+                  "distrito": "SanPablo",
+                  "poblacion": 10105
+                },
+                {
+                  "distrito": "SanRoque",
+                  "poblacion": 5507
+                },
+                {
+                  "distrito": "SantaLucía",
+                  "poblacion": 8524
+                },
+                {
+                  "distrito": "SanJosédelaMontaña",
+                  "poblacion": 6929
+                }
+              ]
+            },
+            {
+              "canton": "SantoDomingo",
+              "distritos": [
+                {
+                  "distrito": "SantoDomingo",
+                  "poblacion": 5050
+                },
+                {
+                  "distrito": "SanVicente",
+                  "poblacion": 8072
+                },
+                {
+                  "distrito": "SanMiguel",
+                  "poblacion": 7988
+                },
+                {
+                  "distrito": "Paracito",
+                  "poblacion": 2832
+                },
+                {
+                  "distrito": "SantoTomás",
+                  "poblacion": 7953
+                },
+                {
+                  "distrito": "SantaRosa",
+                  "poblacion": 9264
+                },
+                {
+                  "distrito": "Tures",
+                  "poblacion": 4477
+                },
+                {
+                  "distrito": "Pará",
+                  "poblacion": 4199
+                }
+              ]
+            },
+            {
+              "canton": "SantaBárbara",
+              "distritos": [
+                {
+                  "distrito": "SantaBárbara",
+                  "poblacion": 6394
+                },
+                {
+                  "distrito": "SanPedro",
+                  "poblacion": 7016
+                },
+                {
+                  "distrito": "SanJuan",
+                  "poblacion": 9308
+                },
+                {
+                  "distrito": "Jesús",
+                  "poblacion": 11842
+                },
+                {
+                  "distrito": "SantoDomingo",
+                  "poblacion": 3699
+                },
+                {
+                  "distrito": "Purabá",
+                  "poblacion": 5619
+                }
+              ]
+            },
+            {
+              "canton": "SanRafael",
+              "distritos": [
+                {
+                  "distrito": "SanRafael",
+                  "poblacion": 10787
+                },
+                {
+                  "distrito": "SanJosecito",
+                  "poblacion": 14331
+                },
+                {
+                  "distrito": "Santiago",
+                  "poblacion": 10534
+                },
+                {
+                  "distrito": "Ángeles",
+                  "poblacion": 13017
+                },
+                {
+                  "distrito": "Concepción",
+                  "poblacion": 7891
+                }
+              ]
+            },
+            {
+              "canton": "SanIsidro",
+              "distritos": [
+                {
+                  "distrito": "SanIsidro",
+                  "poblacion": 6413
+                },
+                {
+                  "distrito": "SanJosé",
+                  "poblacion": 8895
+                },
+                {
+                  "distrito": "Concepción",
+                  "poblacion": 3115
+                },
+                {
+                  "distrito": "SanFrancisco",
+                  "poblacion": 5232
+                }
+              ]
+            },
+            {
+              "canton": "Belén",
+              "distritos": [
+                {
+                  "distrito": "SanAntonio",
+                  "poblacion": 11625
+                },
+                {
+                  "distrito": "LaRibera",
+                  "poblacion": 7753
+                },
+                {
+                  "distrito": "LaAsunción",
+                  "poblacion": 7475
+                }
+              ]
+            },
+            {
+              "canton": "Flores",
+              "distritos": [
+                {
+                  "distrito": "SanJoaquín",
+                  "poblacion": 8341
+                },
+                {
+                  "distrito": "Barrantes",
+                  "poblacion": 5340
+                },
+                {
+                  "distrito": "Llorente",
+                  "poblacion": 11720
+                }
+              ]
+            },
+            {
+              "canton": "SanPablo",
+              "distritos": [
+                {
+                  "distrito": "SanPablo",
+                  "poblacion": 21485
+                },
+                {
+                  "distrito": "RincóndeSabanilla",
+                  "poblacion": 10034
+                }
+              ]
+            },
+            {
+              "canton": "Sarapiquí",
+              "distritos": [
+                {
+                  "distrito": "PuertoViejo",
+                  "poblacion": 31580
+                },
+                {
+                  "distrito": "LaVirgen",
+                  "poblacion": 16493
+                },
+                {
+                  "distrito": "LasHorquetas",
+                  "poblacion": 35957
+                },
+                {
+                  "distrito": "LlanurasdelGaspar",
+                  "poblacion": 2059
+                },
+                {
+                  "distrito": "Cureña",
+                  "poblacion": 1598
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "provincia": "Guanacaste",
+          "cantones": [
+            {
+              "canton": "Liberia",
+              "distritos": [
+                {
+                  "distrito": "Liberia",
+                  "poblacion": 67132
+                },
+                {
+                  "distrito": "CañasDulces",
+                  "poblacion": 4075
+                },
+                {
+                  "distrito": "Mayorga",
+                  "poblacion": 2032
+                },
+                {
+                  "distrito": "Nacascolo",
+                  "poblacion": 3129
+                },
+                {
+                  "distrito": "Curubandé",
+                  "poblacion": 3242
+                }
+              ]
+            },
+            {
+              "canton": "Nicoya",
+              "distritos": [
+                {
+                  "distrito": "Nicoya",
+                  "poblacion": 27131
+                },
+                {
+                  "distrito": "Mansión",
+                  "poblacion": 5772
+                },
+                {
+                  "distrito": "SanAntonio",
+                  "poblacion": 7148
+                },
+                {
+                  "distrito": "QuebradaHonda",
+                  "poblacion": 2591
+                },
+                {
+                  "distrito": "Sámara",
+                  "poblacion": 4685
+                },
+                {
+                  "distrito": "Nosara",
+                  "poblacion": 7213
+                },
+                {
+                  "distrito": "BeléndeNosarita",
+                  "poblacion": 3084
+                }
+              ]
+            },
+            {
+              "canton": "SantaCruz",
+              "distritos": [
+                {
+                  "distrito": "SantaCruz",
+                  "poblacion": 28008
+                },
+                {
+                  "distrito": "Bolsón",
+                  "poblacion": 2182
+                },
+                {
+                  "distrito": "VeintisietedeAbril",
+                  "poblacion": 9302
+                },
+                {
+                  "distrito": "Tempate",
+                  "poblacion": 6467
+                },
+                {
+                  "distrito": "Cartagena",
+                  "poblacion": 5147
+                },
+                {
+                  "distrito": "Cuajiniquil",
+                  "poblacion": 2678
+                },
+                {
+                  "distrito": "Diriá",
+                  "poblacion": 4983
+                },
+                {
+                  "distrito": "CaboVelas",
+                  "poblacion": 4381
+                },
+                {
+                  "distrito": "Tamarindo",
+                  "poblacion": 8136
+                }
+              ]
+            },
+            {
+              "canton": "Bagaces",
+              "distritos": [
+                {
+                  "distrito": "Bagaces",
+                  "poblacion": 16462
+                },
+                {
+                  "distrito": "LaFortuna",
+                  "poblacion": 3112
+                },
+                {
+                  "distrito": "Mogote",
+                  "poblacion": 4079
+                },
+                {
+                  "distrito": "RíoNaranjo",
+                  "poblacion": 1194
+                }
+              ]
+            },
+            {
+              "canton": "Carrillo",
+              "distritos": [
+                {
+                  "distrito": "Filadelfia",
+                  "poblacion": 8967
+                },
+                {
+                  "distrito": "Palmira",
+                  "poblacion": 6910
+                },
+                {
+                  "distrito": "Sardinal",
+                  "poblacion": 20094
+                },
+                {
+                  "distrito": "Belén",
+                  "poblacion": 11785
+                }
+              ]
+            },
+            {
+              "canton": "Cañas",
+              "distritos": [
+                {
+                  "distrito": "Cañas",
+                  "poblacion": 26577
+                },
+                {
+                  "distrito": "Palmira",
+                  "poblacion": 1361
+                },
+                {
+                  "distrito": "SanMiguel",
+                  "poblacion": 2076
+                },
+                {
+                  "distrito": "Bebedero",
+                  "poblacion": 2582
+                },
+                {
+                  "distrito": "Porozal",
+                  "poblacion": 797
+                }
+              ]
+            },
+            {
+              "canton": "Abangares",
+              "distritos": [
+                {
+                  "distrito": "LasJuntas",
+                  "poblacion": 10437
+                },
+                {
+                  "distrito": "Sierra",
+                  "poblacion": 2827
+                },
+                {
+                  "distrito": "SanJuan",
+                  "poblacion": 1857
+                },
+                {
+                  "distrito": "Colorado",
+                  "poblacion": 5161
+                }
+              ]
+            },
+            {
+              "canton": "Tilarán",
+              "distritos": [
+                {
+                  "distrito": "Tilarán",
+                  "poblacion": 9449
+                },
+                {
+                  "distrito": "QuebradaGrande",
+                  "poblacion": 3104
+                },
+                {
+                  "distrito": "Tronadora",
+                  "poblacion": 2029
+                },
+                {
+                  "distrito": "SantaRosa",
+                  "poblacion": 2188
+                },
+                {
+                  "distrito": "Líbano",
+                  "poblacion": 958
+                },
+                {
+                  "distrito": "TierrasMorenas",
+                  "poblacion": 1545
+                },
+                {
+                  "distrito": "Arenal",
+                  "poblacion": 2711
+                },
+                {
+                  "distrito": "Cabeceras",
+                  "poblacion": ""
+                }
+              ]
+            },
+            {
+              "canton": "Nandayure",
+              "distritos": [
+                {
+                  "distrito": "Carmona",
+                  "poblacion": 2663
+                },
+                {
+                  "distrito": "SantaRita",
+                  "poblacion": 1480
+                },
+                {
+                  "distrito": "Zapotal",
+                  "poblacion": 1263
+                },
+                {
+                  "distrito": "SanPablo",
+                  "poblacion": 2362
+                },
+                {
+                  "distrito": "Porvenir",
+                  "poblacion": 759
+                },
+                {
+                  "distrito": "Bejuco",
+                  "poblacion": 3311
+                }
+              ]
+            },
+            {
+              "canton": "LaCruz",
+              "distritos": [
+                {
+                  "distrito": "LaCruz",
+                  "poblacion": 13204
+                },
+                {
+                  "distrito": "SantaCecilia",
+                  "poblacion": 9191
+                },
+                {
+                  "distrito": "LaGarita",
+                  "poblacion": 2665
+                },
+                {
+                  "distrito": "SantaElena",
+                  "poblacion": 3011
+                }
+              ]
+            },
+            {
+              "canton": "Hojancha",
+              "distritos": [
+                {
+                  "distrito": "Hojancha",
+                  "poblacion": 4707
+                },
+                {
+                  "distrito": "MonteRomo",
+                  "poblacion": 724
+                },
+                {
+                  "distrito": "PuertoCarrillo",
+                  "poblacion": 1893
+                },
+                {
+                  "distrito": "Huacas",
+                  "poblacion": 761
+                },
+                {
+                  "distrito": "Matambú",
+                  "poblacion": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "provincia": "Puntarenas",
+          "cantones": [
+            {
+              "canton": "Puntarenas",
+              "distritos": [
+                {
+                  "distrito": "Puntarenas",
+                  "poblacion": 10342
+                },
+                {
+                  "distrito": "Pitahaya",
+                  "poblacion": 2755
+                },
+                {
+                  "distrito": "Chomes",
+                  "poblacion": 6645
+                },
+                {
+                  "distrito": "Lepanto",
+                  "poblacion": 10444
+                },
+                {
+                  "distrito": "Paquera",
+                  "poblacion": 8410
+                },
+                {
+                  "distrito": "Manzanillo",
+                  "poblacion": 3459
+                },
+                {
+                  "distrito": "Guacimal",
+                  "poblacion": 1173
+                },
+                {
+                  "distrito": "Barranca",
+                  "poblacion": 39426
+                },
+                {
+                  "distrito": "MonteVerde",
+                  "poblacion": 4943
+                },
+                {
+                  "distrito": "IsladelCoco",
+                  "poblacion": ""
+                },
+                {
+                  "distrito": "Cóbano",
+                  "poblacion": 9736
+                },
+                {
+                  "distrito": "Chacarita",
+                  "poblacion": 21244
+                },
+                {
+                  "distrito": "Chira",
+                  "poblacion": 1714
+                },
+                {
+                  "distrito": "Acapulco",
+                  "poblacion": 1560
+                },
+                {
+                  "distrito": "ElRoble",
+                  "poblacion": 21240
+                },
+                {
+                  "distrito": "Arancibia",
+                  "poblacion": 784
+                }
+              ]
+            },
+            {
+              "canton": "Esparza",
+              "distritos": [
+                {
+                  "distrito": "EspírituSanto",
+                  "poblacion": 22181
+                },
+                {
+                  "distrito": "SanJuanGrande",
+                  "poblacion": 8915
+                },
+                {
+                  "distrito": "Macacona",
+                  "poblacion": 5482
+                },
+                {
+                  "distrito": "SanRafael",
+                  "poblacion": 1725
+                },
+                {
+                  "distrito": "SanJerónimo",
+                  "poblacion": 941
+                },
+                {
+                  "distrito": "Caldera",
+                  "poblacion": ""
+                }
+              ]
+            },
+            {
+              "canton": "BuenosAires",
+              "distritos": [
+                {
+                  "distrito": "BuenosAires",
+                  "poblacion": 29454
+                },
+                {
+                  "distrito": "Volcán",
+                  "poblacion": 3690
+                },
+                {
+                  "distrito": "PotreroGrande",
+                  "poblacion": 6494
+                },
+                {
+                  "distrito": "Boruca",
+                  "poblacion": 3289
+                },
+                {
+                  "distrito": "Pilas",
+                  "poblacion": 1749
+                },
+                {
+                  "distrito": "Colinas",
+                  "poblacion": 1391
+                },
+                {
+                  "distrito": "Chánguena",
+                  "poblacion": 2929
+                },
+                {
+                  "distrito": "Biolley",
+                  "poblacion": 2589
+                },
+                {
+                  "distrito": "Brunka",
+                  "poblacion": 3197
+                }
+              ]
+            },
+            {
+              "canton": "MontesdeOro",
+              "distritos": [
+                {
+                  "distrito": "Miramar",
+                  "poblacion": 9027
+                },
+                {
+                  "distrito": "LaUnión",
+                  "poblacion": 1513
+                },
+                {
+                  "distrito": "SanIsidro",
+                  "poblacion": 4047
+                }
+              ]
+            },
+            {
+              "canton": "Osa",
+              "distritos": [
+                {
+                  "distrito": "PuertoCortés",
+                  "poblacion": 8844
+                },
+                {
+                  "distrito": "Palmar",
+                  "poblacion": 9716
+                },
+                {
+                  "distrito": "Sierpe",
+                  "poblacion": 3645
+                },
+                {
+                  "distrito": "BahíaBallena",
+                  "poblacion": 3487
+                },
+                {
+                  "distrito": "PiedrasBlancas",
+                  "poblacion": 4529
+                },
+                {
+                  "distrito": "BahíaDrake",
+                  "poblacion": 1162
+                }
+              ]
+            },
+            {
+              "canton": "Quepos",
+              "distritos": [
+                {
+                  "distrito": "Quepos",
+                  "poblacion": 25665
+                },
+                {
+                  "distrito": "Savegre",
+                  "poblacion": 4116
+                },
+                {
+                  "distrito": "Naranjito",
+                  "poblacion": 4239
+                }
+              ]
+            },
+            {
+              "canton": "Golfito",
+              "distritos": [
+                {
+                  "distrito": "Golfito",
+                  "poblacion": 11867
+                },
+                {
+                  "distrito": "PuertoJiménez",
+                  "poblacion": 12836
+                },
+                {
+                  "distrito": "Guaycará",
+                  "poblacion": 14120
+                },
+                {
+                  "distrito": "Pavón",
+                  "poblacion": 7700
+                }
+              ]
+            },
+            {
+              "canton": "CotoBrus",
+              "distritos": [
+                {
+                  "distrito": "SanVito",
+                  "poblacion": 16629
+                },
+                {
+                  "distrito": "Sabalito",
+                  "poblacion": 13202
+                },
+                {
+                  "distrito": "Aguabuena",
+                  "poblacion": 7050
+                },
+                {
+                  "distrito": "Limoncito",
+                  "poblacion": 4152
+                },
+                {
+                  "distrito": "Pittier",
+                  "poblacion": 3247
+                },
+                {
+                  "distrito": "GutiérrezBraun",
+                  "poblacion": ""
+                }
+              ]
+            },
+            {
+              "canton": "Parrita",
+              "distritos": [
+                {
+                  "distrito": "Parrita",
+                  "poblacion": 20984
+                }
+              ]
+            },
+            {
+              "canton": "Corredores",
+              "distritos": [
+                {
+                  "distrito": "Corredor",
+                  "poblacion": 20050
+                },
+                {
+                  "distrito": "LaCuesta",
+                  "poblacion": 5333
+                },
+                {
+                  "distrito": "Canoas",
+                  "poblacion": 15929
+                },
+                {
+                  "distrito": "Laurel",
+                  "poblacion": 12172
+                }
+              ]
+            },
+            {
+              "canton": "Garabito",
+              "distritos": [
+                {
+                  "distrito": "Jacó",
+                  "poblacion": 18613
+                },
+                {
+                  "distrito": "Tárcoles",
+                  "poblacion": 8791
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "provincia": "Limón",
+          "cantones": [
+            {
+              "canton": "Limón",
+              "distritos": [
+                {
+                  "distrito": "Limón",
+                  "poblacion": 60710
+                },
+                {
+                  "distrito": "ValleLaEstrella",
+                  "poblacion": 20818
+                },
+                {
+                  "distrito": "RíoBlanco",
+                  "poblacion": 10257
+                },
+                {
+                  "distrito": "Matama",
+                  "poblacion": 8451
+                }
+              ]
+            },
+            {
+              "canton": "Pococí",
+              "distritos": [
+                {
+                  "distrito": "Guápiles",
+                  "poblacion": 39611
+                },
+                {
+                  "distrito": "Jiménez",
+                  "poblacion": 13052
+                },
+                {
+                  "distrito": "Rita",
+                  "poblacion": 29241
+                },
+                {
+                  "distrito": "Roxana",
+                  "poblacion": 20342
+                },
+                {
+                  "distrito": "Cariari",
+                  "poblacion": 40278
+                },
+                {
+                  "distrito": "Colorado",
+                  "poblacion": 5040
+                },
+                {
+                  "distrito": "LaColonia",
+                  "poblacion": 7110
+                }
+              ]
+            },
+            {
+              "canton": "Siquirres",
+              "distritos": [
+                {
+                  "distrito": "Siquirres",
+                  "poblacion": 34576
+                },
+                {
+                  "distrito": "Pacuarito",
+                  "poblacion": 10804
+                },
+                {
+                  "distrito": "Florida",
+                  "poblacion": 2656
+                },
+                {
+                  "distrito": "Germania",
+                  "poblacion": 3062
+                },
+                {
+                  "distrito": "ElCairo",
+                  "poblacion": 7628
+                },
+                {
+                  "distrito": "Alegría",
+                  "poblacion": 6947
+                },
+                {
+                  "distrito": "Reventazón",
+                  "poblacion": ""
+                }
+              ]
+            },
+            {
+              "canton": "Talamanca",
+              "distritos": [
+                {
+                  "distrito": "Bratsi",
+                  "poblacion": 10590
+                },
+                {
+                  "distrito": "Sixaola",
+                  "poblacion": 11847
+                },
+                {
+                  "distrito": "Cahuita",
+                  "poblacion": 13656
+                },
+                {
+                  "distrito": "Telire",
+                  "poblacion": 8709
+                }
+              ]
+            },
+            {
+              "canton": "Matina",
+              "distritos": [
+                {
+                  "distrito": "Matina",
+                  "poblacion": 10437
+                },
+                {
+                  "distrito": "Batán",
+                  "poblacion": 20814
+                },
+                {
+                  "distrito": "Carrandi",
+                  "poblacion": 16140
+                }
+              ]
+            },
+            {
+              "canton": "Guácimo",
+              "distritos": [
+                {
+                  "distrito": "Guácimo",
+                  "poblacion": 26152
+                },
+                {
+                  "distrito": "Mercedes",
+                  "poblacion": 2357
+                },
+                {
+                  "distrito": "Pocora",
+                  "poblacion": 8494
+                },
+                {
+                  "distrito": "RíoJiménez",
+                  "poblacion": 11836
+                },
+                {
+                  "distrito": "Duacarí",
+                  "poblacion": 8182
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
   }
-}

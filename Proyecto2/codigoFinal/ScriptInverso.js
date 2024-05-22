@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", function() {
             .enter().append("path")
             .attr("display", function(d) { return d.depth ? null : "none"; }) // Hide the root node
             .attr("d", arc)
-            .style("stroke", "#fff")
+            .style("stroke", function(d) { return d.depth === 0 ? "lightblue" : null; }) // Cambia el color del contorno
             .style("fill", function(d) { 
                 return d.depth === 0 ? "white" : d.depth === 1 ? colorScale(d.data.name) : d.parent ? colorScale(d.parent.data.name) : null;
             })
@@ -55,11 +55,10 @@ document.addEventListener("DOMContentLoaded", function() {
                 return fontSize + "px";
             })
             .style("fill", function(d) { return d.depth === 0 ? "black" : "black"; })
-            .text(function(d) { return d.parent ? d.data.name : "Costa Rica"; });
+            .text(function(d) { return d.parent ? d.data.name : "Costa Rica, pob: 5196852"; });
 
         function computeTextRotation(d) {
-            var angle = (d.x0 + d.x1) / Math.PI * 90;
-            return (angle < 180) ? angle - 90 : angle + 90;
+            return 0; // Rotación siempre vertical
         }
     });
 });

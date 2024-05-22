@@ -13,7 +13,7 @@ function read_data(file_path) {
 // Path del JSON
 const filePath = '../data/distritosCr/distritosCrEstructura.json';
 
-// Función para comparar entidades por población
+// Función para comparar entidades por población (opcional, no usada en este ejemplo)
 const compararPorPoblacion = (a, b) => {
     let poblacionA = a.poblacion || (a.cantones ? a.cantones.reduce((total, canton) => total + canton.poblacion, 0) : 0);
     let poblacionB = b.poblacion || (b.cantones ? b.cantones.reduce((total, canton) => total + canton.poblacion, 0) : 0);
@@ -31,15 +31,19 @@ function construirArbolCostaRica(data) {
             const provinciaNode = { name: provincia.provincia, size: 0, children: [] }; // Agregar la propiedad size a la provincia
 
             provincia.cantones.forEach((canton) => {
-                const poblacionCanton = canton.distritos.reduce((total, distrito) => {
+                let poblacionCanton = 0; // Población inicial del cantón
+                const cantonNode = { name: canton.canton, size: 0, children: [] }; // Agregar la propiedad size al cantón
+
+                canton.distritos.forEach((distrito) => {
                     const poblacionDistrito = parseInt(distrito.poblacion, 10);
                     if (!isNaN(poblacionDistrito)) {
-                        return total + poblacionDistrito;
+                        const distritoNode = { name: distrito.distrito, size: poblacionDistrito }; // Agregar el tamaño del distrito
+                        cantonNode.children.push(distritoNode);
+                        poblacionCanton += poblacionDistrito;
                     }
-                    return total;
-                }, 0);
+                });
 
-                const cantonNode = { name: canton.canton, size: poblacionCanton, children: [] }; // Agregar el tamaño del cantón
+                cantonNode.size = poblacionCanton; // Actualizar el tamaño del cantón
                 provinciaNode.children.push(cantonNode);
 
                 poblacionProvincia += poblacionCanton;
@@ -56,13 +60,11 @@ function construirArbolCostaRica(data) {
     return arbol;
 }
 
-
 // Cargar el archivo JSON
 const data = read_data(filePath);
 
 // Construir el árbol
 const arbol = construirArbolCostaRica(data);
 
-console.log(arbol);
-
-
+// Imprimir el árbol completo
+console.log(JSON.stringify(arbol, null, 2));
