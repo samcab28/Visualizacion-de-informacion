@@ -1,0 +1,2912 @@
+{
+  "name": "Vue",
+  "children": [
+    {
+      "name": "@babel",
+      "children": [
+        {
+          "name": "parser",
+          "children": [
+            {
+              "name": "CHANGELOG",
+              "size": 38238
+            },
+            {
+              "name": "LICENSE",
+              "size": 1086
+            },
+            {
+              "name": "README",
+              "size": 427
+            },
+            {
+              "name": "bin",
+              "size": 430
+            },
+            {
+              "name": "bin",
+              "size": 328
+            },
+            {
+              "name": "lib",
+              "size": 1840911
+            },
+            {
+              "name": "lib",
+              "size": 469611
+            },
+            {
+              "name": "lib",
+              "size": 1371164
+            },
+            {
+              "name": "package",
+              "size": 1096
+            },
+            {
+              "name": "typings",
+              "size": 6202
+            },
+            {
+              "name": "typings",
+              "size": 6100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@vitejs",
+      "children": [
+        {
+          "name": "plugin-vue",
+          "children": [
+            {
+              "name": "LICENSE",
+              "size": 1098
+            },
+            {
+              "name": "README",
+              "size": 3916
+            },
+            {
+              "name": "dist",
+              "size": 171811
+            },
+            {
+              "name": "dist",
+              "size": 2359
+            },
+            {
+              "name": "dist",
+              "size": 169316
+            },
+            {
+              "name": "package",
+              "size": 1690
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@vue",
+      "children": [
+        {
+          "name": "compiler-core",
+          "children": [
+            {
+              "name": "LICENSE",
+              "size": 1091
+            },
+            {
+              "name": "README",
+              "size": 21
+            },
+            {
+              "name": "dist",
+              "size": 690737
+            },
+            {
+              "name": "dist",
+              "size": 229320
+            },
+            {
+              "name": "dist",
+              "size": 222231
+            },
+            {
+              "name": "dist",
+              "size": 43752
+            },
+            {
+              "name": "dist",
+              "size": 195230
+            },
+            {
+              "name": "index",
+              "size": 191
+            },
+            {
+              "name": "package",
+              "size": 950
+            }
+          ]
+        },
+        {
+          "name": "compiler-dom",
+          "children": [
+            {
+              "name": "LICENSE",
+              "size": 1091
+            },
+            {
+              "name": "README",
+              "size": 19
+            },
+            {
+              "name": "dist",
+              "size": 733324
+            },
+            {
+              "name": "dist",
+              "size": 76849
+            },
+            {
+              "name": "dist",
+              "size": 74981
+            },
+            {
+              "name": "dist",
+              "size": 2147
+            },
+            {
+              "name": "dist",
+              "size": 216060
+            },
+            {
+              "name": "dist",
+              "size": 56402
+            },
+            {
+              "name": "dist",
+              "size": 19313
+            },
+            {
+              "name": "dist",
+              "size": 231014
+            },
+            {
+              "name": "dist",
+              "size": 56218
+            },
+            {
+              "name": "index",
+              "size": 189
+            },
+            {
+              "name": "package",
+              "size": 978
+            }
+          ]
+        },
+        {
+          "name": "compiler-sfc",
+          "children": [
+            {
+              "name": "LICENSE",
+              "size": 1091
+            },
+            {
+              "name": "README",
+              "size": 4434
+            },
+            {
+              "name": "dist",
+              "size": 2037261
+            },
+            {
+              "name": "dist",
+              "size": 504725
+            },
+            {
+              "name": "dist",
+              "size": 10104
+            },
+            {
+              "name": "dist",
+              "size": 1522262
+            },
+            {
+              "name": "package",
+              "size": 1492
+            }
+          ]
+        },
+        {
+          "name": "compiler-ssr",
+          "children": [
+            {
+              "name": "LICENSE",
+              "size": 1091
+            },
+            {
+              "name": "README",
+              "size": 19
+            },
+            {
+              "name": "dist",
+              "size": 52315
+            },
+            {
+              "name": "dist",
+              "size": 51963
+            },
+            {
+              "name": "dist",
+              "size": 216
+            },
+            {
+              "name": "package",
+              "size": 729
+            }
+          ]
+        },
+        {
+          "name": "reactivity",
+          "children": [
+            {
+              "name": "LICENSE",
+              "size": 1091
+            },
+            {
+              "name": "README",
+              "size": 1049
+            },
+            {
+              "name": "dist",
+              "size": 245230
+            },
+            {
+              "name": "dist",
+              "size": 41403
+            },
+            {
+              "name": "dist",
+              "size": 38466
+            },
+            {
+              "name": "dist",
+              "size": 11757
+            },
+            {
+              "name": "dist",
+              "size": 42343
+            },
+            {
+              "name": "dist",
+              "size": 11647
+            },
+            {
+              "name": "dist",
+              "size": 41895
+            },
+            {
+              "name": "dist",
+              "size": 45767
+            },
+            {
+              "name": "dist",
+              "size": 11612
+            },
+            {
+              "name": "index",
+              "size": 185
+            },
+            {
+              "name": "package",
+              "size": 905
+            }
+          ]
+        },
+        {
+          "name": "reactivity-transform",
+          "children": [
+            {
+              "name": "README",
+              "size": 3014
+            },
+            {
+              "name": "dist",
+              "size": 22970
+            },
+            {
+              "name": "dist",
+              "size": 21827
+            },
+            {
+              "name": "dist",
+              "size": 1007
+            },
+            {
+              "name": "package",
+              "size": 959
+            }
+          ]
+        },
+        {
+          "name": "runtime-core",
+          "children": [
+            {
+              "name": "LICENSE",
+              "size": 1091
+            },
+            {
+              "name": "README",
+              "size": 790
+            },
+            {
+              "name": "dist",
+              "size": 949220
+            },
+            {
+              "name": "dist",
+              "size": 306756
+            },
+            {
+              "name": "dist",
+              "size": 246061
+            },
+            {
+              "name": "dist",
+              "size": 81656
+            },
+            {
+              "name": "dist",
+              "size": 314543
+            },
+            {
+              "name": "index",
+              "size": 189
+            },
+            {
+              "name": "package",
+              "size": 831
+            }
+          ]
+        },
+        {
+          "name": "runtime-dom",
+          "children": [
+            {
+              "name": "LICENSE",
+              "size": 1091
+            },
+            {
+              "name": "README",
+              "size": 198
+            },
+            {
+              "name": "dist",
+              "size": 1229203
+            },
+            {
+              "name": "dist",
+              "size": 60141
+            },
+            {
+              "name": "dist",
+              "size": 55312
+            },
+            {
+              "name": "dist",
+              "size": 43204
+            },
+            {
+              "name": "dist",
+              "size": 407976
+            },
+            {
+              "name": "dist",
+              "size": 84400
+            },
+            {
+              "name": "dist",
+              "size": 61658
+            },
+            {
+              "name": "dist",
+              "size": 432395
+            },
+            {
+              "name": "dist",
+              "size": 83777
+            },
+            {
+              "name": "index",
+              "size": 187
+            },
+            {
+              "name": "package",
+              "size": 929
+            }
+          ]
+        },
+        {
+          "name": "server-renderer",
+          "children": [
+            {
+              "name": "LICENSE",
+              "size": 1091
+            },
+            {
+              "name": "README",
+              "size": 3881
+            },
+            {
+              "name": "dist",
+              "size": 107779
+            },
+            {
+              "name": "dist",
+              "size": 38124
+            },
+            {
+              "name": "dist",
+              "size": 29033
+            },
+            {
+              "name": "dist",
+              "size": 4253
+            },
+            {
+              "name": "dist",
+              "size": 36165
+            },
+            {
+              "name": "index",
+              "size": 195
+            },
+            {
+              "name": "package",
+              "size": 879
+            }
+          ]
+        },
+        {
+          "name": "shared",
+          "children": [
+            {
+              "name": "LICENSE",
+              "size": 1091
+            },
+            {
+              "name": "README",
+              "size": 87
+            },
+            {
+              "name": "dist",
+              "size": 86494
+            },
+            {
+              "name": "dist",
+              "size": 25270
+            },
+            {
+              "name": "dist",
+              "size": 25236
+            },
+            {
+              "name": "dist",
+              "size": 11715
+            },
+            {
+              "name": "dist",
+              "size": 24069
+            },
+            {
+              "name": "index",
+              "size": 177
+            },
+            {
+              "name": "package",
+              "size": 710
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "csstype",
+      "children": [
+        {
+          "name": "README",
+          "children": [
+            {
+              "name": "md",
+              "size": 9026
+            }
+          ]
+        },
+        {
+          "name": "index",
+          "children": [
+            {
+              "name": "d",
+              "size": 1651497
+            },
+            {
+              "name": "js",
+              "size": 290240
+            }
+          ]
+        },
+        {
+          "name": "package",
+          "children": [
+            {
+              "name": "json",
+              "size": 1928
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "esbuild",
+      "children": [
+        {
+          "name": "README",
+          "children": [
+            {
+              "name": "md",
+              "size": 175
+            }
+          ]
+        },
+        {
+          "name": "bin",
+          "children": [
+            {
+              "name": "esbuild",
+              "size": 8513536
+            }
+          ]
+        },
+        {
+          "name": "install",
+          "children": [
+            {
+              "name": "js",
+              "size": 9428
+            }
+          ]
+        },
+        {
+          "name": "lib",
+          "children": [
+            {
+              "name": "main",
+              "size": 17724
+            },
+            {
+              "name": "main",
+              "size": 82131
+            }
+          ]
+        },
+        {
+          "name": "package",
+          "children": [
+            {
+              "name": "json",
+              "size": 1179
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "esbuild-darwin-64",
+      "children": [
+        {
+          "name": "README",
+          "children": [
+            {
+              "name": "md",
+              "size": 141
+            }
+          ]
+        },
+        {
+          "name": "bin",
+          "children": [
+            {
+              "name": "esbuild",
+              "size": 8513536
+            }
+          ]
+        },
+        {
+          "name": "package",
+          "children": [
+            {
+              "name": "json",
+              "size": 330
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "estree-walker",
+      "children": [
+        {
+          "name": "CHANGELOG",
+          "children": [
+            {
+              "name": "md",
+              "size": 1548
+            }
+          ]
+        },
+        {
+          "name": "README",
+          "children": [
+            {
+              "name": "md",
+              "size": 1623
+            }
+          ]
+        },
+        {
+          "name": "dist",
+          "children": [
+            {
+              "name": "esm",
+              "size": 7311
+            },
+            {
+              "name": "esm",
+              "size": 7158
+            },
+            {
+              "name": "esm",
+              "size": 17
+            },
+            {
+              "name": "umd",
+              "size": 7930
+            },
+            {
+              "name": "umd",
+              "size": 7828
+            }
+          ]
+        },
+        {
+          "name": "package",
+          "children": [
+            {
+              "name": "json",
+              "size": 848
+            }
+          ]
+        },
+        {
+          "name": "src",
+          "children": [
+            {
+              "name": "async",
+              "size": 2712
+            },
+            {
+              "name": "index",
+              "size": 842
+            },
+            {
+              "name": "package",
+              "size": 18
+            },
+            {
+              "name": "sync",
+              "size": 2659
+            },
+            {
+              "name": "walker",
+              "size": 1114
+            }
+          ]
+        },
+        {
+          "name": "types",
+          "children": [
+            {
+              "name": "async",
+              "size": 1939
+            },
+            {
+              "name": "index",
+              "size": 2242
+            },
+            {
+              "name": "sync",
+              "size": 1879
+            },
+            {
+              "name": "tsconfig",
+              "size": 15666
+            },
+            {
+              "name": "walker",
+              "size": 1024
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "fsevents",
+      "children": [
+        {
+          "name": "README",
+          "children": [
+            {
+              "name": "md",
+              "size": 2958
+            }
+          ]
+        },
+        {
+          "name": "fsevents",
+          "children": [
+            {
+              "name": "d",
+              "size": 1431
+            },
+            {
+              "name": "js",
+              "size": 2424
+            },
+            {
+              "name": "node",
+              "size": 147128
+            }
+          ]
+        },
+        {
+          "name": "package",
+          "children": [
+            {
+              "name": "json",
+              "size": 1348
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "function-bind",
+      "children": [
+        {
+          "name": "README",
+          "children": [
+            {
+              "name": "md",
+              "size": 1488
+            }
+          ]
+        },
+        {
+          "name": "implementation",
+          "children": [
+            {
+              "name": "js",
+              "size": 1463
+            }
+          ]
+        },
+        {
+          "name": "index",
+          "children": [
+            {
+              "name": "js",
+              "size": 126
+            }
+          ]
+        },
+        {
+          "name": "package",
+          "children": [
+            {
+              "name": "json",
+              "size": 1498
+            }
+          ]
+        },
+        {
+          "name": "test",
+          "children": [
+            {
+              "name": "index",
+              "size": 8991
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "has",
+      "children": [
+        {
+          "name": "README",
+          "children": [
+            {
+              "name": "md",
+              "size": 239
+            }
+          ]
+        },
+        {
+          "name": "package",
+          "children": [
+            {
+              "name": "json",
+              "size": 1011
+            }
+          ]
+        },
+        {
+          "name": "src",
+          "children": [
+            {
+              "name": "index",
+              "size": 129
+            }
+          ]
+        },
+        {
+          "name": "test",
+          "children": [
+            {
+              "name": "index",
+              "size": 331
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "is-core-module",
+      "children": [
+        {
+          "name": "CHANGELOG",
+          "children": [
+            {
+              "name": "md",
+              "size": 10629
+            }
+          ]
+        },
+        {
+          "name": "README",
+          "children": [
+            {
+              "name": "md",
+              "size": 1659
+            }
+          ]
+        },
+        {
+          "name": "core",
+          "children": [
+            {
+              "name": "json",
+              "size": 5492
+            }
+          ]
+        },
+        {
+          "name": "index",
+          "children": [
+            {
+              "name": "js",
+              "size": 1757
+            }
+          ]
+        },
+        {
+          "name": "package",
+          "children": [
+            {
+              "name": "json",
+              "size": 1680
+            }
+          ]
+        },
+        {
+          "name": "test",
+          "children": [
+            {
+              "name": "index",
+              "size": 4076
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "magic-string",
+      "children": [
+        {
+          "name": "README",
+          "children": [
+            {
+              "name": "md",
+              "size": 9313
+            }
+          ]
+        },
+        {
+          "name": "dist",
+          "children": [
+            {
+              "name": "magic-string",
+              "size": 33911
+            },
+            {
+              "name": "magic-string",
+              "size": 80859
+            },
+            {
+              "name": "magic-string",
+              "size": 33714
+            },
+            {
+              "name": "magic-string",
+              "size": 80361
+            },
+            {
+              "name": "magic-string",
+              "size": 37176
+            },
+            {
+              "name": "magic-string",
+              "size": 87487
+            }
+          ]
+        },
+        {
+          "name": "index",
+          "children": [
+            {
+              "name": "d",
+              "size": 7678
+            }
+          ]
+        },
+        {
+          "name": "package",
+          "children": [
+            {
+              "name": "json",
+              "size": 1506
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "nanoid",
+      "children": [
+        {
+          "name": "README",
+          "children": [
+            {
+              "name": "md",
+              "size": 1557
+            }
+          ]
+        },
+        {
+          "name": "async",
+          "children": [
+            {
+              "name": "index",
+              "size": 983
+            },
+            {
+              "name": "index",
+              "size": 973
+            },
+            {
+              "name": "index",
+              "size": 993
+            },
+            {
+              "name": "index",
+              "size": 1505
+            },
+            {
+              "name": "index",
+              "size": 976
+            },
+            {
+              "name": "index",
+              "size": 814
+            },
+            {
+              "name": "package",
+              "size": 233
+            }
+          ]
+        },
+        {
+          "name": "bin",
+          "children": [
+            {
+              "name": "nanoid",
+              "size": 1129
+            }
+          ]
+        },
+        {
+          "name": "index",
+          "children": [
+            {
+              "name": "browser",
+              "size": 1074
+            },
+            {
+              "name": "browser",
+              "size": 1060
+            },
+            {
+              "name": "cjs",
+              "size": 1343
+            },
+            {
+              "name": "d",
+              "size": 2252
+            },
+            {
+              "name": "js",
+              "size": 1326
+            }
+          ]
+        },
+        {
+          "name": "nanoid",
+          "children": [
+            {
+              "name": "js",
+              "size": 169
+            }
+          ]
+        },
+        {
+          "name": "non-secure",
+          "children": [
+            {
+              "name": "index",
+              "size": 499
+            },
+            {
+              "name": "index",
+              "size": 983
+            },
+            {
+              "name": "index",
+              "size": 489
+            },
+            {
+              "name": "package",
+              "size": 99
+            }
+          ]
+        },
+        {
+          "name": "package",
+          "children": [
+            {
+              "name": "json",
+              "size": 1702
+            }
+          ]
+        },
+        {
+          "name": "url-alphabet",
+          "children": [
+            {
+              "name": "index",
+              "size": 120
+            },
+            {
+              "name": "index",
+              "size": 110
+            },
+            {
+              "name": "package",
+              "size": 99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "path-parse",
+      "children": [
+        {
+          "name": "README",
+          "children": [
+            {
+              "name": "md",
+              "size": 871
+            }
+          ]
+        },
+        {
+          "name": "index",
+          "children": [
+            {
+              "name": "js",
+              "size": 1893
+            }
+          ]
+        },
+        {
+          "name": "package",
+          "children": [
+            {
+              "name": "json",
+              "size": 667
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "picocolors",
+      "children": [
+        {
+          "name": "README",
+          "children": [
+            {
+              "name": "md",
+              "size": 622
+            }
+          ]
+        },
+        {
+          "name": "package",
+          "children": [
+            {
+              "name": "json",
+              "size": 550
+            }
+          ]
+        },
+        {
+          "name": "picocolors",
+          "children": [
+            {
+              "name": "browser",
+              "size": 360
+            },
+            {
+              "name": "d",
+              "size": 138
+            },
+            {
+              "name": "js",
+              "size": 2594
+            }
+          ]
+        },
+        {
+          "name": "types",
+          "children": [
+            {
+              "name": "ts",
+              "size": 610
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "postcss",
+      "children": [
+        {
+          "name": "README",
+          "children": [
+            {
+              "name": "md",
+              "size": 1965
+            }
+          ]
+        },
+        {
+          "name": "lib",
+          "children": [
+            {
+              "name": "at-rule",
+              "size": 2498
+            },
+            {
+              "name": "at-rule",
+              "size": 471
+            },
+            {
+              "name": "comment",
+              "size": 1376
+            },
+            {
+              "name": "comment",
+              "size": 203
+            },
+            {
+              "name": "container",
+              "size": 12590
+            },
+            {
+              "name": "container",
+              "size": 10228
+            },
+            {
+              "name": "css-syntax-error",
+              "size": 6223
+            },
+            {
+              "name": "css-syntax-error",
+              "size": 2524
+            },
+            {
+              "name": "declaration",
+              "size": 3059
+            },
+            {
+              "name": "declaration",
+              "size": 495
+            },
+            {
+              "name": "document",
+              "size": 1524
+            },
+            {
+              "name": "document",
+              "size": 654
+            },
+            {
+              "name": "fromJSON",
+              "size": 107
+            },
+            {
+              "name": "fromJSON",
+              "size": 1506
+            },
+            {
+              "name": "input",
+              "size": 3466
+            },
+            {
+              "name": "input",
+              "size": 6189
+            },
+            {
+              "name": "lazy-result",
+              "size": 4630
+            },
+            {
+              "name": "lazy-result",
+              "size": 13562
+            },
+            {
+              "name": "list",
+              "size": 1262
+            },
+            {
+              "name": "list",
+              "size": 1167
+            },
+            {
+              "name": "map-generator",
+              "size": 8786
+            },
+            {
+              "name": "no-work-result",
+              "size": 1323
+            },
+            {
+              "name": "no-work-result",
+              "size": 2551
+            },
+            {
+              "name": "node",
+              "size": 12457
+            },
+            {
+              "name": "node",
+              "size": 8485
+            },
+            {
+              "name": "parse",
+              "size": 89
+            },
+            {
+              "name": "parse",
+              "size": 1147
+            },
+            {
+              "name": "parser",
+              "size": 14482
+            },
+            {
+              "name": "postcss",
+              "size": 11357
+            },
+            {
+              "name": "postcss",
+              "size": 2786
+            },
+            {
+              "name": "postcss",
+              "size": 980
+            },
+            {
+              "name": "previous-map",
+              "size": 1618
+            },
+            {
+              "name": "previous-map",
+              "size": 3923
+            },
+            {
+              "name": "processor",
+              "size": 3012
+            },
+            {
+              "name": "processor",
+              "size": 1810
+            },
+            {
+              "name": "result",
+              "size": 4115
+            },
+            {
+              "name": "result",
+              "size": 745
+            },
+            {
+              "name": "root",
+              "size": 1856
+            },
+            {
+              "name": "root",
+              "size": 1209
+            },
+            {
+              "name": "rule",
+              "size": 2395
+            },
+            {
+              "name": "rule",
+              "size": 569
+            },
+            {
+              "name": "stringifier",
+              "size": 1202
+            },
+            {
+              "name": "stringifier",
+              "size": 8220
+            },
+            {
+              "name": "stringify",
+              "size": 107
+            },
+            {
+              "name": "stringify",
+              "size": 213
+            },
+            {
+              "name": "symbols",
+              "size": 91
+            },
+            {
+              "name": "terminal-highlight",
+              "size": 1399
+            },
+            {
+              "name": "tokenize",
+              "size": 6536
+            },
+            {
+              "name": "warn-once",
+              "size": 256
+            },
+            {
+              "name": "warning",
+              "size": 2735
+            },
+            {
+              "name": "warning",
+              "size": 739
+            }
+          ]
+        },
+        {
+          "name": "package",
+          "children": [
+            {
+              "name": "json",
+              "size": 2450
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "resolve",
+      "children": [
+        {
+          "name": "SECURITY",
+          "children": [
+            {
+              "name": "md",
+              "size": 157
+            }
+          ]
+        },
+        {
+          "name": "appveyor",
+          "children": [
+            {
+              "name": "yml",
+              "size": 2768
+            }
+          ]
+        },
+        {
+          "name": "async",
+          "children": [
+            {
+              "name": "js",
+              "size": 56
+            }
+          ]
+        },
+        {
+          "name": "bin",
+          "children": [
+            {
+              "name": "resolve",
+              "size": 1473
+            }
+          ]
+        },
+        {
+          "name": "example",
+          "children": [
+            {
+              "name": "async",
+              "size": 155
+            },
+            {
+              "name": "sync",
+              "size": 103
+            }
+          ]
+        },
+        {
+          "name": "index",
+          "children": [
+            {
+              "name": "js",
+              "size": 174
+            }
+          ]
+        },
+        {
+          "name": "lib",
+          "children": [
+            {
+              "name": "async",
+              "size": 11359
+            },
+            {
+              "name": "caller",
+              "size": 354
+            },
+            {
+              "name": "core",
+              "size": 1653
+            },
+            {
+              "name": "core",
+              "size": 5469
+            },
+            {
+              "name": "homedir",
+              "size": 805
+            },
+            {
+              "name": "is-core",
+              "size": 116
+            },
+            {
+              "name": "node-modules-paths",
+              "size": 1294
+            },
+            {
+              "name": "normalize-options",
+              "size": 348
+            },
+            {
+              "name": "sync",
+              "size": 6993
+            }
+          ]
+        },
+        {
+          "name": "package",
+          "children": [
+            {
+              "name": "json",
+              "size": 1765
+            }
+          ]
+        },
+        {
+          "name": "readme",
+          "children": [
+            {
+              "name": "markdown",
+              "size": 11504
+            }
+          ]
+        },
+        {
+          "name": "sync",
+          "children": [
+            {
+              "name": "js",
+              "size": 55
+            }
+          ]
+        },
+        {
+          "name": "test",
+          "children": [
+            {
+              "name": "core",
+              "size": 2671
+            },
+            {
+              "name": "dotdot",
+              "size": 306
+            },
+            {
+              "name": "dotdot",
+              "size": 141
+            },
+            {
+              "name": "dotdot",
+              "size": 39
+            },
+            {
+              "name": "dotdot",
+              "size": 29
+            },
+            {
+              "name": "dotdot",
+              "size": 799
+            },
+            {
+              "name": "faulty_basedir",
+              "size": 807
+            },
+            {
+              "name": "filter",
+              "size": 1045
+            },
+            {
+              "name": "filter_sync",
+              "size": 1427
+            },
+            {
+              "name": "home_paths",
+              "size": 4472
+            },
+            {
+              "name": "home_paths_sync",
+              "size": 3797
+            },
+            {
+              "name": "mock",
+              "size": 10012
+            },
+            {
+              "name": "mock_sync",
+              "size": 6047
+            },
+            {
+              "name": "module_dir",
+              "size": 993
+            },
+            {
+              "name": "module_dir",
+              "size": 255
+            },
+            {
+              "name": "module_dir",
+              "size": 153
+            },
+            {
+              "name": "module_dir",
+              "size": 51
+            },
+            {
+              "name": "module_dir",
+              "size": 255
+            },
+            {
+              "name": "module_dir",
+              "size": 153
+            },
+            {
+              "name": "module_dir",
+              "size": 51
+            },
+            {
+              "name": "module_dir",
+              "size": 313
+            },
+            {
+              "name": "module_dir",
+              "size": 211
+            },
+            {
+              "name": "module_dir",
+              "size": 51
+            },
+            {
+              "name": "module_dir",
+              "size": 24
+            },
+            {
+              "name": "module_dir",
+              "size": 1558
+            },
+            {
+              "name": "node-modules-paths",
+              "size": 5101
+            },
+            {
+              "name": "node_path",
+              "size": 905
+            },
+            {
+              "name": "node_path",
+              "size": 384
+            },
+            {
+              "name": "node_path",
+              "size": 124
+            },
+            {
+              "name": "node_path",
+              "size": 22
+            },
+            {
+              "name": "node_path",
+              "size": 124
+            },
+            {
+              "name": "node_path",
+              "size": 22
+            },
+            {
+              "name": "node_path",
+              "size": 385
+            },
+            {
+              "name": "node_path",
+              "size": 124
+            },
+            {
+              "name": "node_path",
+              "size": 22
+            },
+            {
+              "name": "node_path",
+              "size": 125
+            },
+            {
+              "name": "node_path",
+              "size": 23
+            },
+            {
+              "name": "node_path",
+              "size": 2128
+            },
+            {
+              "name": "nonstring",
+              "size": 182
+            },
+            {
+              "name": "pathfilter",
+              "size": 204
+            },
+            {
+              "name": "pathfilter",
+              "size": 102
+            },
+            {
+              "name": "pathfilter",
+              "size": 0
+            },
+            {
+              "name": "pathfilter",
+              "size": 2248
+            },
+            {
+              "name": "precedence",
+              "size": 587
+            },
+            {
+              "name": "precedence",
+              "size": 189
+            },
+            {
+              "name": "precedence",
+              "size": 25
+            },
+            {
+              "name": "precedence",
+              "size": 28
+            },
+            {
+              "name": "precedence",
+              "size": 24
+            },
+            {
+              "name": "precedence",
+              "size": 146
+            },
+            {
+              "name": "precedence",
+              "size": 44
+            },
+            {
+              "name": "precedence",
+              "size": 24
+            },
+            {
+              "name": "precedence",
+              "size": 646
+            },
+            {
+              "name": "resolver",
+              "size": 8645
+            },
+            {
+              "name": "resolver",
+              "size": 235
+            },
+            {
+              "name": "resolver",
+              "size": 0
+            },
+            {
+              "name": "resolver",
+              "size": 45
+            },
+            {
+              "name": "resolver",
+              "size": 20
+            },
+            {
+              "name": "resolver",
+              "size": 233
+            },
+            {
+              "name": "resolver",
+              "size": 0
+            },
+            {
+              "name": "resolver",
+              "size": 0
+            },
+            {
+              "name": "resolver",
+              "size": 63
+            },
+            {
+              "name": "resolver",
+              "size": 1
+            },
+            {
+              "name": "resolver",
+              "size": 176
+            },
+            {
+              "name": "resolver",
+              "size": 20
+            },
+            {
+              "name": "resolver",
+              "size": 20
+            },
+            {
+              "name": "resolver",
+              "size": 177
+            },
+            {
+              "name": "resolver",
+              "size": 20
+            },
+            {
+              "name": "resolver",
+              "size": 21
+            },
+            {
+              "name": "resolver",
+              "size": 20
+            },
+            {
+              "name": "resolver",
+              "size": 279
+            },
+            {
+              "name": "resolver",
+              "size": 116
+            },
+            {
+              "name": "resolver",
+              "size": 27
+            },
+            {
+              "name": "resolver",
+              "size": 195
+            },
+            {
+              "name": "resolver",
+              "size": 93
+            },
+            {
+              "name": "resolver",
+              "size": 138
+            },
+            {
+              "name": "resolver",
+              "size": 0
+            },
+            {
+              "name": "resolver",
+              "size": 2
+            },
+            {
+              "name": "resolver",
+              "size": 0
+            },
+            {
+              "name": "resolver",
+              "size": 0
+            },
+            {
+              "name": "resolver",
+              "size": 2902
+            },
+            {
+              "name": "resolver",
+              "size": 63
+            },
+            {
+              "name": "resolver",
+              "size": 380
+            },
+            {
+              "name": "resolver",
+              "size": 2289
+            },
+            {
+              "name": "resolver",
+              "size": 1736
+            },
+            {
+              "name": "resolver",
+              "size": 1319
+            },
+            {
+              "name": "resolver",
+              "size": 281
+            },
+            {
+              "name": "resolver",
+              "size": 417
+            },
+            {
+              "name": "resolver",
+              "size": 0
+            },
+            {
+              "name": "resolver",
+              "size": 281
+            },
+            {
+              "name": "resolver",
+              "size": 1995
+            },
+            {
+              "name": "resolver",
+              "size": 1893
+            },
+            {
+              "name": "resolver",
+              "size": 858
+            },
+            {
+              "name": "resolver",
+              "size": 259
+            },
+            {
+              "name": "resolver",
+              "size": 606
+            },
+            {
+              "name": "resolver",
+              "size": 238
+            },
+            {
+              "name": "resolver",
+              "size": 102
+            },
+            {
+              "name": "resolver",
+              "size": 0
+            },
+            {
+              "name": "resolver",
+              "size": 0
+            },
+            {
+              "name": "resolver",
+              "size": 224
+            },
+            {
+              "name": "resolver",
+              "size": 122
+            },
+            {
+              "name": "resolver",
+              "size": 20
+            },
+            {
+              "name": "resolver",
+              "size": 279
+            },
+            {
+              "name": "resolver",
+              "size": 122
+            },
+            {
+              "name": "resolver",
+              "size": 20
+            },
+            {
+              "name": "resolver",
+              "size": 21
+            },
+            {
+              "name": "resolver",
+              "size": 660
+            },
+            {
+              "name": "resolver",
+              "size": 340
+            },
+            {
+              "name": "resolver",
+              "size": 102
+            },
+            {
+              "name": "resolver",
+              "size": 0
+            },
+            {
+              "name": "resolver",
+              "size": 102
+            },
+            {
+              "name": "resolver",
+              "size": 184
+            },
+            {
+              "name": "resolver",
+              "size": 24
+            },
+            {
+              "name": "resolver",
+              "size": 24
+            },
+            {
+              "name": "resolver",
+              "size": 213
+            },
+            {
+              "name": "resolver",
+              "size": 111
+            },
+            {
+              "name": "resolver",
+              "size": 18556
+            },
+            {
+              "name": "resolver_sync",
+              "size": 18010
+            },
+            {
+              "name": "shadowed_core",
+              "size": 306
+            },
+            {
+              "name": "shadowed_core",
+              "size": 204
+            },
+            {
+              "name": "shadowed_core",
+              "size": 102
+            },
+            {
+              "name": "shadowed_core",
+              "size": 0
+            },
+            {
+              "name": "shadowed_core",
+              "size": 1814
+            },
+            {
+              "name": "subdirs",
+              "size": 353
+            },
+            {
+              "name": "symlinks",
+              "size": 6535
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "rollup",
+      "children": [
+        {
+          "name": "CHANGELOG",
+          "children": [
+            {
+              "name": "md",
+              "size": 242619
+            }
+          ]
+        },
+        {
+          "name": "LICENSE",
+          "children": [
+            {
+              "name": "md",
+              "size": 35412
+            }
+          ]
+        },
+        {
+          "name": "README",
+          "children": [
+            {
+              "name": "md",
+              "size": 8835
+            }
+          ]
+        },
+        {
+          "name": "dist",
+          "children": [
+            {
+              "name": "bin",
+              "size": 73465
+            },
+            {
+              "name": "bin",
+              "size": 73363
+            },
+            {
+              "name": "es",
+              "size": 1419210
+            },
+            {
+              "name": "es",
+              "size": 17
+            },
+            {
+              "name": "es",
+              "size": 395242
+            },
+            {
+              "name": "es",
+              "size": 373
+            },
+            {
+              "name": "es",
+              "size": 1023374
+            },
+            {
+              "name": "es",
+              "size": 884933
+            },
+            {
+              "name": "es",
+              "size": 138305
+            },
+            {
+              "name": "loadConfigFile",
+              "size": 578
+            },
+            {
+              "name": "rollup",
+              "size": 394586
+            },
+            {
+              "name": "rollup",
+              "size": 3298388
+            },
+            {
+              "name": "rollup",
+              "size": 26978
+            },
+            {
+              "name": "rollup",
+              "size": 649
+            },
+            {
+              "name": "shared",
+              "size": 1066835
+            },
+            {
+              "name": "shared",
+              "size": 121328
+            },
+            {
+              "name": "shared",
+              "size": 24436
+            },
+            {
+              "name": "shared",
+              "size": 8170
+            },
+            {
+              "name": "shared",
+              "size": 886672
+            },
+            {
+              "name": "shared",
+              "size": 15885
+            },
+            {
+              "name": "shared",
+              "size": 10072
+            }
+          ]
+        },
+        {
+          "name": "package",
+          "children": [
+            {
+              "name": "json",
+              "size": 5460
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "source-map",
+      "children": [
+        {
+          "name": "CHANGELOG",
+          "children": [
+            {
+              "name": "md",
+              "size": 7884
+            }
+          ]
+        },
+        {
+          "name": "README",
+          "children": [
+            {
+              "name": "md",
+              "size": 24072
+            }
+          ]
+        },
+        {
+          "name": "dist",
+          "children": [
+            {
+              "name": "source-map",
+              "size": 272874
+            },
+            {
+              "name": "source-map",
+              "size": 106973
+            },
+            {
+              "name": "source-map",
+              "size": 27111
+            },
+            {
+              "name": "source-map",
+              "size": 257409
+            }
+          ]
+        },
+        {
+          "name": "lib",
+          "children": [
+            {
+              "name": "array-set",
+              "size": 3197
+            },
+            {
+              "name": "base64-vlq",
+              "size": 4714
+            },
+            {
+              "name": "base64",
+              "size": 1540
+            },
+            {
+              "name": "binary-search",
+              "size": 4249
+            },
+            {
+              "name": "mapping-list",
+              "size": 2339
+            },
+            {
+              "name": "quick-sort",
+              "size": 3616
+            },
+            {
+              "name": "source-map-consumer",
+              "size": 40562
+            },
+            {
+              "name": "source-map-generator",
+              "size": 14356
+            },
+            {
+              "name": "source-node",
+              "size": 13808
+            },
+            {
+              "name": "util",
+              "size": 12950
+            }
+          ]
+        },
+        {
+          "name": "package",
+          "children": [
+            {
+              "name": "json",
+              "size": 2579
+            }
+          ]
+        },
+        {
+          "name": "source-map",
+          "children": [
+            {
+              "name": "d",
+              "size": 3060
+            },
+            {
+              "name": "js",
+              "size": 405
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "source-map-js",
+      "children": [
+        {
+          "name": "CHANGELOG",
+          "children": [
+            {
+              "name": "md",
+              "size": 8606
+            }
+          ]
+        },
+        {
+          "name": "README",
+          "children": [
+            {
+              "name": "md",
+              "size": 25736
+            }
+          ]
+        },
+        {
+          "name": "lib",
+          "children": [
+            {
+              "name": "array-set",
+              "size": 3197
+            },
+            {
+              "name": "base64-vlq",
+              "size": 4714
+            },
+            {
+              "name": "base64",
+              "size": 1540
+            },
+            {
+              "name": "binary-search",
+              "size": 4249
+            },
+            {
+              "name": "mapping-list",
+              "size": 2339
+            },
+            {
+              "name": "quick-sort",
+              "size": 4068
+            },
+            {
+              "name": "source-map-consumer",
+              "size": 41482
+            },
+            {
+              "name": "source-map-generator",
+              "size": 14356
+            },
+            {
+              "name": "source-node",
+              "size": 13808
+            },
+            {
+              "name": "util",
+              "size": 15403
+            }
+          ]
+        },
+        {
+          "name": "package",
+          "children": [
+            {
+              "name": "json",
+              "size": 2548
+            }
+          ]
+        },
+        {
+          "name": "source-map",
+          "children": [
+            {
+              "name": "d",
+              "size": 3854
+            },
+            {
+              "name": "js",
+              "size": 405
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sourcemap-codec",
+      "children": [
+        {
+          "name": "CHANGELOG",
+          "children": [
+            {
+              "name": "md",
+              "size": 1249
+            }
+          ]
+        },
+        {
+          "name": "README",
+          "children": [
+            {
+              "name": "md",
+              "size": 1835
+            }
+          ]
+        },
+        {
+          "name": "dist",
+          "children": [
+            {
+              "name": "sourcemap-codec",
+              "size": 4200
+            },
+            {
+              "name": "sourcemap-codec",
+              "size": 8249
+            },
+            {
+              "name": "sourcemap-codec",
+              "size": 4717
+            },
+            {
+              "name": "sourcemap-codec",
+              "size": 8286
+            },
+            {
+              "name": "types",
+              "size": 479
+            },
+            {
+              "name": "types",
+              "size": 377
+            }
+          ]
+        },
+        {
+          "name": "package",
+          "children": [
+            {
+              "name": "json",
+              "size": 1817
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "supports-preserve-symlinks-flag",
+      "children": [
+        {
+          "name": "CHANGELOG",
+          "children": [
+            {
+              "name": "md",
+              "size": 1989
+            }
+          ]
+        },
+        {
+          "name": "README",
+          "children": [
+            {
+              "name": "md",
+              "size": 2287
+            }
+          ]
+        },
+        {
+          "name": "browser",
+          "children": [
+            {
+              "name": "js",
+              "size": 38
+            }
+          ]
+        },
+        {
+          "name": "index",
+          "children": [
+            {
+              "name": "js",
+              "size": 293
+            }
+          ]
+        },
+        {
+          "name": "package",
+          "children": [
+            {
+              "name": "json",
+              "size": 1895
+            }
+          ]
+        },
+        {
+          "name": "test",
+          "children": [
+            {
+              "name": "index",
+              "size": 737
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "vite",
+      "children": [
+        {
+          "name": "LICENSE",
+          "children": [
+            {
+              "name": "md",
+              "size": 182935
+            }
+          ]
+        },
+        {
+          "name": "README",
+          "children": [
+            {
+              "name": "md",
+              "size": 1164
+            }
+          ]
+        },
+        {
+          "name": "bin",
+          "children": [
+            {
+              "name": "openChrome",
+              "size": 2356
+            },
+            {
+              "name": "vite",
+              "size": 1593
+            }
+          ]
+        },
+        {
+          "name": "client",
+          "children": [
+            {
+              "name": "d",
+              "size": 3720
+            }
+          ]
+        },
+        {
+          "name": "dist",
+          "children": [
+            {
+              "name": "client",
+              "size": 54155
+            },
+            {
+              "name": "client",
+              "size": 18416
+            },
+            {
+              "name": "client",
+              "size": 33073
+            },
+            {
+              "name": "client",
+              "size": 776
+            },
+            {
+              "name": "client",
+              "size": 1686
+            },
+            {
+              "name": "node",
+              "size": 4260268
+            },
+            {
+              "name": "node",
+              "size": 3086039
+            },
+            {
+              "name": "node",
+              "size": 12828
+            },
+            {
+              "name": "node",
+              "size": 1937821
+            },
+            {
+              "name": "node",
+              "size": 300323
+            },
+            {
+              "name": "node",
+              "size": 22032
+            },
+            {
+              "name": "node",
+              "size": 590724
+            },
+            {
+              "name": "node",
+              "size": 222039
+            },
+            {
+              "name": "node",
+              "size": 25563
+            },
+            {
+              "name": "node",
+              "size": 99386
+            },
+            {
+              "name": "node",
+              "size": 5751
+            },
+            {
+              "name": "node",
+              "size": 1043291
+            }
+          ]
+        },
+        {
+          "name": "package",
+          "children": [
+            {
+              "name": "json",
+              "size": 3901
+            }
+          ]
+        },
+        {
+          "name": "src",
+          "children": [
+            {
+              "name": "client",
+              "size": 19871
+            },
+            {
+              "name": "client",
+              "size": 14437
+            },
+            {
+              "name": "client",
+              "size": 729
+            },
+            {
+              "name": "client",
+              "size": 4262
+            },
+            {
+              "name": "client",
+              "size": 239
+            }
+          ]
+        },
+        {
+          "name": "types",
+          "children": [
+            {
+              "name": "alias",
+              "size": 2301
+            },
+            {
+              "name": "anymatch",
+              "size": 214
+            },
+            {
+              "name": "chokidar",
+              "size": 7690
+            },
+            {
+              "name": "commonjs",
+              "size": 8663
+            },
+            {
+              "name": "connect",
+              "size": 3334
+            },
+            {
+              "name": "customEvent",
+              "size": 404
+            },
+            {
+              "name": "dynamicImportVars",
+              "size": 546
+            },
+            {
+              "name": "hmrPayload",
+              "size": 904
+            },
+            {
+              "name": "hot",
+              "size": 607
+            },
+            {
+              "name": "http-proxy",
+              "size": 7973
+            },
+            {
+              "name": "importMeta",
+              "size": 1112
+            },
+            {
+              "name": "package",
+              "size": 79
+            },
+            {
+              "name": "shims",
+              "size": 2036
+            },
+            {
+              "name": "terser",
+              "size": 5733
+            },
+            {
+              "name": "ws",
+              "size": 16436
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "vue",
+      "children": [
+        {
+          "name": "README",
+          "children": [
+            {
+              "name": "md",
+              "size": 4105
+            }
+          ]
+        },
+        {
+          "name": "compiler-sfc",
+          "children": [
+            {
+              "name": "index",
+              "size": 34
+            },
+            {
+              "name": "index",
+              "size": 46
+            },
+            {
+              "name": "index",
+              "size": 33
+            },
+            {
+              "name": "package",
+              "size": 74
+            }
+          ]
+        },
+        {
+          "name": "dist",
+          "children": [
+            {
+              "name": "vue",
+              "size": 2725
+            },
+            {
+              "name": "vue",
+              "size": 2147
+            },
+            {
+              "name": "vue",
+              "size": 270
+            },
+            {
+              "name": "vue",
+              "size": 606230
+            },
+            {
+              "name": "vue",
+              "size": 130931
+            },
+            {
+              "name": "vue",
+              "size": 2629
+            },
+            {
+              "name": "vue",
+              "size": 636006
+            },
+            {
+              "name": "vue",
+              "size": 127923
+            },
+            {
+              "name": "vue",
+              "size": 408572
+            },
+            {
+              "name": "vue",
+              "size": 84424
+            },
+            {
+              "name": "vue",
+              "size": 611
+            },
+            {
+              "name": "vue",
+              "size": 433029
+            },
+            {
+              "name": "vue",
+              "size": 83784
+            }
+          ]
+        },
+        {
+          "name": "index",
+          "children": [
+            {
+              "name": "js",
+              "size": 171
+            },
+            {
+              "name": "mjs",
+              "size": 26
+            }
+          ]
+        },
+        {
+          "name": "macros-global",
+          "children": [
+            {
+              "name": "d",
+              "size": 414
+            }
+          ]
+        },
+        {
+          "name": "macros",
+          "children": [
+            {
+              "name": "d",
+              "size": 2909
+            }
+          ]
+        },
+        {
+          "name": "package",
+          "children": [
+            {
+              "name": "json",
+              "size": 1841
+            }
+          ]
+        },
+        {
+          "name": "ref-macros",
+          "children": [
+            {
+              "name": "d",
+              "size": 90
+            }
+          ]
+        },
+        {
+          "name": "server-renderer",
+          "children": [
+            {
+              "name": "index",
+              "size": 37
+            },
+            {
+              "name": "index",
+              "size": 49
+            },
+            {
+              "name": "index",
+              "size": 36
+            },
+            {
+              "name": "package",
+              "size": 74
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
