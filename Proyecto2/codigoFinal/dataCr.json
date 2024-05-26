@@ -1,0 +1,2442 @@
+{
+  "name": "Costa Rica",
+  "children": [
+    {
+      "name": "SanJosé",
+      "size": 1685299,
+      "children": [
+        {
+          "name": "SanJosé",
+          "size": 351958,
+          "children": [
+            {
+              "name": "Carmen",
+              "size": 2946
+            },
+            {
+              "name": "Merced",
+              "size": 15408
+            },
+            {
+              "name": "Hospital",
+              "size": 24030
+            },
+            {
+              "name": "Catedral",
+              "size": 15682
+            },
+            {
+              "name": "Zapote",
+              "size": 21990
+            },
+            {
+              "name": "SanFranciscodeDosRíos",
+              "size": 23745
+            },
+            {
+              "name": "Uruca",
+              "size": 42861
+            },
+            {
+              "name": "MataRedonda",
+              "size": 10119
+            },
+            {
+              "name": "Pavas",
+              "size": 89531
+            },
+            {
+              "name": "Hatillo",
+              "size": 60723
+            },
+            {
+              "name": "SanSebastián",
+              "size": 44923
+            }
+          ]
+        },
+        {
+          "name": "Escazú",
+          "size": 71202,
+          "children": [
+            {
+              "name": "Escazú",
+              "size": 13752
+            },
+            {
+              "name": "SanAntonio",
+              "size": 28329
+            },
+            {
+              "name": "SanRafael",
+              "size": 29121
+            }
+          ]
+        },
+        {
+          "name": "Desamparados",
+          "size": 249367,
+          "children": [
+            {
+              "name": "Desamparados",
+              "size": 37479
+            },
+            {
+              "name": "SanMiguel",
+              "size": 38716
+            },
+            {
+              "name": "SanJuandeDios",
+              "size": 24505
+            },
+            {
+              "name": "SanRafaelArriba",
+              "size": 18412
+            },
+            {
+              "name": "SanAntonio",
+              "size": 11343
+            },
+            {
+              "name": "Frailes",
+              "size": 4586
+            },
+            {
+              "name": "Patarrá",
+              "size": 14919
+            },
+            {
+              "name": "SanCristóbal",
+              "size": 4769
+            },
+            {
+              "name": "Rosario",
+              "size": 3787
+            },
+            {
+              "name": "Damas",
+              "size": 15713
+            },
+            {
+              "name": "SanRafaelAbajo",
+              "size": 26781
+            },
+            {
+              "name": "Gravilias",
+              "size": 17237
+            },
+            {
+              "name": "LosGuido",
+              "size": 31120
+            }
+          ]
+        },
+        {
+          "name": "Puriscal",
+          "size": 38593,
+          "children": [
+            {
+              "name": "Santiago",
+              "size": 12600
+            },
+            {
+              "name": "MercedesSur",
+              "size": 7099
+            },
+            {
+              "name": "Barbacoas",
+              "size": 4486
+            },
+            {
+              "name": "GrifoAlto",
+              "size": 1492
+            },
+            {
+              "name": "SanRafael",
+              "size": 2009
+            },
+            {
+              "name": "Candelarita",
+              "size": 1753
+            },
+            {
+              "name": "Desamparaditos",
+              "size": 794
+            },
+            {
+              "name": "SanAntonio",
+              "size": 4720
+            },
+            {
+              "name": "Chires",
+              "size": 3640
+            }
+          ]
+        },
+        {
+          "name": "Tarrazú",
+          "size": 18787,
+          "children": [
+            {
+              "name": "SanMarcos",
+              "size": 11365
+            },
+            {
+              "name": "SanLorenzo",
+              "size": 5250
+            },
+            {
+              "name": "SanCarlos",
+              "size": 2172
+            }
+          ]
+        },
+        {
+          "name": "Aserrí",
+          "size": 64480,
+          "children": [
+            {
+              "name": "Aserrí",
+              "size": 30347
+            },
+            {
+              "name": "Tarbaca",
+              "size": 1676
+            },
+            {
+              "name": "VueltadeJorco",
+              "size": 7342
+            },
+            {
+              "name": "SanGabriel",
+              "size": 6930
+            },
+            {
+              "name": "Legua",
+              "size": 1748
+            },
+            {
+              "name": "Monterrey",
+              "size": 558
+            },
+            {
+              "name": "Salitrillos",
+              "size": 15879
+            }
+          ]
+        },
+        {
+          "name": "Mora",
+          "size": 30759,
+          "children": [
+            {
+              "name": "Colón",
+              "size": 17411
+            },
+            {
+              "name": "Guayabo",
+              "size": 5414
+            },
+            {
+              "name": "Tabarcia",
+              "size": 5160
+            },
+            {
+              "name": "PiedrasNegras",
+              "size": 498
+            },
+            {
+              "name": "Picagres",
+              "size": 899
+            },
+            {
+              "name": "Jaris",
+              "size": 1377
+            }
+          ]
+        },
+        {
+          "name": "Goicoechea",
+          "size": 140764,
+          "children": [
+            {
+              "name": "Guadalupe",
+              "size": 22347
+            },
+            {
+              "name": "SanFrancisco",
+              "size": 2421
+            },
+            {
+              "name": "CalleBlancos",
+              "size": 23451
+            },
+            {
+              "name": "MatadePlátano",
+              "size": 21198
+            },
+            {
+              "name": "Ipís",
+              "size": 32049
+            },
+            {
+              "name": "RanchoRedondo",
+              "size": 3224
+            },
+            {
+              "name": "Purral",
+              "size": 36074
+            }
+          ]
+        },
+        {
+          "name": "SantaAna",
+          "size": 61853,
+          "children": [
+            {
+              "name": "SantaAna",
+              "size": 12956
+            },
+            {
+              "name": "Salitral",
+              "size": 5587
+            },
+            {
+              "name": "Pozos",
+              "size": 20671
+            },
+            {
+              "name": "Uruca",
+              "size": 9129
+            },
+            {
+              "name": "Piedades",
+              "size": 10263
+            },
+            {
+              "name": "Brasil",
+              "size": 3247
+            }
+          ]
+        },
+        {
+          "name": "Alajuelita",
+          "size": 97158,
+          "children": [
+            {
+              "name": "Alajuelita",
+              "size": 13325
+            },
+            {
+              "name": "SanJosecito",
+              "size": 13069
+            },
+            {
+              "name": "SanAntonio",
+              "size": 6003
+            },
+            {
+              "name": "Concepción",
+              "size": 23455
+            },
+            {
+              "name": "SanFelipe",
+              "size": 41306
+            }
+          ]
+        },
+        {
+          "name": "VázquezdeCoronado",
+          "size": 72932,
+          "children": [
+            {
+              "name": "SanIsidro",
+              "size": 18631
+            },
+            {
+              "name": "SanRafael",
+              "size": 8643
+            },
+            {
+              "name": "DulceNombredeJesús",
+              "size": 12149
+            },
+            {
+              "name": "Patalillo",
+              "size": 24907
+            },
+            {
+              "name": "Cascajal",
+              "size": 8602
+            }
+          ]
+        },
+        {
+          "name": "Acosta",
+          "size": 22257,
+          "children": [
+            {
+              "name": "SanIgnacio",
+              "size": 9475
+            },
+            {
+              "name": "Guaitil",
+              "size": 2685
+            },
+            {
+              "name": "Palmichal",
+              "size": 5308
+            },
+            {
+              "name": "Cangrejal",
+              "size": 2121
+            },
+            {
+              "name": "Sabanillas",
+              "size": 2668
+            }
+          ]
+        },
+        {
+          "name": "Tibás",
+          "size": 86065,
+          "children": [
+            {
+              "name": "SanJuan",
+              "size": 25866
+            },
+            {
+              "name": "CincoEsquinas",
+              "size": 8617
+            },
+            {
+              "name": "AnselmoLlorente",
+              "size": 12913
+            },
+            {
+              "name": "LeónXIII",
+              "size": 20551
+            },
+            {
+              "name": "Colima",
+              "size": 18118
+            }
+          ]
+        },
+        {
+          "name": "Moravia",
+          "size": 63259,
+          "children": [
+            {
+              "name": "SanVicente",
+              "size": 32041
+            },
+            {
+              "name": "SanJerónimo",
+              "size": 7463
+            },
+            {
+              "name": "LaTrinidad",
+              "size": 23755
+            }
+          ]
+        },
+        {
+          "name": "MontesdeOca",
+          "size": 62844,
+          "children": [
+            {
+              "name": "SanPedro",
+              "size": 28844
+            },
+            {
+              "name": "Sabanilla",
+              "size": 14082
+            },
+            {
+              "name": "Mercedes",
+              "size": 6086
+            },
+            {
+              "name": "SanRafael",
+              "size": 13832
+            }
+          ]
+        },
+        {
+          "name": "Turrubares",
+          "size": 7031,
+          "children": [
+            {
+              "name": "SanPablo",
+              "size": 1573
+            },
+            {
+              "name": "SanPedro",
+              "size": 861
+            },
+            {
+              "name": "SanJuandeMata",
+              "size": 1546
+            },
+            {
+              "name": "SanLuis",
+              "size": 721
+            },
+            {
+              "name": "Carara",
+              "size": 2330
+            }
+          ]
+        },
+        {
+          "name": "Dota",
+          "size": 8041,
+          "children": [
+            {
+              "name": "SantaMaría",
+              "size": 5251
+            },
+            {
+              "name": "Jardín",
+              "size": 702
+            },
+            {
+              "name": "Copey",
+              "size": 2088
+            }
+          ]
+        },
+        {
+          "name": "Curridabat",
+          "size": 80677,
+          "children": [
+            {
+              "name": "Curridabat",
+              "size": 32605
+            },
+            {
+              "name": "Granadilla",
+              "size": 19207
+            },
+            {
+              "name": "Sánchez",
+              "size": 6833
+            },
+            {
+              "name": "Tirrases",
+              "size": 22032
+            }
+          ]
+        },
+        {
+          "name": "PérezZeledón",
+          "size": 143282,
+          "children": [
+            {
+              "name": "SanIsidrodeElGeneral",
+              "size": 48435
+            },
+            {
+              "name": "ElGeneral",
+              "size": 6873
+            },
+            {
+              "name": "DanielFlores",
+              "size": 35584
+            },
+            {
+              "name": "Rivas",
+              "size": 7318
+            },
+            {
+              "name": "SanPedro",
+              "size": 9344
+            },
+            {
+              "name": "Platanares",
+              "size": 7497
+            },
+            {
+              "name": "Pejibaye",
+              "size": 7972
+            },
+            {
+              "name": "Cajón",
+              "size": 9045
+            },
+            {
+              "name": "Barú",
+              "size": 2854
+            },
+            {
+              "name": "RíoNuevo",
+              "size": 3495
+            },
+            {
+              "name": "Páramo",
+              "size": 4865
+            }
+          ]
+        },
+        {
+          "name": "LeónCortés",
+          "size": 13990,
+          "children": [
+            {
+              "name": "SanPablo",
+              "size": 4663
+            },
+            {
+              "name": "SanAndrés",
+              "size": 1746
+            },
+            {
+              "name": "LlanoBonito",
+              "size": 2269
+            },
+            {
+              "name": "SanIsidro",
+              "size": 1870
+            },
+            {
+              "name": "SantaCruz",
+              "size": 2164
+            },
+            {
+              "name": "SanAntonio",
+              "size": 1278
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alajuela",
+      "size": 1039127,
+      "children": [
+        {
+          "name": "Alajuela",
+          "size": 321872,
+          "children": [
+            {
+              "name": "Alajuela",
+              "size": 48326
+            },
+            {
+              "name": "SanJosé",
+              "size": 52686
+            },
+            {
+              "name": "Carrizal",
+              "size": 9002
+            },
+            {
+              "name": "SanAntonio",
+              "size": 31637
+            },
+            {
+              "name": "Guácima",
+              "size": 26642
+            },
+            {
+              "name": "SanIsidro",
+              "size": 22586
+            },
+            {
+              "name": "Sabanilla",
+              "size": 12396
+            },
+            {
+              "name": "SanRafael",
+              "size": 34182
+            },
+            {
+              "name": "RíoSegundo",
+              "size": 13561
+            },
+            {
+              "name": "Desamparados",
+              "size": 33654
+            },
+            {
+              "name": "Turrúcares",
+              "size": 9349
+            },
+            {
+              "name": "Tambor",
+              "size": 14338
+            },
+            {
+              "name": "Garita",
+              "size": 9492
+            },
+            {
+              "name": "Sarapiquí",
+              "size": 4021
+            }
+          ]
+        },
+        {
+          "name": "SanRamón",
+          "size": 95794,
+          "children": [
+            {
+              "name": "SanRamón",
+              "size": 9107
+            },
+            {
+              "name": "Santiago",
+              "size": 5699
+            },
+            {
+              "name": "SanJuan",
+              "size": 13406
+            },
+            {
+              "name": "PiedadesNorte",
+              "size": 9564
+            },
+            {
+              "name": "PiedadesSur",
+              "size": 4603
+            },
+            {
+              "name": "SanRafael",
+              "size": 10904
+            },
+            {
+              "name": "SanIsidro",
+              "size": 5938
+            },
+            {
+              "name": "Ángeles",
+              "size": 9793
+            },
+            {
+              "name": "Alfaro",
+              "size": 8402
+            },
+            {
+              "name": "Volio",
+              "size": 2727
+            },
+            {
+              "name": "Concepción",
+              "size": 2765
+            },
+            {
+              "name": "Zapotal",
+              "size": 515
+            },
+            {
+              "name": "PeñasBlancas",
+              "size": 12371
+            }
+          ]
+        },
+        {
+          "name": "Grecia",
+          "size": 79672,
+          "children": [
+            {
+              "name": "Grecia",
+              "size": 16146
+            },
+            {
+              "name": "SanIsidro",
+              "size": 7293
+            },
+            {
+              "name": "SanJosé",
+              "size": 10231
+            },
+            {
+              "name": "SanRoque",
+              "size": 13660
+            },
+            {
+              "name": "Tacares",
+              "size": 10050
+            },
+            {
+              "name": "PuentedePiedra",
+              "size": 13274
+            },
+            {
+              "name": "Bolívar",
+              "size": 9018
+            }
+          ]
+        },
+        {
+          "name": "SanMateo",
+          "size": 7276,
+          "children": [
+            {
+              "name": "SanMateo",
+              "size": 3071
+            },
+            {
+              "name": "Desmonte",
+              "size": 1201
+            },
+            {
+              "name": "JesúsMaría",
+              "size": 1517
+            },
+            {
+              "name": "Labrador",
+              "size": 1487
+            }
+          ]
+        },
+        {
+          "name": "Atenas",
+          "size": 29880,
+          "children": [
+            {
+              "name": "Atenas",
+              "size": 8015
+            },
+            {
+              "name": "Jesús",
+              "size": 4396
+            },
+            {
+              "name": "Mercedes",
+              "size": 3832
+            },
+            {
+              "name": "SanIsidro",
+              "size": 3521
+            },
+            {
+              "name": "Concepción",
+              "size": 4261
+            },
+            {
+              "name": "SanJosé",
+              "size": 2326
+            },
+            {
+              "name": "SantaEulalia",
+              "size": 2510
+            },
+            {
+              "name": "Escobal",
+              "size": 1019
+            }
+          ]
+        },
+        {
+          "name": "Naranjo",
+          "size": 49764,
+          "children": [
+            {
+              "name": "Naranjo",
+              "size": 17348
+            },
+            {
+              "name": "SanMiguel",
+              "size": 5782
+            },
+            {
+              "name": "SanJosé",
+              "size": 3666
+            },
+            {
+              "name": "CirríSur",
+              "size": 5533
+            },
+            {
+              "name": "SanJerónimo",
+              "size": 4076
+            },
+            {
+              "name": "SanJuan",
+              "size": 3688
+            },
+            {
+              "name": "ElRosario",
+              "size": 4638
+            },
+            {
+              "name": "Palmitos",
+              "size": 5033
+            }
+          ]
+        },
+        {
+          "name": "Palmares",
+          "size": 41805,
+          "children": [
+            {
+              "name": "Palmares",
+              "size": 3764
+            },
+            {
+              "name": "Zaragoza",
+              "size": 9901
+            },
+            {
+              "name": "BuenosAires",
+              "size": 8931
+            },
+            {
+              "name": "Santiago",
+              "size": 3379
+            },
+            {
+              "name": "Candelaria",
+              "size": 2457
+            },
+            {
+              "name": "Esquipulas",
+              "size": 8435
+            },
+            {
+              "name": "LaGranja",
+              "size": 4938
+            }
+          ]
+        },
+        {
+          "name": "Poás",
+          "size": 34926,
+          "children": [
+            {
+              "name": "SanPedro",
+              "size": 8243
+            },
+            {
+              "name": "SanJuan",
+              "size": 5647
+            },
+            {
+              "name": "SanRafael",
+              "size": 6655
+            },
+            {
+              "name": "Carrillos",
+              "size": 11330
+            },
+            {
+              "name": "SabanaRedonda",
+              "size": 3051
+            }
+          ]
+        },
+        {
+          "name": "Orotina",
+          "size": 24448,
+          "children": [
+            {
+              "name": "Orotina",
+              "size": 10680
+            },
+            {
+              "name": "ElMastate",
+              "size": 2249
+            },
+            {
+              "name": "HaciendaVieja",
+              "size": 1242
+            },
+            {
+              "name": "Coyolar",
+              "size": 7685
+            },
+            {
+              "name": "LaCeiba",
+              "size": 2592
+            }
+          ]
+        },
+        {
+          "name": "SanCarlos",
+          "size": 206115,
+          "children": [
+            {
+              "name": "Quesada",
+              "size": 46127
+            },
+            {
+              "name": "Florencia",
+              "size": 18517
+            },
+            {
+              "name": "Buenavista",
+              "size": 420
+            },
+            {
+              "name": "AguasZarcas",
+              "size": 26305
+            },
+            {
+              "name": "Venecia",
+              "size": 12172
+            },
+            {
+              "name": "Pital",
+              "size": 25359
+            },
+            {
+              "name": "LaFortuna",
+              "size": 19584
+            },
+            {
+              "name": "LaTigra",
+              "size": 7964
+            },
+            {
+              "name": "LaPalmera",
+              "size": 7940
+            },
+            {
+              "name": "Venado",
+              "size": 2173
+            },
+            {
+              "name": "Cutris",
+              "size": 15537
+            },
+            {
+              "name": "Monterrey",
+              "size": 4321
+            },
+            {
+              "name": "Pocosol",
+              "size": 19696
+            }
+          ]
+        },
+        {
+          "name": "Zarcero",
+          "size": 14629,
+          "children": [
+            {
+              "name": "Zarcero",
+              "size": 4397
+            },
+            {
+              "name": "Laguna",
+              "size": 2031
+            },
+            {
+              "name": "Tapesco",
+              "size": 1582
+            },
+            {
+              "name": "Guadalupe",
+              "size": 1427
+            },
+            {
+              "name": "Palmira",
+              "size": 1712
+            },
+            {
+              "name": "Zapote",
+              "size": 944
+            },
+            {
+              "name": "Brisas",
+              "size": 2536
+            }
+          ]
+        },
+        {
+          "name": "Sarchí",
+          "size": 22596,
+          "children": [
+            {
+              "name": "SarchíNorte",
+              "size": 8382
+            },
+            {
+              "name": "SarchíSur",
+              "size": 6539
+            },
+            {
+              "name": "ToroAmarillo",
+              "size": 380
+            },
+            {
+              "name": "SanPedro",
+              "size": 4463
+            },
+            {
+              "name": "Rodríguez",
+              "size": 2832
+            }
+          ]
+        },
+        {
+          "name": "Upala",
+          "size": 55466,
+          "children": [
+            {
+              "name": "Upala",
+              "size": 16850
+            },
+            {
+              "name": "AguasClaras",
+              "size": 5714
+            },
+            {
+              "name": "SanJosé",
+              "size": 8795
+            },
+            {
+              "name": "Bijagua",
+              "size": 5363
+            },
+            {
+              "name": "Delicias",
+              "size": 5479
+            },
+            {
+              "name": "DosRíos",
+              "size": 4017
+            },
+            {
+              "name": "Yolillal",
+              "size": 4129
+            },
+            {
+              "name": "Canalete",
+              "size": 5119
+            }
+          ]
+        },
+        {
+          "name": "LosChiles",
+          "size": 35188,
+          "children": [
+            {
+              "name": "LosChiles",
+              "size": 21714
+            },
+            {
+              "name": "CañoNegro",
+              "size": 2333
+            },
+            {
+              "name": "ElAmparo",
+              "size": 7772
+            },
+            {
+              "name": "SanJorge",
+              "size": 3369
+            }
+          ]
+        },
+        {
+          "name": "Guatuso",
+          "size": 19696,
+          "children": [
+            {
+              "name": "SanRafael",
+              "size": 10117
+            },
+            {
+              "name": "Buenavista",
+              "size": 1990
+            },
+            {
+              "name": "Cote",
+              "size": 1092
+            },
+            {
+              "name": "Katira",
+              "size": 6497
+            }
+          ]
+        },
+        {
+          "name": "RíoCuarto",
+          "size": 0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Cartago",
+      "size": 547691,
+      "children": [
+        {
+          "name": "Cartago",
+          "size": 166204,
+          "children": [
+            {
+              "name": "Oriental",
+              "size": 12310
+            },
+            {
+              "name": "Occidental",
+              "size": 10465
+            },
+            {
+              "name": "Carmen",
+              "size": 19390
+            },
+            {
+              "name": "SanNicolás",
+              "size": 29913
+            },
+            {
+              "name": "Aguacaliente",
+              "size": 36408
+            },
+            {
+              "name": "Guadalupe",
+              "size": 16547
+            },
+            {
+              "name": "Corralillo",
+              "size": 12064
+            },
+            {
+              "name": "TierraBlanca",
+              "size": 5926
+            },
+            {
+              "name": "DulceNombre",
+              "size": 12004
+            },
+            {
+              "name": "LlanoGrande",
+              "size": 5120
+            },
+            {
+              "name": "Quebradilla",
+              "size": 6057
+            }
+          ]
+        },
+        {
+          "name": "Paraíso",
+          "size": 63796,
+          "children": [
+            {
+              "name": "Paraíso",
+              "size": 21561
+            },
+            {
+              "name": "Santiago",
+              "size": 6493
+            },
+            {
+              "name": "Orosi",
+              "size": 10208
+            },
+            {
+              "name": "Cachí",
+              "size": 5944
+            },
+            {
+              "name": "LlanosdeSantaLucía",
+              "size": 19590
+            }
+          ]
+        },
+        {
+          "name": "LaUnión",
+          "size": 114615,
+          "children": [
+            {
+              "name": "TresRíos",
+              "size": 9298
+            },
+            {
+              "name": "SanDiego",
+              "size": 25354
+            },
+            {
+              "name": "SanJuan",
+              "size": 15752
+            },
+            {
+              "name": "SanRafael",
+              "size": 16277
+            },
+            {
+              "name": "Concepción",
+              "size": 19259
+            },
+            {
+              "name": "DulceNombre",
+              "size": 9289
+            },
+            {
+              "name": "SanRamón",
+              "size": 4526
+            },
+            {
+              "name": "RíoAzul",
+              "size": 14860
+            }
+          ]
+        },
+        {
+          "name": "Jiménez",
+          "size": 16361,
+          "children": [
+            {
+              "name": "JuanViñas",
+              "size": 7095
+            },
+            {
+              "name": "Tucurrique",
+              "size": 5601
+            },
+            {
+              "name": "Pejibaye",
+              "size": 3665
+            }
+          ]
+        },
+        {
+          "name": "Turrialba",
+          "size": 73546,
+          "children": [
+            {
+              "name": "Turrialba",
+              "size": 27039
+            },
+            {
+              "name": "LaSuiza",
+              "size": 7939
+            },
+            {
+              "name": "Peralta",
+              "size": 621
+            },
+            {
+              "name": "SantaCruz",
+              "size": 3804
+            },
+            {
+              "name": "SantaTeresita",
+              "size": 5402
+            },
+            {
+              "name": "Pavones",
+              "size": 4628
+            },
+            {
+              "name": "Tuis",
+              "size": 2950
+            },
+            {
+              "name": "Tayutic",
+              "size": 2506
+            },
+            {
+              "name": "SantaRosa",
+              "size": 5747
+            },
+            {
+              "name": "TresEquis",
+              "size": 1964
+            },
+            {
+              "name": "LaIsabel",
+              "size": 6362
+            },
+            {
+              "name": "Chirripó",
+              "size": 4584
+            }
+          ]
+        },
+        {
+          "name": "Alvarado",
+          "size": 15615,
+          "children": [
+            {
+              "name": "Pacayas",
+              "size": 5989
+            },
+            {
+              "name": "Cervantes",
+              "size": 6916
+            },
+            {
+              "name": "Capellades",
+              "size": 2710
+            }
+          ]
+        },
+        {
+          "name": "Oreamuno",
+          "size": 50595,
+          "children": [
+            {
+              "name": "SanRafael",
+              "size": 29275
+            },
+            {
+              "name": "Cot",
+              "size": 11360
+            },
+            {
+              "name": "PotreroCerrado",
+              "size": 2705
+            },
+            {
+              "name": "Cipreses",
+              "size": 4234
+            },
+            {
+              "name": "SantaRosa",
+              "size": 3021
+            }
+          ]
+        },
+        {
+          "name": "ElGuarco",
+          "size": 46959,
+          "children": [
+            {
+              "name": "ElTejar",
+              "size": 27037
+            },
+            {
+              "name": "SanIsidro",
+              "size": 11632
+            },
+            {
+              "name": "Tobosi",
+              "size": 7834
+            },
+            {
+              "name": "PatiodeAgua",
+              "size": 456
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heredia",
+      "size": 539598,
+      "children": [
+        {
+          "name": "Heredia",
+          "size": 146020,
+          "children": [
+            {
+              "name": "Heredia",
+              "size": 18988
+            },
+            {
+              "name": "Mercedes",
+              "size": 30276
+            },
+            {
+              "name": "SanFrancisco",
+              "size": 60166
+            },
+            {
+              "name": "Ulloa",
+              "size": 35618
+            },
+            {
+              "name": "Varablanca",
+              "size": 972
+            }
+          ]
+        },
+        {
+          "name": "Barva",
+          "size": 48190,
+          "children": [
+            {
+              "name": "Barva",
+              "size": 5099
+            },
+            {
+              "name": "SanPedro",
+              "size": 12026
+            },
+            {
+              "name": "SanPablo",
+              "size": 10105
+            },
+            {
+              "name": "SanRoque",
+              "size": 5507
+            },
+            {
+              "name": "SantaLucía",
+              "size": 8524
+            },
+            {
+              "name": "SanJosédelaMontaña",
+              "size": 6929
+            }
+          ]
+        },
+        {
+          "name": "SantoDomingo",
+          "size": 49835,
+          "children": [
+            {
+              "name": "SantoDomingo",
+              "size": 5050
+            },
+            {
+              "name": "SanVicente",
+              "size": 8072
+            },
+            {
+              "name": "SanMiguel",
+              "size": 7988
+            },
+            {
+              "name": "Paracito",
+              "size": 2832
+            },
+            {
+              "name": "SantoTomás",
+              "size": 7953
+            },
+            {
+              "name": "SantaRosa",
+              "size": 9264
+            },
+            {
+              "name": "Tures",
+              "size": 4477
+            },
+            {
+              "name": "Pará",
+              "size": 4199
+            }
+          ]
+        },
+        {
+          "name": "SantaBárbara",
+          "size": 43878,
+          "children": [
+            {
+              "name": "SantaBárbara",
+              "size": 6394
+            },
+            {
+              "name": "SanPedro",
+              "size": 7016
+            },
+            {
+              "name": "SanJuan",
+              "size": 9308
+            },
+            {
+              "name": "Jesús",
+              "size": 11842
+            },
+            {
+              "name": "SantoDomingo",
+              "size": 3699
+            },
+            {
+              "name": "Purabá",
+              "size": 5619
+            }
+          ]
+        },
+        {
+          "name": "SanRafael",
+          "size": 56560,
+          "children": [
+            {
+              "name": "SanRafael",
+              "size": 10787
+            },
+            {
+              "name": "SanJosecito",
+              "size": 14331
+            },
+            {
+              "name": "Santiago",
+              "size": 10534
+            },
+            {
+              "name": "Ángeles",
+              "size": 13017
+            },
+            {
+              "name": "Concepción",
+              "size": 7891
+            }
+          ]
+        },
+        {
+          "name": "SanIsidro",
+          "size": 23655,
+          "children": [
+            {
+              "name": "SanIsidro",
+              "size": 6413
+            },
+            {
+              "name": "SanJosé",
+              "size": 8895
+            },
+            {
+              "name": "Concepción",
+              "size": 3115
+            },
+            {
+              "name": "SanFrancisco",
+              "size": 5232
+            }
+          ]
+        },
+        {
+          "name": "Belén",
+          "size": 26853,
+          "children": [
+            {
+              "name": "SanAntonio",
+              "size": 11625
+            },
+            {
+              "name": "LaRibera",
+              "size": 7753
+            },
+            {
+              "name": "LaAsunción",
+              "size": 7475
+            }
+          ]
+        },
+        {
+          "name": "Flores",
+          "size": 25401,
+          "children": [
+            {
+              "name": "SanJoaquín",
+              "size": 8341
+            },
+            {
+              "name": "Barrantes",
+              "size": 5340
+            },
+            {
+              "name": "Llorente",
+              "size": 11720
+            }
+          ]
+        },
+        {
+          "name": "SanPablo",
+          "size": 31519,
+          "children": [
+            {
+              "name": "SanPablo",
+              "size": 21485
+            },
+            {
+              "name": "RincóndeSabanilla",
+              "size": 10034
+            }
+          ]
+        },
+        {
+          "name": "Sarapiquí",
+          "size": 87687,
+          "children": [
+            {
+              "name": "PuertoViejo",
+              "size": 31580
+            },
+            {
+              "name": "LaVirgen",
+              "size": 16493
+            },
+            {
+              "name": "LasHorquetas",
+              "size": 35957
+            },
+            {
+              "name": "LlanurasdelGaspar",
+              "size": 2059
+            },
+            {
+              "name": "Cureña",
+              "size": 1598
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Guanacaste",
+      "size": 404774,
+      "children": [
+        {
+          "name": "Liberia",
+          "size": 79610,
+          "children": [
+            {
+              "name": "Liberia",
+              "size": 67132
+            },
+            {
+              "name": "CañasDulces",
+              "size": 4075
+            },
+            {
+              "name": "Mayorga",
+              "size": 2032
+            },
+            {
+              "name": "Nacascolo",
+              "size": 3129
+            },
+            {
+              "name": "Curubandé",
+              "size": 3242
+            }
+          ]
+        },
+        {
+          "name": "Nicoya",
+          "size": 57624,
+          "children": [
+            {
+              "name": "Nicoya",
+              "size": 27131
+            },
+            {
+              "name": "Mansión",
+              "size": 5772
+            },
+            {
+              "name": "SanAntonio",
+              "size": 7148
+            },
+            {
+              "name": "QuebradaHonda",
+              "size": 2591
+            },
+            {
+              "name": "Sámara",
+              "size": 4685
+            },
+            {
+              "name": "Nosara",
+              "size": 7213
+            },
+            {
+              "name": "BeléndeNosarita",
+              "size": 3084
+            }
+          ]
+        },
+        {
+          "name": "SantaCruz",
+          "size": 71284,
+          "children": [
+            {
+              "name": "SantaCruz",
+              "size": 28008
+            },
+            {
+              "name": "Bolsón",
+              "size": 2182
+            },
+            {
+              "name": "VeintisietedeAbril",
+              "size": 9302
+            },
+            {
+              "name": "Tempate",
+              "size": 6467
+            },
+            {
+              "name": "Cartagena",
+              "size": 5147
+            },
+            {
+              "name": "Cuajiniquil",
+              "size": 2678
+            },
+            {
+              "name": "Diriá",
+              "size": 4983
+            },
+            {
+              "name": "CaboVelas",
+              "size": 4381
+            },
+            {
+              "name": "Tamarindo",
+              "size": 8136
+            }
+          ]
+        },
+        {
+          "name": "Bagaces",
+          "size": 24847,
+          "children": [
+            {
+              "name": "Bagaces",
+              "size": 16462
+            },
+            {
+              "name": "LaFortuna",
+              "size": 3112
+            },
+            {
+              "name": "Mogote",
+              "size": 4079
+            },
+            {
+              "name": "RíoNaranjo",
+              "size": 1194
+            }
+          ]
+        },
+        {
+          "name": "Carrillo",
+          "size": 47756,
+          "children": [
+            {
+              "name": "Filadelfia",
+              "size": 8967
+            },
+            {
+              "name": "Palmira",
+              "size": 6910
+            },
+            {
+              "name": "Sardinal",
+              "size": 20094
+            },
+            {
+              "name": "Belén",
+              "size": 11785
+            }
+          ]
+        },
+        {
+          "name": "Cañas",
+          "size": 33393,
+          "children": [
+            {
+              "name": "Cañas",
+              "size": 26577
+            },
+            {
+              "name": "Palmira",
+              "size": 1361
+            },
+            {
+              "name": "SanMiguel",
+              "size": 2076
+            },
+            {
+              "name": "Bebedero",
+              "size": 2582
+            },
+            {
+              "name": "Porozal",
+              "size": 797
+            }
+          ]
+        },
+        {
+          "name": "Abangares",
+          "size": 20282,
+          "children": [
+            {
+              "name": "LasJuntas",
+              "size": 10437
+            },
+            {
+              "name": "Sierra",
+              "size": 2827
+            },
+            {
+              "name": "SanJuan",
+              "size": 1857
+            },
+            {
+              "name": "Colorado",
+              "size": 5161
+            }
+          ]
+        },
+        {
+          "name": "Tilarán",
+          "size": 21984,
+          "children": [
+            {
+              "name": "Tilarán",
+              "size": 9449
+            },
+            {
+              "name": "QuebradaGrande",
+              "size": 3104
+            },
+            {
+              "name": "Tronadora",
+              "size": 2029
+            },
+            {
+              "name": "SantaRosa",
+              "size": 2188
+            },
+            {
+              "name": "Líbano",
+              "size": 958
+            },
+            {
+              "name": "TierrasMorenas",
+              "size": 1545
+            },
+            {
+              "name": "Arenal",
+              "size": 2711
+            }
+          ]
+        },
+        {
+          "name": "Nandayure",
+          "size": 11838,
+          "children": [
+            {
+              "name": "Carmona",
+              "size": 2663
+            },
+            {
+              "name": "SantaRita",
+              "size": 1480
+            },
+            {
+              "name": "Zapotal",
+              "size": 1263
+            },
+            {
+              "name": "SanPablo",
+              "size": 2362
+            },
+            {
+              "name": "Porvenir",
+              "size": 759
+            },
+            {
+              "name": "Bejuco",
+              "size": 3311
+            }
+          ]
+        },
+        {
+          "name": "LaCruz",
+          "size": 28071,
+          "children": [
+            {
+              "name": "LaCruz",
+              "size": 13204
+            },
+            {
+              "name": "SantaCecilia",
+              "size": 9191
+            },
+            {
+              "name": "LaGarita",
+              "size": 2665
+            },
+            {
+              "name": "SantaElena",
+              "size": 3011
+            }
+          ]
+        },
+        {
+          "name": "Hojancha",
+          "size": 8085,
+          "children": [
+            {
+              "name": "Hojancha",
+              "size": 4707
+            },
+            {
+              "name": "MonteRomo",
+              "size": 724
+            },
+            {
+              "name": "PuertoCarrillo",
+              "size": 1893
+            },
+            {
+              "name": "Huacas",
+              "size": 761
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Puntarenas",
+      "size": 510566,
+      "children": [
+        {
+          "name": "Puntarenas",
+          "size": 143875,
+          "children": [
+            {
+              "name": "Puntarenas",
+              "size": 10342
+            },
+            {
+              "name": "Pitahaya",
+              "size": 2755
+            },
+            {
+              "name": "Chomes",
+              "size": 6645
+            },
+            {
+              "name": "Lepanto",
+              "size": 10444
+            },
+            {
+              "name": "Paquera",
+              "size": 8410
+            },
+            {
+              "name": "Manzanillo",
+              "size": 3459
+            },
+            {
+              "name": "Guacimal",
+              "size": 1173
+            },
+            {
+              "name": "Barranca",
+              "size": 39426
+            },
+            {
+              "name": "MonteVerde",
+              "size": 4943
+            },
+            {
+              "name": "Cóbano",
+              "size": 9736
+            },
+            {
+              "name": "Chacarita",
+              "size": 21244
+            },
+            {
+              "name": "Chira",
+              "size": 1714
+            },
+            {
+              "name": "Acapulco",
+              "size": 1560
+            },
+            {
+              "name": "ElRoble",
+              "size": 21240
+            },
+            {
+              "name": "Arancibia",
+              "size": 784
+            }
+          ]
+        },
+        {
+          "name": "Esparza",
+          "size": 39244,
+          "children": [
+            {
+              "name": "EspírituSanto",
+              "size": 22181
+            },
+            {
+              "name": "SanJuanGrande",
+              "size": 8915
+            },
+            {
+              "name": "Macacona",
+              "size": 5482
+            },
+            {
+              "name": "SanRafael",
+              "size": 1725
+            },
+            {
+              "name": "SanJerónimo",
+              "size": 941
+            }
+          ]
+        },
+        {
+          "name": "BuenosAires",
+          "size": 54782,
+          "children": [
+            {
+              "name": "BuenosAires",
+              "size": 29454
+            },
+            {
+              "name": "Volcán",
+              "size": 3690
+            },
+            {
+              "name": "PotreroGrande",
+              "size": 6494
+            },
+            {
+              "name": "Boruca",
+              "size": 3289
+            },
+            {
+              "name": "Pilas",
+              "size": 1749
+            },
+            {
+              "name": "Colinas",
+              "size": 1391
+            },
+            {
+              "name": "Chánguena",
+              "size": 2929
+            },
+            {
+              "name": "Biolley",
+              "size": 2589
+            },
+            {
+              "name": "Brunka",
+              "size": 3197
+            }
+          ]
+        },
+        {
+          "name": "MontesdeOro",
+          "size": 14587,
+          "children": [
+            {
+              "name": "Miramar",
+              "size": 9027
+            },
+            {
+              "name": "LaUnión",
+              "size": 1513
+            },
+            {
+              "name": "SanIsidro",
+              "size": 4047
+            }
+          ]
+        },
+        {
+          "name": "Osa",
+          "size": 31383,
+          "children": [
+            {
+              "name": "PuertoCortés",
+              "size": 8844
+            },
+            {
+              "name": "Palmar",
+              "size": 9716
+            },
+            {
+              "name": "Sierpe",
+              "size": 3645
+            },
+            {
+              "name": "BahíaBallena",
+              "size": 3487
+            },
+            {
+              "name": "PiedrasBlancas",
+              "size": 4529
+            },
+            {
+              "name": "BahíaDrake",
+              "size": 1162
+            }
+          ]
+        },
+        {
+          "name": "Quepos",
+          "size": 34020,
+          "children": [
+            {
+              "name": "Quepos",
+              "size": 25665
+            },
+            {
+              "name": "Savegre",
+              "size": 4116
+            },
+            {
+              "name": "Naranjito",
+              "size": 4239
+            }
+          ]
+        },
+        {
+          "name": "Golfito",
+          "size": 46523,
+          "children": [
+            {
+              "name": "Golfito",
+              "size": 11867
+            },
+            {
+              "name": "PuertoJiménez",
+              "size": 12836
+            },
+            {
+              "name": "Guaycará",
+              "size": 14120
+            },
+            {
+              "name": "Pavón",
+              "size": 7700
+            }
+          ]
+        },
+        {
+          "name": "CotoBrus",
+          "size": 44280,
+          "children": [
+            {
+              "name": "SanVito",
+              "size": 16629
+            },
+            {
+              "name": "Sabalito",
+              "size": 13202
+            },
+            {
+              "name": "Aguabuena",
+              "size": 7050
+            },
+            {
+              "name": "Limoncito",
+              "size": 4152
+            },
+            {
+              "name": "Pittier",
+              "size": 3247
+            }
+          ]
+        },
+        {
+          "name": "Parrita",
+          "size": 20984,
+          "children": [
+            {
+              "name": "Parrita",
+              "size": 20984
+            }
+          ]
+        },
+        {
+          "name": "Corredores",
+          "size": 53484,
+          "children": [
+            {
+              "name": "Corredor",
+              "size": 20050
+            },
+            {
+              "name": "LaCuesta",
+              "size": 5333
+            },
+            {
+              "name": "Canoas",
+              "size": 15929
+            },
+            {
+              "name": "Laurel",
+              "size": 12172
+            }
+          ]
+        },
+        {
+          "name": "Garabito",
+          "size": 27404,
+          "children": [
+            {
+              "name": "Jacó",
+              "size": 18613
+            },
+            {
+              "name": "Tárcoles",
+              "size": 8791
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Limón",
+      "size": 469797,
+      "children": [
+        {
+          "name": "Limón",
+          "size": 100236,
+          "children": [
+            {
+              "name": "Limón",
+              "size": 60710
+            },
+            {
+              "name": "ValleLaEstrella",
+              "size": 20818
+            },
+            {
+              "name": "RíoBlanco",
+              "size": 10257
+            },
+            {
+              "name": "Matama",
+              "size": 8451
+            }
+          ]
+        },
+        {
+          "name": "Pococí",
+          "size": 154674,
+          "children": [
+            {
+              "name": "Guápiles",
+              "size": 39611
+            },
+            {
+              "name": "Jiménez",
+              "size": 13052
+            },
+            {
+              "name": "Rita",
+              "size": 29241
+            },
+            {
+              "name": "Roxana",
+              "size": 20342
+            },
+            {
+              "name": "Cariari",
+              "size": 40278
+            },
+            {
+              "name": "Colorado",
+              "size": 5040
+            },
+            {
+              "name": "LaColonia",
+              "size": 7110
+            }
+          ]
+        },
+        {
+          "name": "Siquirres",
+          "size": 65673,
+          "children": [
+            {
+              "name": "Siquirres",
+              "size": 34576
+            },
+            {
+              "name": "Pacuarito",
+              "size": 10804
+            },
+            {
+              "name": "Florida",
+              "size": 2656
+            },
+            {
+              "name": "Germania",
+              "size": 3062
+            },
+            {
+              "name": "ElCairo",
+              "size": 7628
+            },
+            {
+              "name": "Alegría",
+              "size": 6947
+            }
+          ]
+        },
+        {
+          "name": "Talamanca",
+          "size": 44802,
+          "children": [
+            {
+              "name": "Bratsi",
+              "size": 10590
+            },
+            {
+              "name": "Sixaola",
+              "size": 11847
+            },
+            {
+              "name": "Cahuita",
+              "size": 13656
+            },
+            {
+              "name": "Telire",
+              "size": 8709
+            }
+          ]
+        },
+        {
+          "name": "Matina",
+          "size": 47391,
+          "children": [
+            {
+              "name": "Matina",
+              "size": 10437
+            },
+            {
+              "name": "Batán",
+              "size": 20814
+            },
+            {
+              "name": "Carrandi",
+              "size": 16140
+            }
+          ]
+        },
+        {
+          "name": "Guácimo",
+          "size": 57021,
+          "children": [
+            {
+              "name": "Guácimo",
+              "size": 26152
+            },
+            {
+              "name": "Mercedes",
+              "size": 2357
+            },
+            {
+              "name": "Pocora",
+              "size": 8494
+            },
+            {
+              "name": "RíoJiménez",
+              "size": 11836
+            },
+            {
+              "name": "Duacarí",
+              "size": 8182
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

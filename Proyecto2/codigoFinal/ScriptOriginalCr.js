@@ -10,7 +10,7 @@ const svg = d3.select("#demo10")
     .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
 
 // Cargar el archivo JSON
-d3.json('data.json').then(function(data) {
+d3.json('dataCr.json').then(function(data) {
     var root = d3.hierarchy(data)
         .sum(function(d) { return d.size; })
         .sort(function(a, b) { return b.value - a.value; });
@@ -52,7 +52,7 @@ d3.json('data.json').then(function(data) {
         .attr("dx", "-100") // radius margin
         .attr("dy", ".5em")
         .style("font-size", function(d) {
-            var fontSize = Math.min((2 * radius * Math.PI) / root.height, 30); // Limit font size to 24px
+            var fontSize = Math.min((2 * radius * Math.PI) / root.height, 30);
             return fontSize + "px";
         })
         .text(function(d) { return d.parent ? d.data.name : ""; });
@@ -62,24 +62,21 @@ d3.json('data.json').then(function(data) {
         return (angle < 180) ? angle - 90 : angle + 90;
     }
 
-// Crear un generador de arco con radios internos y externos específicos
+
 var arcGen = d3.arc()
     .innerRadius(radius)
     .outerRadius(radius * 1.2);
 
-// Agregar el arco exterior al SVG
 svg.append("path")
     .attr("id", "arc")
     .attr("d", arcGen({ startAngle: 0, endAngle: 2 * Math.PI }))
     .style("fill", "lightblue");
-
-// Agregar texto "Costa Rica" en el arco con letras más grandes
 svg.append("text")
     .append("textPath")
     .attr("xlink:href", "#arc")
     .style("text-anchor", "middle")
     .attr("startOffset", "50%")
-    .style("font-size", "75px")  // Tamaño de fuente más grande
+    .style("font-size", "75px")  
     .text("Costa Rica, pob: 5196852");
 
 });

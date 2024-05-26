@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function() {
         .append("g")
         .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
 
-    d3.json("data.json").then(function(input) {
+    d3.json("dataFlare.json").then(function(input) {
         var root = d3.hierarchy(input)
             .sum(function(d) { return d.size; })
             .sort(function(a, b) { return b.value - a.value; });
@@ -55,7 +55,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 return fontSize + "px";
             })
             .style("fill", function(d) { return d.depth === 0 ? "black" : "black"; })
-            .text(function(d) { return d.parent ? d.data.name : "Costa Rica, pob: 5196852"; });
+            .text(function(d) { return d.parent ? d.data.name : "flare classes"; });
 
         function computeTextRotation(d) {
             return 0; // Rotación siempre vertical
