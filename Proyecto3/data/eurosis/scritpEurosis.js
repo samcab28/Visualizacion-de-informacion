@@ -45,12 +45,16 @@ function initializeSimulation() {
       function getNodeColor(node) {
           return node.attributes.color;
       }
+
+      function getNodeSize(node) {
+        return node.attributes.size;
+    }
   
       const nodeElements = svg.append('g')
           .selectAll('circle')
           .data(nodes)
           .enter().append('circle')
-          .attr('r', 10)
+          .attr('r', getNodeSize)
           .attr('fill', getNodeColor)
           .call(dragDrop);
   
@@ -77,6 +81,7 @@ function initializeSimulation() {
                 <h3>Node Information</h3>
                 <p><strong>Label:</strong> ${node.attributes.label}</p>
                 <p><strong>Color:</strong> ${node.attributes.color}</p>
+                <p><strong>Size:</strong> ${node.attributes.size}</p>
                 <p><strong>Country:</strong> ${node.attributes['1']}</p>
                 <p><strong>Info:</strong> ${node.attributes['2']}</p>
                 <p><strong>X:</strong> ${node.x}</p>
