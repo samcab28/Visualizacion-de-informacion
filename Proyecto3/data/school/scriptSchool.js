@@ -1,86 +1,119 @@
-d3.json('school.json').then(data => {
-  // Verifica que los datos existen y tienen la estructura esperada
-  if (!data || !data.nodes) {
-      throw new Error('El archivo JSON no contiene los datos esperados.');
-  }
+let nodes, links;
+let simulation; // Definimos la variable simulation a nivel global
+let numAlphaDecay = 30; //definicion del aphadecay de manera automatica
 
-  // Mapea los nodos
-  const nodes = data.nodes.map(d => ({
-      id: d.key,
-      label: d.attributes.label,
-      size: d.attributes.size,
-      color: d.attributes.color,
-      group: d.attributes['0'], // Asume que '0' es el grupo
-      gender: d.attributes['1'] // Asume que '1' es el género
-  }));
-
-  const width = 960;
-  const height = 600;
-
-  const svg = d3.select("svg")
-      .attr("width", width)
-      .attr("height", height);
-
-  const tooltip = d3.select("#tooltip");
-
-  const simulation = d3.forceSimulation(nodes)
-      .force("charge", d3.forceManyBody().strength(-100))
-      .force("center", d3.forceCenter(width / 2, height / 2))
-      .on("tick", ticked);
-
-  const node = svg.append("g")
-      .attr("stroke", "#fff")
-      .attr("stroke-width", 1.5)
-      .selectAll("circle")
-      .data(nodes)
-      .enter().append("circle")
-      .attr("r", d => d.size)
-      .attr("fill", d => d.color)
-      .call(drag(simulation))
-      .on("mouseover", (event, d) => {
-          tooltip.transition()
-              .duration(200)
-              .style("opacity", .9);
-          tooltip.html(`Label: ${d.label}<br/>Group: ${d.group}<br/>Gender: ${d.gender}`)
-              .style("left", (event.pageX + 5) + "px")
-              .style("top", (event.pageY - 28) + "px");
-      })
-      .on("mouseout", () => {
-          tooltip.transition()
-              .duration(500)
-              .style("opacity", 0);
-      });
-
-  function ticked() {
-      node
-          .attr("cx", d => d.x)
-          .attr("cy", d => d.y);
-  }
-
-  function drag(simulation) {
-      function dragstarted(event) {
-          if (!event.active) simulation.alphaTarget(0.3).restart();
-          event.subject.fx = event.subject.x;
-          event.subject.fy = event.subject.y;
-      }
-
-      function dragged(event) {
-          event.subject.fx = event.x;
-          event.subject.fy = event.y;
-      }
-
-      function dragended(event) {
-          if (!event.active) simulation.alphaTarget(0);
-          event.subject.fx = null;
-          event.subject.fy = null;
-      }
-
-      return d3.drag()
-          .on("start", dragstarted)
-          .on("drag", dragged)
-          .on("end", dragended);
-  }
-
+// Carga de datos de nodos
+d3.json('cleanDataSchool/NodeSchool.json').then(data => {
+    nodes = data;
+    // Asignamos posiciones aleatorias iniciales a los nodos
+    nodes.forEach(node => {
+        node.x = Math.random() * width;
+        node.y = Math.random() * height;
+    });
+    initializeSimulation();
 }).catch(error => {
-  console.error('Error:', error);
+    console.error('Error:', error);
 });
+
+// Carga de datos de enlaces
+d3.json('cleanDataSchool/EdgeSchool.json').then(data => {
+    links = data;
+    initializeSimulation();
+}).catch(error => {
+    console.error('Error:', error);
+});
+
+// Configuración de la ventana
+const width = 800;
+const height = 800;
+const svg = d3.select('svg')
+    .attr('width', width)
+    .attr('height', height)
+    .style('border', '1px solid black'); // Agregar borde negro
+
+// Función de inicialización de la simulación
+function initializeSimulation() {
+    if (!nodes || !links) return;
+
+    const linkElements = svg.append('g')
+        .selectAll('line')
+        .data(links)
+        .enter().append('line')
+        .attr('stroke-width', 1)
+        .attr('stroke', '#E5E5E5');
+
+    function getNodeColor(node) {
+        return node.attributes.color;
+    }
+
+    const nodeElements = svg.append('g')
+        .selectAll('circle')
+        .data(nodes)
+        .enter().append('circle')
+        .attr('r', 10)
+        .attr('fill', getNodeColor)
+        .call(dragDrop);
+
+    const textElements = svg.append('g')
+        .selectAll('text')
+        .data(nodes)
+        .enter().append('text')
+        .text(node => node.attributes.label)
+        .attr('font-size', 15)
+        .attr('dx', 15)
+        .attr('dy', 4);
+
+    simulation = d3.forceSimulation(nodes) // Asignamos la simulación a la variable global
+        .force('link', d3.forceLink(links)
+            .id(link => link.key)
+            .strength(link => link.weight)
+        )
+        .force('charge', d3.forceManyBody().strength(-50)) // Reducir la fuerza de repulsión
+        .force('center', d3.forceCenter(width / 2, height / 2))
+        .force('collision', d3.forceCollide().radius(20)) // Fuerza de colisión para evitar superposición
+        .force('x', d3.forceX().strength(0.1)) // Fuerza de atracción hacia un punto central en X
+        .force('y', d3.forceY().strength(0.1)) // Fuerza de atracción hacia un punto central en Y
+        .alphaDecay(1 - Math.pow(0.001, 1 / numAlphaDecay)); // Ajustar alphaDecay para estabilizar
+
+    simulation
+        .on('tick', () => {
+            nodeElements
+                .attr('cx', node => node.x)
+                .attr('cy', node => node.y);
+
+            textElements
+                .attr('x', node => node.x)
+                .attr('y', node => node.y);
+
+            linkElements
+                .attr('x1', link => link.source.x)
+                .attr('y1', link => link.source.y)
+                .attr('x2', link => link.target.x)
+                .attr('y2', link => link.target.y);
+        });
+}
+
+// Función de arrastrar y soltar
+const dragDrop = d3.drag()
+    .on('start', (event, node) => {
+        if (!event.active) simulation.alphaTarget(0.3).restart();
+        node.fx = node.x;
+        node.fy = node.y;
+    })
+    .on('drag', (event, node) => {
+        node.fx = event.x;
+        node.fy = event.y;
+    })
+    .on('end', (event, node) => {
+        if (!event.active) simulation.alphaTarget(0);
+        node.fx = node.x;
+        node.fy = node.y;
+    });
+
+// Función para actualizar el alphaDecay
+function updateAlphaDecay() {
+    const alphaDecayInput = document.getElementById('alphaDecay').value;
+    numAlphaDecay = alphaDecayInput;
+    simulation.alphaDecay(1 - Math.pow(0.001, 1 / numAlphaDecay));
+    simulation.alpha(1).restart(); // Reiniciar la simulación para aplicar los cambios
+}
