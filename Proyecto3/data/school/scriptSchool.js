@@ -24,8 +24,8 @@ d3.json('cleanDataSchool/EdgeSchool.json').then(data => {
 });
 
 // Configuración de la ventana
-const width = 800;
-const height = 800;
+const width = window.innerWidth * 0.8; 
+const height = window.innerHeight * 0.8; 
 const svg = d3.select('svg')
     .attr('width', width)
     .attr('height', height)
@@ -57,11 +57,33 @@ function initializeSimulation() {
     const textElements = svg.append('g')
         .selectAll('text')
         .data(nodes)
-        .enter().append('text')
         .text(node => node.attributes.label)
         .attr('font-size', 15)
         .attr('dx', 15)
         .attr('dy', 4);
+
+    nodeElements.on('click', (event, node) => {
+            // Restaurar estilos de todos los nodos
+            nodeElements.attr('stroke', 'none').attr('stroke-width', 0);
+        
+            // Resaltar el nodo seleccionado
+            d3.select(event.target)
+                .attr('stroke', 'black')  
+                .attr('stroke-width', 3); 
+        
+            //informacion de los nodos
+            const nodeInfo = document.getElementById('nodeInfo');
+            nodeInfo.innerHTML = `
+                <h3>Node Information</h3>
+                <p><strong>Label:</strong> ${node.attributes.label}</p>
+                <p><strong>Color:</strong> ${node.attributes.color}</p>
+                <p><strong>Country:</strong> ${node.attributes['0']}</p>
+                <p><strong>Ubicacion:</strong> ${node.attributes['1']}</p>
+                <p><strong>X:</strong> ${node.x}</p>
+                <p><strong>Y:</strong> ${node.y}</p>
+            `;
+            nodeInfo.style.display = 'block';
+        });
 
     simulation = d3.forceSimulation(nodes) // Asignamos la simulación a la variable global
         .force('link', d3.forceLink(links)
@@ -75,22 +97,24 @@ function initializeSimulation() {
         .force('y', d3.forceY().strength(0.1)) // Fuerza de atracción hacia un punto central en Y
         .alphaDecay(1 - Math.pow(0.001, 1 / numAlphaDecay)); // Ajustar alphaDecay para estabilizar
 
-    simulation
+        simulation
         .on('tick', () => {
+            // Restringir nodos dentro del recuadro
             nodeElements
-                .attr('cx', node => node.x)
-                .attr('cy', node => node.y);
-
+                .attr('cx', node => node.x = Math.max(0, Math.min(width, node.x)))
+                .attr('cy', node => node.y = Math.max(0, Math.min(height, node.y)));
+    
             textElements
-                .attr('x', node => node.x)
-                .attr('y', node => node.y);
-
+                .attr('x', node => node.x = Math.max(0, Math.min(width, node.x)))
+                .attr('y', node => node.y = Math.max(0, Math.min(height, node.y)));
+    
             linkElements
                 .attr('x1', link => link.source.x)
                 .attr('y1', link => link.source.y)
                 .attr('x2', link => link.target.x)
                 .attr('y2', link => link.target.y);
         });
+    
 }
 
 // Función de arrastrar y soltar
